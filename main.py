@@ -233,4 +233,3 @@ if __name__ == "__main__":
        focus=INDUSTRY_FOCUS,
        repo_url=GITHUB_REPO_URL
    )
-
