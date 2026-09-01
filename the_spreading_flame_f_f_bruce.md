@@ -1,7 +1,7 @@
 ---
 title: "The Spreading Flame"
 author: "F. F. Bruce"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,30 @@ aliases:
 **Author:** [[F. F. Bruce]]
 
 ## 1. Cleaned Document Text
-The document, excerpted from F. F. Bruce's 'The Spreading Flame', examines the lives and theological contributions of significant church figures such as Jerome, Augustine, Pelagius, and Leo the Great. It explores the transition of Christianity, the development of doctrines like divine grace versus human responsibility, the influence of political figures on church authority, and the historical debates regarding the nature of salvation, original sin, and the emergence of church hierarchy.
+The provided document is an excerpt from a book detailing the history of Christianity. It focuses on the contributions of key figures in the early church, particularly Jerome, Augustine, Pelagius, and Leo the Great. The text covers topics such as Jerome's translation of the Bible (the Vulgate), Augustine's theology on grace and the City of God, the conflict with Pelagianism, and the development of the Roman Church's authority, including the early development of papal claims through figures like Leo the Great.
+
+## 2. Quantitative Metric Tables
+### Table 1
+```csv
+In the Same Series;Title;Author,Vol. II;The Growing Storm;G. S. M. Walker,Vol. III;The Morning Star;G. H. W. Parker,Vol. IV;The Great Light;James Atkinson,Vol. VI;Light in the North;J. D. Douglas,Vol. VII;The Inextinguishable Blaze;A. Skevington Wood,Vol. VIII;The Light of the Nations;Ellam Orr
+```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Divine Grace vs. Human Responsibility
-An exploration of the core conflict between Augustine's doctrine of divine grace as an unearned gift and Pelagius's emphasis on human moral choice and the individual's ability to act righteously.
+### Theme: Biblical Translation
+The evolution of the Latin Bible, specifically the shift from older, inconsistent translations to Jerome's Vulgate, which sought to address original texts and linguistic accuracy.
 
-### Theme: The Role of Church Authority
-Historical analysis of how the Roman church's prestige, reinforced by political recognition and theological claims based on apostolic succession (e.g., Leo the Great), consolidated ecclesiastical power.
+### Theme: Grace and Human Nature
+The theological debate between Augustine and Pelagius regarding the nature of salvation, the necessity of divine grace, and the doctrine of original sin.
 
-### Theme: Translation and Scriptural Interpretation
-The challenges and motivations behind Jerome's translation of the Bible into the 'Vulgate' and the subsequent conflicts regarding scriptural authority and original languages.
+### Theme: Ecclesiastical Authority
+The historical development of the Roman Church's structure and the assertion of supremacy by the Bishop of Rome, particularly under Leo the Great, using arguments of apostolic succession.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "No survey of the great Christians of this period would be complete without a reference to Jerome, although his work did not bring him into contact with public affairs as some of the others were brought."
-*Context Source: Page 3*
+> "Jerome, a native of Dalmatia, was educated at Rome, and spent much of his life in the east, where he improved his knowledge of Greek and seized the opportunity to learn Hebrew."
+*Context Source: Page 333*
 
-> "Augustine’s development of the doctrine of grace, however, was not only bound up with his own spiritual experience but also with his reaction to the teaching of Pelagius."
-*Context Source: Page 4*
+> "Augustine's development of the doctrine of grace, however, was not only bound up with his own spiritual experience but also with his reaction to the teaching of Pelagius."
+*Context Source: Page 335*
 
-> "Leo sought a theological foundation for this precedence and found it in the words of our Lord to Peter, recorded in Matthew 16:18f., 'You are Peter, and on this rock I will build my church...'"
-*Context Source: Page 7*
+> "The council of Chalcedon in 451 and gave the Roman bishop the title of princeps episcopalis coronae, 'chief wearer of the episcopal crown.'"
+*Context Source: Page 341*

@@ -1,7 +1,7 @@
 ---
 title: "His Obedience and Ours: Hebrews 10:1-39"
 author: "Paul F. Perry"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,26 +14,32 @@ aliases:
 **Author:** [[Paul F. Perry]]
 
 ## 1. Cleaned Document Text
-The document provides a study guide on Hebrews 10:1-39. Page 1 outlines the structural symmetry of the passage, focusing on the adequacy of Christ's sacrifice versus the inadequacy of the law. It includes a table comparing the objective and subjective aspects of salvation, characterized by themes of summarizing, clarifying, and developing concepts. Page 2 moves into the exhortation section (Hebrews 10:19-25), emphasizing three key verbs: draw near, hold fast, and encourage. It highlights the transition from theology to application, urging readers to respond to the finished theological work of Christ.
+This document outlines a Bible study on Hebrews 10:1-39, focusing on the concepts of Christ's sacrifice, the adequacy of his priesthood, and the subsequent application for believers. The text features a structural analysis of Hebrews 10:1-18, contrasting objective and subjective aspects of salvation, alongside an exhortation section in 10:19-25 centered on three key verbs: draw near, hold, and consider. It includes group activities designed to engage participants with the theological arguments and practical implications of the passage.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Character / Benefits of salvation,Summarized,Clarified / Developed and Explained
+Character / Benefits,Summarized,Clarified / Developed and Explained
 Objective,9:11-12,9:15-28
 Subjective,9:13-14,10:1-18
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Christological Adequacy
-The author argues that the single sacrifice of Christ is sufficient, contrasting it with the inherent inadequacy of repeated legal sacrifices.
+### Theme: Christ's One Sacrifice
+The theological assertion that the old priestly system and its repeated sacrifices were inadequate compared to the singular, effective sacrifice of Christ.
 
 ### Theme: Theological Application
-The study moves from the objective truths of Christ's priesthood to the subjective response required of the believer, encapsulated by the verbs: draw near, hold fast, and encourage.
+The movement from understanding the theological core of Hebrews to applying it through specific actions like drawing near to God and holding fast to faith.
+
+### Theme: Exhortation
+The practical response required of the believer based on the finished work of Christ, emphasizing communal encouragement and perseverance.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "The inadequacy of the old priesthood and sacrifices - and the adequacy of Christ and His sacrifice are brought before the audience again."
-*Context Source: Page 1, Introduction to Hebrews 10:1-39*
+*Context Source: Page 1, Introduction*
 
-> "This exhortation section (10:19-25) is based on three key verbs: 1) Draw Near, 2) Hold, 3) Consider (Heary), 4) Encourage"
-*Context Source: Page 2, Exhortation section*
+> "This exhortation section (10:19-25) is based on three key verbs: 1) Draw Near, 2) Hold, 3) Consider (Heary)."
+*Context Source: Page 2, Theology and Application*
+
+> "We are enabled to hold fast like this because of God's faithfulness to His promises (Heb 11.1)."
+*Context Source: Page 2, Notes*

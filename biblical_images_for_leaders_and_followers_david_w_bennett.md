@@ -1,7 +1,7 @@
 ---
 title: "Biblical Images for Leaders and Followers"
 author: "David W. Bennett"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,33 +14,34 @@ aliases:
 **Author:** [[David W. Bennett]]
 
 ## 1. Cleaned Document Text
-The text explores biblical metaphors for leadership and following within the early church. Key concepts include 'doulos' (servant), 'oikonomos' (steward/manager), 'diakonos' (servant/minister), 'apostolos' (apostle), and 'poimen' (shepherd). Bennett argues that these terms emphasize relationship over mere task completion, defining leadership as a form of service under the authority of Christ. The document also details the societal context of slavery and service in the Roman empire to contextualize how early Christians understood their role as 'servants' of God.
+The text explores biblical metaphors used to describe leadership and followership in the early church. It examines terms such as servant, steward, assistant, apostle, and shepherd, clarifying their cultural context in the first-century world and their theological implications for contemporary leadership. The document highlights how these roles are often intertwined with service, accountability, and divine commission, moving beyond simple hierarchical structures.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Category,Term,Definition,1.2.1,Task executed under the authority of another,.,1.2.1.1,Relationship words,.,1.2.1.1.1,doulos,Servant,1.2.1.1.2,syndoulos,Fellow-servant,1.2.1.1.3,misthios,Hired servant,1.2.1.1.4,pais,Low status servant,1.2.1.1.5,paidiske,Maidservant,1.2.1.2,Function words,.,1.2.1.2.1,therapeia,Personal helper,1.2.1.2.2,hyperetes,Assistant for tasks,1.2.1.2.3,diakonos,Server for meals,1.2.1.2.4,oikonomos,Manager,1.2.1.2.5,latreuo,One who serves God,1.2.1.2.6,leitourgos,One who renders public service,1.2.1.2.7,paidagogos,Guardian,1.2.1.2,poimen,Shepherd
+Taxonomy Section,Description,Sub-category
+1.2.1,Task executed under the authority of another,1.2.1.1 Relationship words
+1.2.1.1.1,Servant (syndoulos/doulos),1.2.1.1.1.1 Slave servant; 1.2.1.1.1.2 Maidservant (paidiske); 1.2.1.1.1.3 Hired servant (misthios)
+1.2.1.2,Function words,1.2.1.2.1 Personal helper (therapeia); 1.2.1.2.2 Assistant for tasks (hyperetes); 1.2.1.2.3 Server for meals (diakonos); 1.2.1.2.4 Manager (oikonomos); 1.2.1.2.5 One who serves God (latreuo); 1.2.1.2.6 One who renders public service (leitourgos); 1.2.1.2.7 Guardian (paidagogos)
+1.2.1.2,Shepherd,1.2.1.2 (poimen/poimaino)
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Servanthood
-Leadership in a biblical sense is defined by a relationship of service, where the leader acts as a steward under the ultimate authority of God rather than exercising autonomous power.
+### Theme: Servanthood as Leadership
+The text argues that leadership in the early church was fundamentally defined by servanthood, where leaders are primarily servants of God and fellow believers, rather than holders of secular power.
 
-### Theme: Stewardship
-The 'oikonomos' concept implies that leadership is a responsibility of managing God's household with faithfulness, accountability, and the requirement of being found blameless.
+### Theme: Accountability and Stewardship
+The metaphor of the 'oikonomos' (steward) emphasizes that church leaders act on behalf of the Master (God) and are therefore accountable to Him for the management of 'secret things' or resources entrusted to them.
 
-### Theme: Relational vs. Task-oriented
-Biblical imagery often balances the demand of the task with the relational intimacy of being 'with Him' (Christ), emphasizing that followers are disciples first.
+### Theme: Task-Oriented Ministry
+Several images, such as 'worker' (ergates) and 'apostle' (apostolos), ground ministry in specific tasks and missions assigned by God, rather than focusing on personal status or ambition.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "In the previous three chapters we have examined terms and images based on people—family members, citizens, freedmen, priests, friends, patrons, and so on—where the emphasis is on the relationships that link followers of Jesus to the Lord and to one another."
 *Context Source: Page 119*
 
-> "The most general word for servant or slave is doulos, with the related words syndoulos (fellow-servant), douleuo (to serve) and douloo (to make someone a slave)."
+> "The most general word for servant or slave is doulos, with the related words syndoulos (fellow-servant), douleuo (to serve) and douloo (to make someone a slave). The word group has a strong emphasis on being under the authority of another—most often, the authority of God."
 *Context Source: Page 119*
-
-> "Thus, the term doulos was also applied figuratively to the whole community of believers, no matter what their status."
-*Context Source: Page 120*
 
 > "The image of the soldier implies a life of discipline, struggle, and hardship. It implies strict accountability to one's superior."
 *Context Source: Page 137*

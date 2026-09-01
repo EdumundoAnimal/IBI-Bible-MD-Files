@@ -1,7 +1,7 @@
 ---
 title: "Figures of Speech Used in the Bible"
 author: "E. W. Bullinger"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,18 +14,24 @@ aliases:
 **Author:** [[E. W. Bullinger]]
 
 ## 1. Cleaned Document Text
-The document provides an introductory overview of figures of speech in the Bible, followed by a technical discussion of specific rhetorical structures. It details the nature of 'INTERPOSITIO' (interposition) and explains 'PARENTHESIS' as a form of parenthetic addition. Bullinger provides biblical examples, specifically citing Hebrews 2:9 regarding Christ being made 'a little lower than the angels' and 2 Peter 1:19 concerning the 'more sure word of prophecy,' to illustrate how these grammatical constructions function to clarify meaning in scripture.
+The text serves as an introduction to the study of figures of speech in biblical texts, defining them as linguistic patterns that add force, life, and meaning to communication. It traces the origin of the term 'figure' from the Greek 'Schema' and Latin 'Figura'. The third page specifically analyzes the Synecdoche of the Part, examining how anatomical parts represent the whole person or specific aspects of their condition or action in various scriptural contexts.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Linguistic Exegesis
-The systematic application of grammatical and rhetorical analysis to biblical texts to ensure accurate interpretation of the original intended meaning.
+### Theme: Linguistic Methodology
+Bullinger argues that biblical language is governed by laws of expression and that understanding these figures is essential for accurate interpretation of the divine message.
 
-### Theme: Biblical Rhetorical Figures
-The study of specific devices such as 'Parenthesis' and 'Interpositio' used in scripture to insert explanatory clauses that, while grammatically independent, contribute essential context.
+### Theme: Synecdoche of the Part
+The analytical practice of interpreting physical parts mentioned in the Bible (like the face, eye, or mouth) as representations of the whole person, their emotions, or their presence.
+
+### Theme: Historical/Philological Context
+The author contextualizes the study of rhetoric by tracing the decline of the classical understanding of linguistic schemas in the Middle Ages and seeking to revive it for modern biblical scholarship.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "The figure is used when a word or sentence is inserted which is necessary to explain the context."
-*Context Source: Page 3*
+> "All language is governed by law; but, in order to increase the power of a word, or the force of an expression, these laws are designedly departed from, and words and sentences are thrown into, and used in, new forms, or figures."
+*Context Source: Page 2, Introduction*
 
-> "A true Parenthesis is not complete without the context."
-*Context Source: Page 3*
+> "The Face is put for the whole man, especially marking and emphasizing his presence."
+*Context Source: Page 3, Section 14*
+
+> "The Eye is put for the man himself, in respect to his vision, mental or physical."
+*Context Source: Page 3, Section 15*

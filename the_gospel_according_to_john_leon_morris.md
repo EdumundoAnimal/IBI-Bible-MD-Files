@@ -1,7 +1,7 @@
 ---
 title: "The Gospel According to John"
 author: "Leon Morris"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,30 +14,30 @@ aliases:
 **Author:** [[Leon Morris]]
 
 ## 1. Cleaned Document Text
-This document is a scholarly commentary on John 15, specifically focusing on verses 1-21. It provides an exposition of the text, exploring the theological themes of the vine, the nature of Christian discipleship, the importance of mutual love, and the inevitability of persecution for followers of Christ. The commentary balances theological analysis with linguistic insights into the original Greek text.
+The text is an exegetical commentary on John 15:1-16, commonly referred to as 'The True Vine.' It explores the theological significance of the vine metaphor, focusing on the concepts of abiding in Christ, the necessity of pruning/cleansing, the relationship between obedience and love, and the divine appointment of the disciples. It emphasizes that human spiritual achievement is impossible apart from Christ and that abiding is the prerequisite for bearing fruit. The commentary also discusses the shift from the status of 'servant' to 'friend' within the context of the apostolic community.
 
 ## 3. Thematic Analysis Matrices
-### Theme: The Vine and the Branches
-Christ identifies himself as the true vine, with God as the vinedresser. This illustrates the necessity of remaining in Him for spiritual vitality and fruitfulness, emphasizing a vital, living connection.
+### Theme: The Theology of Abiding
+Abiding is presented as the essential state of the believer in relation to Christ. It is not a suggestion but a necessary condition for fruitfulness; apart from Christ, the believer is helpless.
 
-### Theme: Christian Discipleship
-Discipleship is characterized by active obedience and a dynamic relationship with Christ. It is not static, but grows and evolves as the believer continues in Christ's love.
+### Theme: Pruning and Fruitfulness
+The commentary explains that God's work of 'cleansing' or pruning is a necessary process to ensure maximum productivity. It is portrayed as an active, ongoing effort rather than a one-time event.
 
-### Theme: Mutual Love
-Jesus commands his followers to love one another as he has loved them. This sacrificial love is a central hallmark of the believer's life and acts as a demonstration of their obedience to Christ.
+### Theme: Servant vs. Friend
+The text analyzes the transition in the disciples' relationship with Jesus, where they are no longer treated as subordinates ('servants') but as 'friends' who are privy to the Father's revelations, predicated on obedience.
 
-### Theme: Persecution
-The author notes that because the world hated Christ, it will inevitably hate those who are identified with Him, leading to opposition as a feature of the Christian life.
+### Theme: The Nature of Divine Love
+Love is framed as being inseparable from obedience to Christ's commandments, modeling the love Jesus holds for his disciples after the love the Father holds for him.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "I am the true vine, and my Father is the husbandman."
-*Context Source: Chapter XV, 3. The True Vine, 15: 1-16*
+> "I am the true vine, and my Father is the husbandman. Every branch in me that beareth not fruit, he taketh it away; and every branch that beareth fruit, he cleaneth it, that it may bear more fruit."
+*Context Source: Chapter XV, The True Vine, 15:1-2*
 
-> "Abide in me, and I will abide in you. But it is perhaps more probable that it is a continuation of the command to the disciples. 'Abide in me, and see that I abide in you.'"
-*Context Source: Chapter XV, 15: 1-16, Analysis of verse 4*
+> "The allegory of the 'true vine' brings before us the importance of fruitfulness in the Christian life and the truth that this is the result, not of human achievement, but of abiding in Christ."
+*Context Source: Page 4, commentary on 15:1-16*
 
-> "This is my commandment, that ye love one another, as I have loved you."
-*Context Source: Chapter XV, 15: 12-13*
+> "Abiding in Christ is the necessary prerequisite of fruitfulness for the Christian. 'Abbot'—except a man be set over against each other (the emphatic pronouns are used). The roles of Christ and his followers are not to be confused. But there is mutual indwelling and this is the condition of fruitfulness."
+*Context Source: Page 5, analysis of the 'abiding' concept*
 
-> "If the world hateth you, ye know that it hath hated me before it hated you."
-*Context Source: Chapter 4. Persecution, 15: 17-21*
+> "It is not a question of what his lord doeth. The slave is no more than an instrument. It is not for him to enter intelligently into the purposes of his own either. His task is simply to do what he is told."
+*Context Source: Page 7, commentary on the shift from servant to friend*

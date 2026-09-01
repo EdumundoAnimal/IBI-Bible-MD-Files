@@ -1,7 +1,7 @@
 ---
 title: "Old Testament Survey Notes"
 author: "Unknown"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,50 +14,48 @@ aliases:
 **Author:** [[Unknown]]
 
 ## 1. Cleaned Document Text
-This document consists of study notes covering themes from the Old Testament, including the Ten Plagues of Egypt, the layout of the Tabernacle, important Jewish Feasts, structure of the book of Numbers, components of a Suzerain treaty as a model for Deuteronomy, redemption motifs, and the Shema from Deuteronomy 6:4-9.
+This document consists of student lecture notes covering various books of the Old Testament, specifically focusing on the historical period of Babylon, Persia, and the ministry of various prophets. It outlines timelines, rulers, theological themes, and the prophetic responses to the events of the Exile and Restoration. Notable coverage includes Ezra, Nehemiah, Esther, Amos, Hosea, Jonah, Nahum, Joel, Micah, Zephaniah, Habakkuk, Obadiah, and Ezekiel.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Plague,Attacked Egyptian god's
-Plague of Blood,Khuum guardian of the nile Hapi the spirit of the nile Osiris the blood stream of Osiris
-Plague of Frogs,Heqt a frog-like god of resurrection
-Plague of Gnats,The limit of the Egyptian magicians power
-Plague of Flies, 
-Plague of Livestock,Hathor mother goddess Who was a cow Apis a bull of the god Ptah symbol of fertility Minevis also a bull the sacred bull of Heliopolis
-Plague of Boils,Imhotep god of medicine
-Plague of Hail,Nut the sky goddess
-Plague of Locusts,Seth the protector of crops
-Plague of Darkness,Re Aten Atum and Horus all sun gods
-Plague of Firstborn,Apis a bull of the god Ptah symbol of fertility Pharaoh was also said to be divine
-```
-
-### Table 2
-```csv
-When,Feast,Purpose
-March/April,Passover or Unleavened Bread,Remember how God brought the Israelites out of Egypt
-June,Pentecost or Weeks,Remember the Law being given to the Israelites on Mt Sinai
-September/October,Trumpets,Signifying a new round of feasts
-September/October,Day of Atonement,Atone for the sin of the community
-September/October,Tabernacles or Succoth,Remembering the wondering in the wilderness live in tents
+Ruler,Reigned,Comments
+Nebuchadnezzar II,605-562 BC,Carried Jehoiakim and Jehoiachin to exile in 597BC, destroyed Jerusalem and removed and exile Zedekiah in 587 BC
+Amel-Marduk (Evil Merodach),562-560 BC,Promoted Jehoiachin to the kings table
+Nergal-sharezer (Nergalissar),560-556 BC,
+Labashi-Marduk,556 BC,
+Nabonidus (Belshazzar co-regent),556-539 BC,Belshazzar grandson of Nebuchadnezzar was co-regent with Nabonidus (553-539BC)
+Cyrus II of Persia,539-529 BC,Destroyed Babylon and issued the first decree for the Jewish exiles to return.
+Cambyses II,529-522 BC,
+Smerdis (Bardiya),522 BC,Final years of Daniel's ministry.
+Darius I of Persia the Great,521-486 BC,Appointed Esther as his Queen.
+Xerxes I of Persia,485-465 BC,Nehemiah was his cupbearer
+Artaxerxes I of Persia Longimanus,465-424 BC,
+Xerxes II of Persia,424 BC,
+Sogdianus of Persia,424-423 BC,
+Darius II of Persia Nothus,423-405 BC,
+Artaxerxes II of Persia Mnemon,404-359 BC,
+Artaxerxes III of Persia Ochus,358-338 BC,
+Arses of Persia (Artaxerxes IV),338-336 BC,
+Darius III of Persia Codomannus,336-330 BC,Was defeated by Alexander the Great at the battle of Issus and Gaugamela in 333BC
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Polemic against Egyptian Gods
-The ten plagues are framed as a direct theological challenge to specific Egyptian deities, demonstrating Yahweh's superiority over the pantheon of Egypt.
+### Theme: Exilic and Post-Exilic Restoration
+Explores the cycle of destruction, judgment, and the subsequent return of the Jewish people to Jerusalem, emphasizing leadership and social reform led by figures like Ezra and Nehemiah.
 
-### Theme: Suzerain Covenant Model
-The structure of the book of Deuteronomy follows the standard ancient Near Eastern political treaty (Suzerainty treaty), establishing a conditional relationship between God (the King) and Israel (the subjects).
+### Theme: Prophetic Message of Repentance and Justice
+Prophets such as Amos, Micah, and Zephaniah call for social justice, condemning moral breakdown, dishonesty among the rich, and hypocrisy, while offering hope for restoration.
 
-### Theme: Redemption and Covenant
-The Exodus narrative is viewed through themes of divine redemption, the cost of salvation (Passover), and the subsequent obligation of the people to obey the Commandments.
+### Theme: Divine Sovereignty and Judgment
+A recurring theme that God exercises judgment over all nations, not just Israel, and that history is subject to His will and eventual restoration of His people.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "The message of Exodus + Leviticus: The redeemed for a holy purpose."
-*Context Source: Page 6, OT Survey notes*
+> "God asks Hosea to marry a prostitute or unfaithful. They have three children - Disiplin - not loved - not mine."
+*Context Source: Week 7, Page 2 (Hosea analysis)*
 
-> "Deuteronomy - Deuteros (second law) Nomous: If lived by, would make the nation of Israel live the complete opposite to how the heathen inhabitants of the promise land (Canaan)."
-*Context Source: Page 7, OT Survey notes*
+> "The righteous will live by Faith - They will be spared by God! & Romans - our faith! 2. Prob. still not resolved. But the babylonians are worse. How can you use bad people."
+*Context Source: Week 7, Page 8 (Habakkuk analysis)*
 
-> "Sh'ma Yisra'eil Adonai Eloheinu Adonai echad. Hear, Israel, the Lord is our God, the Lord is One."
-*Context Source: Page 8, Deuteronomy 6:4-9*
+> "God sees glory of God leave his people and head east over the mountains before babylonians destruction of Jerusalem - because the people of Jerusalem will be so shocked that you won't even be able to mourn. Why so that the people would know that Yahweh is God."
+*Context Source: Week 7, Page 10 (Ezekiel analysis)*

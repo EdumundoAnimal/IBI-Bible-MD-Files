@@ -1,7 +1,7 @@
 ---
 title: "A Textual Commentary on the Greek New Testament"
 author: "Bruce M. Metzger"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,47 +14,27 @@ aliases:
 **Author:** [[Bruce M. Metzger]]
 
 ## 1. Cleaned Document Text
-The document serves as a comprehensive academic guide to the textual criticism of the Greek New Testament. It details the criteria used by the United Bible Societies' editorial committee to evaluate variant readings among ancient manuscripts. It establishes a rigorous methodology encompassing both external evidence (date, character, and weight of witnesses) and internal evidence (transcriptional and intrinsic probabilities). The text explains that scholars evaluate manuscripts based on specific text-types, including Alexandrian, Western, and Byzantine families. The commentary further provides practical applications of these criteria to specific verses, explaining how decisions were reached regarding textual variants, often acknowledging the role of both scientific analysis and artistic judgment in textual reconstruction.
+This book provides a detailed textual commentary on the Greek New Testament. It establishes the criteria used by the United Bible Societies to evaluate variant readings among ancient manuscripts. The text discusses the challenges of textual criticism, including external evidence such as the age and character of witnesses, and internal evidence such as transcriptional and intrinsic probabilities. The work also includes an extensive list of manuscript witnesses categorized by text-type, such as Alexandrian, Western, and Byzantine, and concludes with specific examples of textual commentary on various verses in the New Testament.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Text-Type,Witnesses
-```
-
-### Table 2
-```csv
-Primary Alexandrian,P66 P46 P75 P72 P66 P75 Aleph B Sahidic Clement of Alexandria Origen papyrus fragments
-```
-
-### Table 3
-```csv
-Secondary Alexandrian,C L T W (Luke 1.1-8.12 and John) X Delta (in Mark) Psi (in Mark) 33 81 104 326 1739
-```
-
-### Table 4
-```csv
-Western,P29 P38 P48 D W (Mark 1.1-5.30) 0171 Old Latin syr (in part) early Latin Fathers
-```
-
-### Table 5
-```csv
-Byzantine,A E F G H K P S V W (in Matt and Luke 8.13-24.53) Pi (partially in Luke and John) Omega and most minuscules
+Text Type,Representative Witnesses;Alexandrian,P66 P46 P75 P90 P72 Aleph B Sahidic Clement of Alexandria Origen and papyrus fragments;Western,P29 P48 P38 P69 D 0171 Old Latin syr early Latin Fathers;Byzantine,A E F G H K P S V W and most minuscules
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: External Evidence
-Evaluation of manuscript reliability based on age, geographical distribution, and the independence of the witnesses.
+### Theme: Textual Criticism Methodology
+The systematic evaluation of variant readings in New Testament manuscripts using both external evidence (date, character of witnesses) and internal evidence (transcriptional and intrinsic probabilities).
 
-### Theme: Internal Evidence
-Analysis of variants using transcriptional probabilities (scribal habits) and intrinsic probabilities (author's style and vocabulary).
+### Theme: Manuscript Classification
+The grouping of ancient biblical manuscripts into distinct text-types (Alexandrian, Western, Byzantine) based on common lineage and textual characteristics.
 
-### Theme: Text-Types
-The classification of witnesses into families like Alexandrian, Western, and Byzantine to determine textual lineage and genealogical relationships.
+### Theme: Editorial Certainty
+The use of specific markings (brackets, letter grades A-D) by the United Bible Societies to indicate the degree of certainty regarding the originality of a specific reading.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "The textual critic must weigh one set of probabilities against another. Furthermore, the reader should be advised at the outset that, although the following criteria have been drawn up in a more or less tidy outline form, their application can never be undertaken in a merely mechanical or stereotyped manner."
-*Context Source: Page 10, Introduction*
+> "The criteria used for the present United Bible Societies' edition... involve (1) External Evidence, having to do with the manuscripts themselves, and (2) Internal Evidence, having to do with two kinds of considerations, (A) those concerned with Transcriptional Probabilities (i.e. relating to the habits of scribes) and (B) those concerned with Intrinsic Probabilities (i.e. relating to the style of the author)."
+*Context Source: page 4*
 
-> "The chief categories or kinds of criteria are considerations that assist one in evaluating the relative worth of variant readings are those which involve (1) External Evidence, having to do with the manuscripts themselves, and (II) Internal Evidence, having to do with two kinds of considerations, (A) those concerned with Transcriptional Probabilities (i.e. relating to the habits of scribes) and (B) those concerned with Intrinsic Probabilities (i.e. relating to the style of the author)."
-*Context Source: Page 11, Outline of Criteria*
+> "In general, the more difficult reading is to be preferred, particularly when the sense appears on the surface to be erroneous but on more mature consideration proves itself to be correct."
+*Context Source: page 5*

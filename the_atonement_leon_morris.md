@@ -1,7 +1,7 @@
 ---
 title: "The Atonement"
 author: "Leon Morris"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,30 +14,24 @@ aliases:
 **Author:** [[Leon Morris]]
 
 ## 1. Cleaned Document Text
-This text explores the theological concept of atonement, specifically critiquing C.H. Dodd's interpretation. The author challenges the view that 'wrath of God' is merely an impersonal process of cause and effect, arguing instead that it is a personal reaction of a holy God against sin. The document examines biblical terminology, particularly the use of 'hilaskomai' (propitiation) in the Septuagint and the New Testament. Morris maintains that biblical evidence supports the necessity of Christ's sacrifice as a propitiation to satisfy God's holy justice, rejecting the idea that propitiation can be dismissed as mere 'expiation'. The discussion spans various Old and New Testament passages to establish that the wrath of God is inherent in His character and that Christ's work is essential to averting that wrath.
-
-## 2. Quantitative Metric Tables
-### Table 1
-```csv
-Textual Source,Verse/Context,Interpretation of Wrath,Propitiation Reference,Exodus 32:14,God's wrath as response to prayer,Not absent,Lamentations 3:42,Divine anger,Averting of wrath,Psalms 78:38,God restrained His anger,Divine wrath in context,Romans 1:24 26 28,Degradation of sinner,Divine activity
-```
+The article evaluates the concept of 'propitiation' in biblical theology, challenging C.H. Dodd's influential thesis which argues against an anthropomorphic view of divine wrath, preferring to define it as an impersonal consequence of sin. Morris counters this by analyzing the Septuagint and New Testament usage of Greek terms like 'hilaskomai' and 'hilasterion.' He asserts that these terms carry the necessary connotation of appeasement or averting wrath, which he argues is essential for a proper understanding of the atonement. Morris further examines passages relating to 'wrath' in the Old Testament, suggesting it is a personal response of God to sin, rather than just an automatic mechanism. He concludes that the rejection of propitiation undermines the biblical account of the atonement, insisting on the continuity between the divine rejection of evil and the sacrifice of Christ.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Nature of Divine Wrath
-Arguments against an impersonal 'cause and effect' view of divine wrath, asserting it is an expression of God's personal, holy response to evil.
-
 ### Theme: Propitiation vs. Expiation
-Theological debate regarding the translation and meaning of 'hilaskomai'; the author argues for 'propitiation' (appeasement of wrath) over the weaker 'expiation' (removal of sin).
+The author argues that while many modern scholars prefer 'expiation' (the removal of sin) over 'propitiation' (the appeasement of wrath), the biblical usage of 'hilaskomai' necessitates the concept of appeasing God's righteous wrath against sin.
+
+### Theme: The Nature of Divine Wrath
+The text challenges C.H. Dodd's notion of divine wrath as an impersonal, automatic consequence of sin, advocating instead for the biblical presentation of wrath as a personal and active reaction of God toward evil and disobedience.
 
 ### Theme: Continuity of Scripture
-The author emphasizes the consistent theological thread between Old Testament manifestations of God's wrath and New Testament accounts of Christ's atoning work.
+The author emphasizes the continuity of the concepts of wrath and atonement between the Old and New Testaments, arguing against views that seek to sever the relationship between divine holiness and sacrificial provision.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "The 'wrath of God' is taken out of the sphere of the purely mysterious, and brought into the sphere of cause and effect: sin is the cause, disaster the effect."
-*Context Source: Page 5, regarding C.H. Dodd's interpretation*
+> "If we are to discover the meaning which the septuagint translators saw in hilaskomai, the way to do it is to look carefully at the meaning required in the contexts in which the word is found."
+*Context Source: Page 1*
 
-> "The first such passage is that in which Paul tells us that God has set forth Christ as a propitiation (hilasterion) through faith in his blood (Rom. 3:25, AV)."
-*Context Source: Page 2, CHRIST SET FORTH AS PROPIATION section*
+> "In view of Dodd's idea that 'the wrath of God' is used of an impersonal process of cause and effect, it is worth drawing attention to Romans 1. There Paul is speaking of the degradation of the sinner as the result of his sin."
+*Context Source: Page 2*
 
-> "The noun, 'propitiation', hilasmos, is found twice in the New Testament, both in 1 John. The first passage assures the reader that 'we have one who speaks to the father in our defence-Jesus Christ, the Righteous One."
-*Context Source: Page 3, THE PROPITIATION FOR OUR SINS section*
+> "The prophets did not think of an absent God, benevolently allowing the universe to go on its way with all kinds of impersonal mechanisms in operation. They saw him active in the affairs of men."
+*Context Source: Page 5*

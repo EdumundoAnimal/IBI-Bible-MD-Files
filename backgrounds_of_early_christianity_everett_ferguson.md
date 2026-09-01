@@ -1,7 +1,7 @@
 ---
 title: "Backgrounds of Early Christianity"
 author: "Everett Ferguson"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,33 +14,30 @@ aliases:
 **Author:** [[Everett Ferguson]]
 
 ## 1. Cleaned Document Text
-The document explores the intersection of Epicurean philosophy and the development of Early Christianity. It details Epicurean concepts such as ataraxia (tranquility), the classification of kinetic and static pleasures, and the significance of 'friendship' as a cornerstone of the Epicurean community. The text argues that while Epicureanism offered a retreat from the world and traditional civic life, early Christians faced unique challenges in navigating these philosophical currents, often distinguishing their own communal bonds from the 'Garden of Epicurus.'
+The text discusses the Epicurean philosophy, specifically its focus on the removal of pain, the role of friendship in community, and comparisons to Early Christian thought. Key tenets mentioned include: Nothing to fear in God; Nothing to feel in Death; Good (pleasure) can be attained; Evil (pain) can be endured. The document explores how Epicureanism viewed the avoidance of public life and the establishment of secluded communities, noting potential thematic links to Early Christian communal life and the use of the term 'friends'.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Concept,Description
-Kinetic Pleasure,Active satisfaction of desire such as hunger and thirst
-Static Pleasure,Equilibrium of the soul; absence of pain
-Ataraxia,Tranquility; absence of agitation
+Tenet,Description;Nothing to fear in God,Epicurean theological stance;Nothing to feel in Death,Epicurean view on mortality;Good (pleasure) can be attained,Epicurean goal of life;Evil (pain) can be endured,Epicurean management of suffering
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Epicureanism and Christianity
-An analysis of how early Christian communal structures and theology interacted with existing Hellenistic philosophical frameworks like Epicureanism.
+### Theme: Epicureanism and Early Christianity
+Exploration of the historical influence and parallel practices between the Epicurean school and early Christian communities.
 
-### Theme: Social Isolationism
-The practice of creating insular communities (like the 'Garden') as an ideal for reaching equilibrium, contrasting with the civic engagement often demanded by other schools of thought.
+### Theme: Philosophy of Friendship
+The function of 'friendship' as a social bond and communal structure within Epicureanism and potential early Christian contexts.
 
-### Theme: Friendship as Theology
-How the Epicurean concept of friendship as a social bond was adapted or critiqued within the context of early Christian 'brotherhood' and community life.
+### Theme: Asceticism and Separation
+The practice of withdrawing from public life and civic duties in favor of secluded communal living.
 
 ## 4. Evidence Matrix & Verbatim Assertions
+> "Nothing to fear in God; Nothing to feel in Death; Good (pleasure) can be attained; Evil (pain) can be endured."
+*Context Source: Page 3, 'Estimate and Comparisons' section.*
+
 > "The establishment of a community of men and women where all were equal, had a common way of life, were isolated from the world, and were held together by reverence for a master was an ideal that had a great influence."
-*Context Source: Page 3, Section: Estimate and Comparisons*
+*Context Source: Page 3, Section discussing Epicurean communities.*
 
 > "The positive aspect of the pleasures of the soul is the enjoyment that comes from a society of good friends."
-*Context Source: Page 3, Section: Estimate and Comparisons*
-
-> "Tranquility, the absence of agitation (ataraxia)—the same word used by Pyrrho, p. 346, was the highest good."
-*Context Source: Page 4, Column 1*
+*Context Source: Page 4, Discussion on Epicurean philosophy.*

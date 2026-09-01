@@ -1,7 +1,7 @@
 ---
 title: "Cross Words: The Biblical Doctrine of the Atonement"
 author: "Paul Wells"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,48 +14,30 @@ aliases:
 **Author:** [[Paul Wells]]
 
 ## 1. Cleaned Document Text
-The text discusses the theological models of the atonement, specifically addressing the concepts of Victory, Substitution, and Satisfaction. It critiques traditional interpretations, examining arguments against penal substitution, the nature of violence, the metaphor of debt, and the concerns of feminists regarding abuse. The author explores how these models interact and whether they are mutually exclusive, ultimately arguing for a complementary understanding of the cross. The text emphasizes that no single model can fully exhaust the mystery of the atonement, and that the cross serves as a demonstration of God's love for sinners.
+The document provides an introduction to the theological study of the atonement, specifically addressing the concept of 'Cross Words' and the various metaphors and models used to explain Christ's death. It explores the traditional understanding of penal substitution, victory over evil, and sacrificial debt, while engaging with contemporary critical responses that challenge these models on grounds of morality, violence, and justice. The text emphasizes that no single model exhausts the meaning of the cross, and that understanding the atonement requires a multi-faceted approach that considers both the biblical text and its broader theological implications.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Model,Description,Key Theological Focus,Concept of Salvation
-```
-
-### Table 2
-```csv
-Victory,Christ as Victor,Overcoming the power of sin/death/devil,Liberation from bondage
-```
-
-### Table 3
-```csv
-Substitution,Penal Satisfaction,Christ takes the place of the sinner,Satisfaction of divine justice
-```
-
-### Table 4
-```csv
-Satisfaction,Debt and Satisfaction,Repaying a divine debt,Restoring divine honor
+Model,Description,Key Element,Victory,The victor who frees humanity from the power of sin,Christ as the victor,Substitution,Christ takes the place of sinful man to meet the demands of justice,Penal satisfaction,Example,Christ lived in harmony with divine justice and love,Self-giving altruism
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Atonement Models
-The text analyzes three primary models of the atonement: Victory (Christ as victor over evil), Substitution (Christ taking the sinner's place), and Satisfaction (repaying the debt of human sin).
+### Theme: Models of Atonement
+The text identifies three primary models found in the New Testament: Victory (Christ as conqueror over evil), Substitution (Christ satisfying divine justice/penal requirements), and Example (Christ as an exemplar of self-giving love).
 
-### Theme: Critique of Penal Substitution
-The author outlines four major criticisms of the penal substitution model: it is perceived as abusive, violent, sacrificial, and based on an insufficient interpretation of debt.
+### Theme: Contemporary Criticisms
+Critics argue against traditional substitutionary atonement by labeling it as divine child abuse, questioning its portrayal of retributive violence, and asserting it creates a 'legal fiction' regarding the relationship between sin, punishment, and debt.
 
-### Theme: Complementarity
-Rather than viewing atonement models as mutually exclusive, the author argues they should be viewed as complementary tools for understanding the mystery of the cross.
+### Theme: Complementarity of Metaphors
+The author argues that these various biblical models are not mutually exclusive but are complementary, each contributing a different perspective to a unified, though mysterious, doctrine of the cross.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "In Scripture a variety of language is found to describe what happened at the cross: the cultic language of sacrifice, the payment of ransom, punishment and acquittal, and that of victory."
-*Context Source: Page 18*
+> "A great many models have been constructed in an attempt to shed light on the cross and provide a satisfying theory of the various aspects of the atonement."
+*Context Source: Page 18, Section: Cross Metaphors and Models*
 
-> "The various forms of language in the New Testament have provided the material for different atonement models, which have been advanced as interpretations of what transpired at the cross."
-*Context Source: Page 18*
+> "The complementarity of the three models is foundational for the others, whether there is one class of biblical metaphor which, comparatively speaking, has more ‘weight’ than the others."
+*Context Source: Page 20, Section: Scandals Beyond the Scandal*
 
-> "The model of 'blood-bought redemption' had been viewed with increasing distaste for more than a century when Gustav Aulén suggested, incorrectly, that the victory model of the atonement was the classical model of the Church in the first centuries."
-*Context Source: Page 20*
-
-> "No single traditional atonement model can exhaust the fullness of the biblical mystery of the cross."
-*Context Source: Page 24*
+> "The cross comes out of a mechanism of violence, not sacrifice. If Christ dies in a sacrificial way it is to demonstrate that the mechanism of violence used to end violence does not work."
+*Context Source: Page 22, Section: Violence and Sacrifice*

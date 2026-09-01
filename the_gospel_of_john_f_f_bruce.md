@@ -1,7 +1,7 @@
 ---
 title: "The Gospel of John"
 author: "F. F. Bruce"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,34 @@ aliases:
 **Author:** [[F. F. Bruce]]
 
 ## 1. Cleaned Document Text
-The document provides an introductory exposition and commentary on the Gospel of John, covering themes of authorship, historical context, and deep theological analysis of the text, specifically focusing on chapters 15 and 16. It discusses the Johannine community, the relationship between the Evangelist and Jesus, and the thematic message of mutual indwelling and witness.
+This document is a scholarly commentary on the Gospel of John, covering the introduction, authorship, historical context, and an exposition of Chapter 15. The author, F. F. Bruce, explores the 'beloved disciple', the Johannine community, and the theological themes of the vine and the branches, the commandment of love, and the Paraclete.
+
+## 2. Quantitative Metric Tables
+### Table 1
+```csv
+Abbreviation,Reference,Title
+1QS,Rule of the Community from Qumran Cave 1,Pelican Gospel Commentaries
+3Q15,Copper Scroll from Qumran Cave 3,Pelican Gospel Commentaries
+RB,Melchizedek document from Qumran Cave 11,Revue Biblique
+11QTemple,Temple Scroll from Qumran Cave 11,Pelican Gospel Commentaries
+```
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Johannine Authorship
-Explores the complex debate surrounding the identity of the author, balancing early church tradition (John the son of Zebedee) with modern critical scholarship and the potential influence of 'the disciple whom Jesus loved'.
+Explores the identity of the 'beloved disciple' and the tradition connecting the text to John the son of Zebedee, while acknowledging the anonymous nature of the original Gospel and the influence of the Palestinian Jewish background.
 
-### Theme: Mutual Indwelling
-Analysis of John 15, emphasizing the relationship between Christ and believers as a vine and its branches, necessitating the 'abiding' of the believer in Christ for spiritual fruitfulness.
+### Theme: Theological Symbolism
+Analyzes the imagery of the vine and the branches as a representation of the mutual indwelling between Jesus and his disciples, reflecting both the dependence of the believers on Christ and the necessity of 'fruit-bearing' through love.
 
 ### Theme: The Paraclete
-Examination of the promise of the Holy Spirit as the Spirit of Truth, sent to testify of Jesus and empower the disciples amidst the challenges and persecutions of the world.
+Discusses the role of the Holy Spirit (the Paraclete) as a witness to the truth, providing guidance and comfort to the disciples after the departure of Jesus.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "The Fourth Gospel, like the three Synoptic Gospels, is anonymous: it does not bear its author's name."
-*Context Source: Page 3, Introduction, 1. The Evangelist and His Gospel*
+*Context Source: Page 3*
 
-> "The purpose of the Gospel is stated in John 20:30: it is to bring the readers to faith, or to confirm them in faith."
-*Context Source: Page 9, 3. The Message of the Fourth Gospel*
+> "I am the true vine and my Father is the vinedresser. He removes every branch in me that does not produce fruit, and he prunes every branch that does produce fruit, to make it produce more fruit."
+*Context Source: Page 12 (John 15:1-3)*
 
-> "Jesus is here presented as the true Israel, the genuine vine, the man of God's right hand. God is both the planter and cultivator of the vine."
-*Context Source: Page 12, Chapter 15, 2. The Lord and His People*
+> "This is my commandment to you: that you love one another, as I have loved you. No one has greater love than this, that he lay down one's life for one's friends."
+*Context Source: Page 13 (John 15:12-13)*

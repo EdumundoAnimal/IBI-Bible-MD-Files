@@ -1,7 +1,7 @@
 ---
 title: "A Definitive Look at Oneness Theology: Defending the Tri-Unity of God"
 author: "Edward L. Dalcour"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,18 +14,15 @@ aliases:
 **Author:** [[Edward L. Dalcour]]
 
 ## 1. Cleaned Document Text
-This document identifies the author as Edward L. Dalcour and the title as A Definitive Look at Oneness Theology: Defending the Tri-Unity of God, published by University Press of America in 2005. The text serves as a theological defense of the Trinitarian view against Oneness Theology perspectives.
+Copyright 2005 by University Press of America, Inc. 4501 Forbes Boulevard Suite 200 Lanham, Maryland 20706. The work is a theological treatise focusing on the defense of the Trinity against Oneness theological perspectives.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Trinitarian Theology
-The work focuses on the theological defense of the Christian doctrine of the Tri-unity of God, contrasting it with Oneness theology which typically denies the distinction of persons within the Godhead.
+### Theme: Tri-Unity of God
+The central theological argument of the text, focusing on the biblical defense of the doctrine of the Trinity versus the Oneness theological position.
 
-### Theme: Apologetics
-The author engages in a polemical approach to theology, specifically aiming to provide a 'definitive look' at and defense against the theological claims of the Oneness movement.
+### Theme: Theological Apologetics
+The systematic defense of orthodox Christian doctrine concerning the nature of God.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "A definitive look at Oneness Theology: Defending the Tri-Unity of God"
-*Context Source: Page 1, hand-written metadata section.*
-
-> "Edward L. Dalcour"
-*Context Source: Page 1, hand-written metadata section.*
+*Context Source: Front matter, title page*

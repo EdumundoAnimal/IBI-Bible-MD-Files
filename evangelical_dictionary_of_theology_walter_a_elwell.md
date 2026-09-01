@@ -1,7 +1,7 @@
 ---
 title: "Evangelical Dictionary of Theology"
 author: "Walter A. Elwell"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,24 @@ aliases:
 **Author:** [[Walter A. Elwell]]
 
 ## 1. Cleaned Document Text
-The text provides theological definitions for concepts related to Christian doctrine, specifically focusing on the concepts of Trichotomy and Truth. The entry on Trichotomy explores historical debates regarding the human constitution, mentioning the influence of thinkers like Tertullian and Augustine. It discusses the doctrine of the Trinity, explaining that while the term is not biblical, it serves as a designation for the divine persons revealed in Scripture. The entry on Truth examines the relationship between philosophy, history, and Christian faith, highlighting the work of Ernst Troeltsch and his perspective on religion as a reflection of historical consciousness and the ultimate reality of God.
+The text discusses theological concepts of 'Trichotomy' and 'Truth'. Regarding the doctrine of the Trinity, it highlights that while the word 'Trinity' is not explicitly biblical, the concept is derived from the revelation of Father, Son, and Holy Spirit. It addresses the unity of the Godhead, refuting both tritheism and modalism, and notes the historical development of these creeds. Regarding 'Truth', it discusses the views of Ernst Troeltsch, detailing his sociological perspective on religion and the distinction between fundamental and spiritual truth.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Trinity
-The doctrine of the Trinity serves as a systematic designation for the divine persons revealed in Scripture, emphasizing that there is one God in three persons, without falling into either tritheism or monarchianism.
+The theological belief that God is one essence existing as three persons: the Father, the Son, and the Holy Spirit, supported by NT baptismal formulas and the internal relationship between the persons.
 
-### Theme: Trichotomy
-A theological perspective on the human constitution—body, soul, and spirit—which has historical roots in the teachings of early church fathers like Tertullian and Augustine.
+### Theme: Sociology of Religion
+The analytical approach by Ernst Troeltsch examining how social values and historical contexts shape religious institutions and expressions of truth.
 
-### Theme: Truth
-Theological truth is contrasted with philosophical and historical approaches, where God is viewed as the ultimate reality, and understanding truth involves an acknowledgement of God as Father, Son, and Holy Spirit.
+### Theme: Fundamental vs. Spiritual Truth
+The distinction between empirical observations of reality and transcendent truths that claim to be independent of human perception.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Trinity, the term designating one God in three persons. Although not itself a biblical term, the Trinity has been found a convenient designation for the one God self-revealed in Scripture as Father, Son, and Holy Spirit."
+> "The main contribution of the OT to the doctrine is that the unity of God is not himself a plurality, nor is he one among many others. He is single and unique."
 *Context Source: Page 3*
 
-> "Both Tertullian and Augustine held to the threefold distinction between the animal and rational soul, but maintained the emphasis is almost altogether upon the fundamental unity or unity of man against all philosophical attempts to divide it."
+> "In the fully developed doctrine the unity of God is safeguarded by insisting that there is only one essence or substance of God."
 *Context Source: Page 3*
 
-> "Troeltsch, Ernst (1865-1923). German theologian, philosopher of history, and social theorist. Son of an Augsburg physician, he studied theology at Erlangen, Berlin, and Göttingen (under Ritschl)."
+> "His concern with social and political questions led to a sociological theory of the history of the Christian Churches."
 *Context Source: Page 4*

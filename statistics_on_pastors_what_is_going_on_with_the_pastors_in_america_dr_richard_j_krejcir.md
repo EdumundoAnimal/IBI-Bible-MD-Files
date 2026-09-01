@@ -1,7 +1,7 @@
 ---
 title: "Statistics on Pastors: What is Going on with the Pastors in America?"
 author: "Dr. Richard J. Krejcir"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,32 +14,32 @@ aliases:
 **Author:** [[Dr. Richard J. Krejcir]]
 
 ## 1. Cleaned Document Text
-The document provides a comprehensive report on pastoral attrition, burnout, and theological instability within the American church. It highlights statistical trends from over 18 years of research conducted by FASCID/Francis A. Schaeffer Institute of Church Leadership Development. Key findings include extremely high rates of burnout, moral and relational failures, and significant doubts regarding core theological tenets such as the virgin birth and the resurrection. The text warns that many pastors are leaving the ministry due to poor training, organizational conflict, and personal struggles, and emphasizes the need for pastors to maintain a focus on serving Christ rather than being distracted by shifting theological fads.
+The document reports on 18 years of research into pastoral trends, highlighting significant challenges such as burnout, high rates of divorce, lack of training, and declining belief in core doctrines like the virgin birth and biblical inerrancy. It outlines reasons for pastoral termination—including conflict with church leadership and lack of relational skills—and emphasizes that pastors frequently report feeling unqualified, exhausted, or disheartened. The author argues for a return to pastoral focus on serving Christ, spiritual growth, and teaching sound theology rather than pursuing worldly or shifting cultural trends.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Rank,Reason for forced resignation,Percentage of total
+Rank,Reason for Termination,Percentage
 ```
 
 ### Table 2
 ```csv
-1,Conflict related to organizational and control issues,52%
+1,Conflict with leadership/control issues,52%
 ```
 
 ### Table 3
 ```csv
-2,Conflict related to key lay persons or factions,24%
+2,Conflict with church/lay leadership,24%
 ```
 
 ### Table 4
 ```csv
-3,Resistance to leadership/vision/change,14%
+3,Resistance to leadership/change,14%
 ```
 
 ### Table 5
 ```csv
-4,Inability to connect on a personal level,8%
+4,Inability to connect/poor relational skills,8%
 ```
 
 ### Table 6
@@ -48,27 +48,18 @@ Rank,Reason for forced resignation,Percentage of total
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Pastoral Attrition and Burnout
-An examination of the staggering rates at which pastors leave the ministry due to overwhelming stress, fatigue, and conflict.
+### Theme: Pastoral Burnout and Attrition
+Evidence suggests a high prevalence of burnout, with 90% of pastors feeling fatigued and 89% considering leaving the ministry.
 
-### Theme: Theological Instability
-Statistical evidence of a decline in foundational orthodox beliefs among current ministers, specifically regarding the Virgin Birth and resurrection.
+### Theme: Theological Integrity and Scripture
+The study highlights a crisis of belief among ministers regarding fundamental doctrines, such as the virgin birth and the infallibility of Scripture.
 
-### Theme: Organizational and Relational Conflict
-The primary cause of forced resignation is identified as organizational/control conflicts and interpersonal disputes with lay leadership.
-
-### Theme: Adequacy of Training
-The observation that many pastors feel ill-equipped by their seminaries to handle the practical management of a church or the personal counseling of congregants.
+### Theme: Relational and Leadership Conflict
+A significant majority of pastoral termination is attributed to interpersonal conflicts, organizational control, and difficulties in relating to lay leadership.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "After over 18 years of researching pastoral trends and many of us being a pastor, we have found (this data is backed up by other studies) that pastors are in a dangerous occupation!"
+> "Seven hundred fifty-six (72%) of the pastors we surveyed stated that they only studied the Bible when they were preparing for sermons or lessons. This left only 38% who read the Bible for devotions and personal study."
 *Context Source: Page 1*
 
-> "Seven hundred seventy (750 or 75%) of the pastors we surveyed felt they were unqualified and/or poorly trained by their seminaries to lead and manage the church or to counsel others."
-*Context Source: Page 1*
-
-> "His poll states between 19% and 60% of ministers believe in the virgin birth of Jesus."
-*Context Source: Page 3*
-
-> "The bottom line is this: if you are a pastor your job is to serve Christ first and foremost!"
+> "His poll states between 19% and 60% of ministers believe in the virgin birth of Jesus. The poll goes on to say between 67% and 95% of ministers believe that the Scriptures are true in faith, history, and practice."
 *Context Source: Page 3*

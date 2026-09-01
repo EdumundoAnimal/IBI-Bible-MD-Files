@@ -1,7 +1,7 @@
 ---
 title: "The Proverbs: An Introduction and Commentary"
 author: "Derek Kidner"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,24 @@ aliases:
 **Author:** [[Derek Kidner]]
 
 ## 1. Cleaned Document Text
-This document is a scholarly commentary on the Book of Proverbs. The text analyzes the 'Power of Words' and the 'Family' within the context of biblical wisdom literature. It explores the destructive and constructive potential of speech, emphasizing the role of integrity, caution, and godly wisdom in human relationships. The section on the family examines the marital bond and the avoidance of polygamist tendencies within Israelite society.
+The document provides an introduction and commentary on the Book of Proverbs, specifically focusing on the thematic subject studies of 'Words' and 'The Family'. It explores the power, weakness, and proper use of speech within the context of the Proverbs, as well as the roles of husband and wife within an Israelite household.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: The Power of Words
-Proverbs teaches that words have the power to heal or wound, and that gossip and thoughtlessness can destroy trust and friendship.
+Proverbs emphasizes that words have the ability to inflict emotional harm, akin to a sword, or to provide healing. Unchecked speech can lead to relational disruption, while mindful speech promotes wisdom and preserves friendships.
 
-### Theme: Integrity in Speech
-A emphasis on honesty, calmness, and the 'soft answer' as indicators of a wise person, as opposed to the impulsive and harmful speech of the foolish.
+### Theme: The Weakness of Words
+Words alone are insufficient without concrete actions. The text argues that rhetoric cannot replace integrity or the evidence of deeds, noting that mere talk is often a mask for a lack of genuine substance.
 
-### Theme: The Israelite Family Unit
-The commentary highlights the monogamous ideal of the marital bond and the mutual loyalty expected between husband and wife.
+### Theme: The Family (Husband and Wife)
+The commentary highlights the importance of monogamy, mutual loyalty, and effective communication between spouses, characterizing marriage as a partnership grounded in companionship rather than just domestic utility.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Death and life are in the power of the tongue."
-*Context Source: Page 3, Section: I. The Power of Words*
+> "Death and life are in the power of the tongue"
+*Context Source: Page 3, Section I: The Power of Words*
 
-> "The mind of the righteous ponders how to answer, but the mouth of the wicked pours out evil things."
-*Context Source: Page 4, Section: b. The making of them*
+> "The mind of the righteous is weighed against 'the worth of the wicked', and their values ('choice silver', 'little worth') are compared directly"
+*Context Source: Page 4, Section I: b. The making of them*
 
-> "While kings allowed themselves the doubtful luxury of polygamy the ordinary Israelite seldom resorted to it, and in Proverbs the union of one man with one woman is clearly shown to be the norm."
-*Context Source: Page 4, Section: I. Husband and Wife*
+> "While kings allowed themselves the doubtful luxury of polygamy the ordinary israelite seldom resorted to it, and in Proverbs the union with one woman is clearly shown to be the norm"
+*Context Source: Page 4, Section I: The Family - Husband and Wife*

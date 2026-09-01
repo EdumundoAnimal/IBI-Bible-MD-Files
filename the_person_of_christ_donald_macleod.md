@@ -1,7 +1,7 @@
 ---
 title: "The Person of Christ"
 author: "Donald Macleod"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,30 @@ aliases:
 **Author:** [[Donald Macleod]]
 
 ## 1. Cleaned Document Text
-The document is a theological examination of the person of Christ, focusing on his divinity, pre-existence, and the challenges posed by adoptionist interpretations. It analyzes key biblical texts such as the Epistle to the Hebrews and Pauline literature to explain the nature of Christ's existence before his incarnation and his subsequent relationship with the Father. It addresses scholarly critiques regarding Jesus's humanity and divinity, particularly exploring the nuances of terms like 'Son of God', 'Logos', and the debates surrounding the 'adoptionist' hypothesis in early Christology.
+This document is a theological examination focusing on Christology, specifically addressing concepts of Christ's pre-existence, his Sonship, and various scholarly debates surrounding these doctrines. It engages with the Pauline epistles and the Epistle to the Hebrews, analyzing terms like 'Son of God', 'Logos', and 'Wisdom'. The text critiques the 'Adoptionist' interpretation of Christ's nature, arguing that it fails to account for the full evidence of his divinity and pre-existence as presented in scripture. It further explores the complexities of the term 'hypostasis' and the radiance of Christ as the 'exact representation' of God. Finally, it examines Paul's teaching on the submission of Christ to the Father, reconciling it with Christ's status as the Mediator and the eternal Son.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Christological Adoptionism
-A theological perspective that suggests Jesus was 'adopted' as the Son of God, which the author contends inherently risks undermining the biblical assertion of Christ's pre-existent divinity.
+### Theme: Christ's Pre-existence
+The theological argument that Jesus Christ existed as the Son of God prior to his earthly incarnation, a view supported by references in the Gospel of John and the Epistle to the Hebrews.
 
-### Theme: Pre-existence of Christ
-The doctrine that Jesus existed as the divine Logos/Son before his earthly birth, explicitly debated against scholars like J.A.T. Robinson who suggest language in Hebrews denotes a purely post-incarnational status.
+### Theme: Adoptionism Critique
+An analysis and critique of the 'Adoptionist' view, which suggests Jesus was 'adopted' as the Son of God at a certain point, arguing this view is incompatible with the biblical evidence of his eternal divine nature.
 
-### Theme: Mediatorial Kingship
-The discussion of Christ's current role as the reigning Son who exercises authority in a delegated capacity, which will eventually be surrendered to the Father.
+### Theme: Christology in Hebrews
+An examination of how the writer of the Epistle to the Hebrews presents the divinity, pre-existence, and mediatorial role of Christ, distinct from mere prophetic status.
+
+### Theme: Hypostasis and Divine Essence
+A technical discussion regarding the philosophical and theological use of the term 'hypostasis' to describe Christ as the 'exact representation' or 'charakter' of the essence of God.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "It is evident from this exaposteilen when used of God does not tell us anything about the origin of point of departure of the one sent; it underlines the heavenly origin of his commissioning but not of the one commissioned."
-*Context Source: Page 4*
-
 > "The plausibility of Robinson's argument derives largely from the assumption that to prove Jesus' humanity is to disprove his deity."
-*Context Source: Page 8*
+*Context Source: Page 84*
 
-> "It is, however, the glory of God the Father's loving initiative is the greatest theme of the New Testament. The supreme manifestation of that love is the giving, sending and sacrificing of the Son."
-*Context Source: Page 5*
+> "The writer to the Hebrews refers regularly to the divine sonship of Jesus, beginning indeed with the opening sentence of the epistle: 'In the past, God spoke to our forefathers through the prophets at many times and in various ways, but in these last days he has spoken to us by his Son.'"
+*Context Source: Page 79*
+
+> "When we turn to the Pauline writings we are not conscious of entering a world any different from that of John and Hebrews."
+*Context Source: Page 54*
+
+> "The main problem raised by the first phrase is the precise meaning of apaugasma, which occurs only here in the New Testament. The noun apaugasma, the verb apaugazo to radiate or reflect; and the ending -ma is passive, which, as Geochardis Vos suggests, indicates that it refers to the product of apaugazo, not to the process itself."
+*Context Source: Page 79*

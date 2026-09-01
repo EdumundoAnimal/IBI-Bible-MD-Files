@@ -1,7 +1,7 @@
 ---
 title: "Oneness Pentecostals and the Trinity"
 author: "Gregory A. Boyd"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,30 @@ aliases:
 **Author:** [[Gregory A. Boyd]]
 
 ## 1. Cleaned Document Text
-The document provides a theological critique of the Oneness Pentecostal view, which denies the doctrine of the Trinity in favor of a modalistic understanding where Jesus is simultaneously identified as the Father, Son, and Holy Spirit. Boyd examines the primary arguments used by Oneness theologians, including their specific use of proof texts and cross-referencing techniques, and contrasts these with traditional Trinitarian theology. Key themes include the defense of the Trinity as a biblical, coherent doctrine and the systematic refutation of the 'Oneness' interpretation of various scripture passages.
+This document is an academic and theological critique of the Oneness Pentecostal view of the Godhead. The author examines key Oneness arguments, such as the belief that Jesus is the Father, the Son, and the Holy Spirit, and that the doctrine of the Trinity is not supported by Scripture. The text includes detailed counter-arguments from the perspective of orthodox Trinitarian theology, focusing on scriptural exegesis, the historical context of doctrinal development, and the logical consistency of Oneness assertions regarding the nature of God.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Modalism vs. Trinitarianism
-The debate centers on the Oneness claim that Jesus is the incarnation of the one God, who acts as Father, Son, and Spirit, versus the Trinitarian belief that God is one essence eternally existing as three distinct persons.
+### Theme: Oneness Doctrine
+The belief that there is only one God, and that Jesus Christ is the manifestation of that one God, without any distinction of persons within the Godhead.
 
-### Theme: Hermeneutical Critique
-Boyd argues that Oneness Pentecostals employ faulty cross-referencing methods—patchwork exegesis—to create theological claims that are not supported by the individual contexts of the verses used.
+### Theme: Trinitarian Critique
+The argument that the Bible supports the existence of three distinct persons—Father, Son, and Holy Spirit—who are one God in essence, challenging the Oneness view as logically and biblically insufficient.
 
-### Theme: The Preexistence of Christ
-A core area of contention where Boyd refutes the Oneness assertion that Jesus's 'Sonship' only began at his birth, arguing instead for the biblical testimony of Christ's eternal existence.
+### Theme: Modalism
+The theological view, attributed to Oneness Pentecostals, that the Father, Son, and Holy Spirit are merely different modes or roles through which one God interacts with humanity.
+
+### Theme: Exegesis and Proof-Texting
+A methodological conflict regarding how biblical texts should be interpreted, with the author criticizing Oneness 'proof-texting' as ignoring broader scriptural contexts.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "Oneness doctrine is based on a particular understanding of two scriptural truths. These Bible-based beliefs serve as the foundation for the Oneness view of God and of Jesus Christ. The first biblical truth is that there is only one God, and the second is that Jesus Christ is God."
 *Context Source: Page 2*
 
-> "The Oneness attempt to prove that Jesus is the Father by utilizing this patchwork exegesis flagrantly violates all three of these [hermeneutical] rules."
-*Context Source: Page 13*
+> "The argument here is this: If Jesus (and the Spirit) are in fact God in some sense 'alongside' God the Father, the term 'God' to the Father seems to presuppose a contrast with Jesus. This, it is maintained, is incompatible with the trinitarian view, but not with the Oneness view."
+*Context Source: Page 6*
+
+> "The doctrine of the Trinity simply states that God fully exists in three personally distinct ways. This is, as already stated in the first chapter, admittedly paradoxical, since it means that God is nonmaterial and nonquantifiable."
+*Context Source: Page 8*
 
 > "The biblical case for the distinct personal preexistence of Jesus Christ is, we have shown, exceedingly strong, while the modalistic arguments against this doctrine are essentially groundless."
 *Context Source: Page 15*

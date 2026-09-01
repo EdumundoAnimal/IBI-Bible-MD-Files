@@ -1,7 +1,7 @@
 ---
 title: "Old Testament Wisdom: Wisdom Literature Theme: The Tongue"
 author: "Éamon Parkes"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,27 +14,27 @@ aliases:
 **Author:** [[Éamon Parkes]]
 
 ## 1. Cleaned Document Text
-This essay explores the theme of the tongue and lips as depicted in the biblical Book of Proverbs. It examines the historical context, specifically the parallels between the 'Teachings of Amenemope' and Proverbs, the literary significance of mouth-related anatomy as metaphors for speech in Hebraic thought, and the theological implications of speech. The essay provides a framework for understanding how the tongue can be a source of life or death, emphasizing the necessity of restraint, listening, and righteous communication.
+This essay explores the theme of the tongue and lips in the book of Proverbs, examining historical context (including the Teachings of Amenemope), literary usage, and theological implications. The essay discusses the power of speech for both life and death, the importance of restraint and listening, and the dangers of unbridled language. It concludes by highlighting that while human effort is needed to control the tongue, divine intervention is the ultimate requirement.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Historical Intertextuality
-The document highlights the connection between Egyptian wisdom literature, specifically the 'Teachings of Amenemope', and the biblical Book of Proverbs, suggesting a shared cultural concern regarding the ethical use of speech.
+The connection between the biblical Book of Proverbs and the ancient Egyptian wisdom literature known as the 'Teachings of Amenemope', demonstrating parallel linguistic metaphors for speech.
 
-### Theme: The Theology of the Tongue
-An analysis of the tongue as a metaphor for human agency in speech, emphasizing the moral consequences of words—whether they bring life or death, healing or destruction.
+### Theme: Metaphorical Anatomy
+The use of 'lips' and 'tongue' in Old Testament literature as metonymy for human speech, intent, and character.
 
-### Theme: Prudence and Restraint
-A recurring argument that wisdom dictates silence and careful reflection before speaking, as uncontrolled speech is characterized as foolish and potentially sinful.
+### Theme: The Ethics of Speech
+The theological stance that words possess life-giving or destructive power, necessitating silence, restraint, and intentionality.
+
+### Theme: Limitations of Human Control
+The recognition that human control over the tongue is flawed, requiring divine intervention to effectively manage speech.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "The tongue has the power of life and death, (Prov. 18:21a)."
-*Context Source: Page 6*
+> "The tongue has the power of life and death"
+*Context Source: Page 6, Section (2) Evil speech, when words cause death and destruction*
 
-> "What is notable here in the Hebrew and Egyptian languages is the use of lip and tongue as a metaphor for speech."
-*Context Source: Page 3*
+> "He who conceals his hatred has lying lips, and whoever spreads slander is a fool."
+*Context Source: Page 3, referencing Prov. 10:18*
 
-> "It is a wise thing to think before speaking. Proverbs shows us this in a number of ways;"
-*Context Source: Page 5*
-
-> "Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen."
-*Context Source: Page 9*
+> "It is not within us to keep a watch over our tongue, it takes the divine intervention of almighty God to accomplish that."
+*Context Source: Page 9, Conclusion*

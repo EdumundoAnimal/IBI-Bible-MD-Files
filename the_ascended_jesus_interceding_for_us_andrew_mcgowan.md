@@ -1,7 +1,7 @@
 ---
 title: "The Ascended Jesus Interceding for Us"
 author: "Andrew McGowan"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,30 +14,45 @@ aliases:
 **Author:** [[Andrew McGowan]]
 
 ## 1. Cleaned Document Text
-The article explores the theological significance of Christ's intercession. It emphasizes that Jesus acts as a mediator for believers, bearing the penalty for sin. The study highlights Jesus' roles as prophet, priest, and king, discussing how these offices impact the life of the believer and provide assurance of salvation. It further examines the genre of the Book of Hebrews, noting its structure as a sermon characterized by hortatory and expository sections designed to address the congregation directly.
+The article explores the theological concept of the ascended Jesus Christ interceding for believers, drawing on the Epistle to the Hebrews. It examines the genre of Hebrews as a hortatory sermon, emphasizing its structure of alternating exposition and exhortation. The author outlines the primary offices of Christ—Prophet, Priest, and King—to explain the nature and necessity of his ongoing intercession. Furthermore, the text addresses the implications of gratitude and reciprocal obligation, comparing biblical concepts of grace with ancient cultural notions of patronage.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Exposition,Exhortation;Expository,Hortatory;Indicative,Imperative;Thesis,Paraenesis;Exposition,Admonition;Argumentation,Exhortation;Exposition,Warning;Theology,Paraenesis (ethical exhortation)
+Position,Exposition and Exhortation
+(i),We
+(ii),Brethern
+(iii),You
+```
+
+### Table 2
+```csv
+Exposition,Exhortation
+Expository,Hortatory
+Indicative,Imperative
+Thesis,Paranesis
+Exposition,Admonition
+Argumentation,Exhortation
+Exposition,Warming
+Theology,Paranesis (ethical exhortation)
 ```
 
 ## 3. Thematic Analysis Matrices
+### Theme: The Genre of Hebrews
+Scholars define Hebrews as a homily or sermon characterized by an alternation between theological exposition and ethical exhortation.
+
 ### Theme: Christ's Intercession
-Christ serves as the mediator between God and humanity, bearing the penalty for sin and interceding for believers at the right hand of the Father.
+Christ as the ascended high priest serves as an advocate for believers, bearing the penalty for sin and providing assurance of salvation.
 
-### Theme: Genre of Hebrews
-Hebrews is analyzed as a homily or sermon that alternates between theological exposition and ethical exhortation to address its audience.
-
-### Theme: Christ's Offices
-Christ is understood through the tripartite office of Prophet (teaching God's word), Priest (sacrificial atonement and intercession), and King (ruling over his enemies).
+### Theme: Patronage and Reciprocity
+The text discusses how biblical concepts of grace contrast with ancient Greco-Roman social structures of patronage, honor, and the obligation of gratitude.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Christ intercedes for us in heaven at the Father's right hand . . . The Spirit intercedes in our hearts, upon earth"
-*Context Source: Page 4*
+> "Most contemporary scholars would classify Hebrews as a homily or sermon, 'Heb 13:22 describes what has gone before as 'a word of exhortation'—a phrase by which Acts 13:15."
+*Context Source: Page 1, Paragraph 1*
 
-> "Most contemporary scholars would classify Hebrews as a homily or sermon"
-*Context Source: Page 1*
+> "The Book is unique in the New Testament cannon in that one main thesis is developed and sustained throughout the document."
+*Context Source: Page 2, Paragraph 3*
 
-> "The Book is unique in the New Testament cannon in that one main thesis is developed and sustained throughout the document"
-*Context Source: Page 2*
+> "In this passage, John is teaching that Christians should not sin. Nevertheless, it assures us that if we do sin, we have someone who speaks to the Father on our behalf."
+*Context Source: Page 4, Column 1*

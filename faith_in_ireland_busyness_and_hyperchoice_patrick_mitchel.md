@@ -1,49 +1,49 @@
 ---
-title: "Faith in Ireland: Busyness and Hyperchoice"
+title: "FAITH in IRELAND: Busyness and Hyperchoice"
 author: "Patrick Mitchel"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
   - author/patrick_mitchel
 aliases:
-  - "Faith in Ireland: Busyness and Hyperchoice"
+  - "FAITH in IRELAND: Busyness and Hyperchoice"
 ---
 
-# Faith in Ireland: Busyness and Hyperchoice
+# FAITH in IRELAND: Busyness and Hyperchoice
 **Author:** [[Patrick Mitchel]]
 
 ## 1. Cleaned Document Text
-The document, titled 'Faith in Ireland: Busyness and Hyperchoice' by Patrick Mitchel, outlines objectives for a class examining the characteristics of modern culture. It identifies a need to assess the positive and negative aspects of contemporary society and to discuss the resulting challenges for Christian faith and mission. The document includes a framework for comparing life in the Irish town of Lucan between 1950 and 2010 across various social and cultural metrics.
+FAITH in IRELAND: Busyness and Hyperchoice. Objectives of this class: To identify characteristics, good and bad, of our modern culture. To discuss challenges posed by this culture for Christian faith and mission. Living in the Modern World: Lucan: A typical Irish town 1950 - 2010. Comparison of various social and cultural metrics between 1950 and 2010 in Lucan.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
 Comparison of,Life in LUCAN 1950?,Life in LUCAN 2010
-Relationship to land,,
-Sense of community,,
-Rate of change,,
-Buildings,,
-Expectations,,
-Artistry & beauty,,
-neighbourliness,,
-Sense of place,,
-Sense of time,,
-Local involvement,,
-Knowledge,,
+Relationship to land,, 
+Sense of community,, 
+Rate of change,, 
+Buildings,, 
+Expectations,, 
+Artistry & beauty,, 
+neighbourliness,, 
+Sense of place,, 
+Sense of time,, 
+Local involvement,, 
+Knowledge,, 
 Attitude to nature,,
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Cultural Transformation
-The study encourages an examination of how societal shifts between 1950 and 2010 have altered basic human experiences, community structures, and the perception of the environment.
+### Theme: Modern Cultural Challenges
+The study focuses on evaluating the characteristics of modern Irish life and the subsequent implications for maintaining Christian faith and mission in a landscape defined by 'busyness' and 'hyperchoice'.
 
-### Theme: Christian Faith in Modernity
-The document situates Christian faith within a critical dialogue concerning 'busyness' and 'hyperchoice,' asking how mission and belief are challenged by modern cultural values.
+### Theme: Socio-Historical Comparison
+The document utilizes a comparative framework between 1950 and 2010 to highlight shifts in societal values, community structure, and human relationship to the environment in the town of Lucan.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "To identify characteristics, good and bad, of our modern culture. To discuss challenges posed by this culture for Christian faith and mission."
-*Context Source: Page 1: Objectives of this class*
+*Context Source: Page 1, Objectives section*
 
-> "Living in the Modern World: Lucan: A typical Irish town 1950 – 2010?"
-*Context Source: Page 1: Comparison header*
+> "Living in the Modern World: Lucan: A typical Irish town 1950 - 2010?"
+*Context Source: Page 1, Header for the comparative analysis chart*

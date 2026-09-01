@@ -1,7 +1,7 @@
 ---
 title: "A Short History of the Early Church"
 author: "Harry R. Boer"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,27 @@ aliases:
 **Author:** [[Harry R. Boer]]
 
 ## 1. Cleaned Document Text
-This document provides a historical overview of early church theology, focusing on major controversies such as Sabellianism, Arianism, and the Pelagian controversy. It highlights the development of the Nicene Creed, the political involvement of leaders like Constantine, and the significant contributions of influential church figures including Athanasius and Augustine. The text explores the tension between institutionalization, theological orthodoxy, and the human experiences of early Christians.
+The document provides an overview of early Christian history, specifically focusing on the Trinitarian controversies, the development of theological doctrine, and the biographies of church leaders like Athanasius and Augustine. It explores key concepts such as Adoptionism, Sabellianism, Arianism, the Council of Nicaea, and the impact of these developments on the unity of the church. The text also examines the theological contributions of Augustine of Hippo, including his works 'The Confessions', 'The City of God', and 'On the Trinity'.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Trinitarian Controversy
-Explores the debate over the nature of the Godhead, specifically the tension between maintaining monotheism and defining the divinity of Christ and the Holy Spirit, leading to the formulation of the Nicene Creed.
+The theological struggles within the early church to define the nature of the Godhead, specifically the relationship between the Father, the Son (Logos), and the Holy Spirit, involving figures like Sabellius, Arius, and Athanasius.
 
-### Theme: Church-State Relations
-Examines the role of Roman political leaders, particularly Constantine, in enforcing church orthodoxy and managing internal church conflicts to preserve imperial unity.
+### Theme: Theological Institutionalization
+The process by which Christianity transitioned from a persecuted sect to a state-recognized religion, leading to political entanglements, the Council of Nicaea, and debates over orthodoxy versus heresy.
 
-### Theme: Grace and Human Nature
-Augustine’s arguments regarding the total dependency of humanity on divine grace versus the Pelagian view emphasizing human free will and the possibility of a sinless life.
+### Theme: Patristic Theology and Influence
+The pivotal role of figures like Augustine of Hippo in shaping Western Christian thought through their synthesis of classical philosophy (Neo-Platonism) and Christian doctrine, addressing issues of salvation, human nature, and original sin.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "The most influential answer given in the West was posed by Tertullian. Indeed, it provided the foundation for the answer that the Catholic Church was to give to the problem at Nicaea in 325 and again at Constantinople in 381."
-*Context Source: Page 113, The Trinitarian Controversy*
+> "The Trinitarian controversy began with Arius, a presbyter in the church in Alexandria. He was a disciple of Lucian, who in turn was a student of Paul of Samosata, bishop of Antioch from 260 to 272."
+*Context Source: Page 3*
 
-> "No one followed the situation more closely than Constantine. His political eye saw that the unity of the empire was in danger. Politically, the empire was one; theologically, it was two."
-*Context Source: Page 114, The Council of Nicaea*
+> "The council also rejected those who teach that 'there was when the Son of God was created, or changeable, or of another substance than the Father. Any who believed these errors was anathematized (i.e., declared accursed)."
+*Context Source: Page 4*
 
-> "Pelagius, probably an Irish monk in Rome, caused the greatest controversy in Augustine's time. He taught that God gave to every man the possibility of living a sinless life. This possibility is God's gift: man does not have it of himself."
-*Context Source: Page 161, Against the Pelagians*
+> "The first and best-known of the three books is his Confessions. In it Augustine examines his spiritual life and makes confession of his sins, but only in order to rightly confess God's praise."
+*Context Source: Page 7*
+
+> "Augustine developed the doctrine of the Trinity in two ways. In the first place, he taught the full equality of the Father, the Son, and the Holy Spirit."
+*Context Source: Page 8*

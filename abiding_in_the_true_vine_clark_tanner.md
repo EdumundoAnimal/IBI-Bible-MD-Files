@@ -1,7 +1,7 @@
 ---
 title: "Abiding in the True Vine"
 author: "Clark Tanner"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,53 +14,36 @@ aliases:
 **Author:** [[Clark Tanner]]
 
 ## 1. Cleaned Document Text
-This sermon provides an exposition of John 15:1-15, focusing on the metaphor of Jesus as the 'True Vine'. The author addresses the theological concept of 'abiding' in Christ, distinguishing between true believers who produce the fruit of the Spirit and those who are merely 'attached' to the church, such as Judas Iscariot. The text emphasizes that true believers are pruned by God to bear more fruit, not to earn salvation but as a testament to their union with Christ. The sermon clarifies that the 'fruit' is not worldly success or material gain, but rather the character attributes defined in Galatians 5. It concludes by reflecting on the assurance of the believer and the nature of the relationship between Jesus and his followers.
+The article provides an expository analysis of John 15:1-11, focusing on the metaphor of Jesus as the 'True Vine.' The author examines the distinction between branches that truly abide in the vine—demonstrating spiritual fruit of the Spirit—and those that are merely 'attached' or pretending, such as Judas Iscariot. The text clarifies that fruitfulness is not defined by worldly success, financial wealth, or outward church affiliation, but by the indwelling Spirit of God. It explores the theological concepts of eternal security, divine pruning through discipline, and the nature of abiding love as an evidence of genuine faith rather than a condition for salvation.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Type,Abiding in the True Vine (Believer),Attached to the Vine (Pretender)
-```
-
-### Table 2
-```csv
-Status,United with Christ,Attached but not abiding
-```
-
-### Table 3
-```csv
-Fruit,Bears fruit (Spirit-led),Bears no fruit (does nothing)
-```
-
-### Table 4
-```csv
-Pruning,Pruned by the Vinedresser,Not pruned (eventually removed)
-```
-
-### Table 5
-```csv
-Outcome,Glorifies the Father,Taken away and burned
+Type,Evidence of Faith,Fate of Branch,Joy/Love Status,Fruit Status.True Branch,Abiding in Christ/Pruned by Father,Remains/Bear more fruit,Experiences Joy and Father's Love,Bears Spiritual Fruit (Fruit of Spirit).Judas/Attached Branch,Attached to church/Not abiding,Taken away and burned,No Joy/No Father's Love,Bears no spiritual fruit
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Abiding in Christ
-The theological state of being vitally joined to Jesus, characterized by continuous presence and dependence rather than a temporary or superficial connection.
+### Theme: The Metaphor of the Vine
+Explores Jesus' claim to be the 'True Vine' in contrast to the historical metaphor of Israel as a vine, emphasizing Jesus as the source of eternal life.
+
+### Theme: Abiding vs. Attaching
+Distinguishes between genuine spiritual union with Christ ('abiding') and the superficial appearance of attachment to the church ('attaching'), using Judas as the primary example.
 
 ### Theme: The Nature of Spiritual Fruit
-Distinguishes between worldly success or material deeds and the 'fruit of the Spirit' (love, joy, peace, etc.), which originates from the internal work of the Spirit.
+Argues that fruitfulness is not material success or worldly accomplishment, but the internal manifestation of the 'Fruit of the Spirit' (love, joy, peace, etc.).
 
-### Theme: Theological Assurance
-The argument that the pruning process and adherence to Christ's commandments are evidences of a pre-existing salvation rather than conditions to earn it.
+### Theme: Divine Pruning
+Interprets the pruning process as a form of divine discipline for believers, ensuring their spiritual maturity and clarifying their identity as children of God.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "I am the true vine, and My Father is the vinedresser."
 *Context Source: Page 1, quoting John 15:1*
 
-> "The one who abides in the True Vine, bears fruit (vs 2&8), is pruned by the Vinedresser (vs 2), Glorifies the Father (vs 8), and has the joy of the Lord (vs 11)."
+> "There are those, and I would use the word 'many', who have attached themselves to the church who are not truly of the church."
+*Context Source: Page 3*
+
+> "The branch that is eventually cast away, taken away, cannot be a metaphor of a believer who loses his salvation as is sometimes taught."
 *Context Source: Page 4*
 
-> "The Judas branch, who is only attached but not abiding, bears no fruit/can do nothing (vs 2&5), is taken away and burned (vs 6), has no joy (by implication of the wording of verse 11)."
-*Context Source: Page 4*
-
-> "It is not a difference in the appearance of the branches but in the ultimate fate of the branches and it has to do with God's working."
+> "God loves you enough to spank you, believer."
 *Context Source: Page 6*

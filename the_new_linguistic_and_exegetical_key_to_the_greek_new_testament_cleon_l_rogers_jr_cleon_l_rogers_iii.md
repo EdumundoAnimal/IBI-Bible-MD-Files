@@ -1,7 +1,7 @@
 ---
 title: "The New Linguistic and Exegetical Key to the Greek New Testament"
 author: "Cleon L. Rogers Jr. & Cleon L. Rogers III"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,35 +14,24 @@ aliases:
 **Author:** [[Cleon L. Rogers Jr. & Cleon L. Rogers III]]
 
 ## 1. Cleaned Document Text
-This document provides a technical, linguistic, and exegetical analysis of the Greek New Testament. It includes systematic lexical notes and parsing for key Greek terms, providing context on verb tenses (aorist, present, perfect), mood (subjunctive, indicative), and syntactic constructions found in John 15 and 16. Additionally, it outlines methodological steps for conducting full New Testament exegesis, including comparative translation, sentence diagramming, and tracking the logical flow of arguments within the text.
-
-## 2. Quantitative Metric Tables
-### Table 1
-```csv
-Term,Parsing,Grammatical Significance,Exegetical Note
-αἰτέω,aor. subj. act.,Third class conditional clause,Often refers to asking in the context of Jesus' prayers
-τηρέω,fut. ind. act.,Future indicative,Used to denote keeping or guarding commandments
-παράκλητος,noun,Substantive,Technical term for the Helper or Comforter (Holy Spirit)
-μένω,pres. act. part.,Present active participle,Indicates a continuous state of remaining or abiding
-ἵνα,conjunction,Subjunctive,Typically used to express purpose or intent
-```
+This document provides a linguistic and exegetical analysis of the Greek New Testament. It includes detailed grammatical breakdowns of passages such as John 15 and John 16, exploring verbal aspects (e.g., aorist vs. present tense), theological implications of specific Greek terms, and contextual analysis. It also provides pedagogical instructions for conducting New Testament exegesis, including comparative translation analysis and structural diagramming.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Greek Philology and Syntax
-The text emphasizes the importance of accurate parsing—identifying the tense, mood, and voice of Greek verbs—to understand the precise meaning of the biblical text, specifically distinguishing between durative, punctiliar, and perfect aspects.
+### Theme: Greek Grammatical Exegesis
+The text focuses on identifying the specific grammatical forms (aorist, present, imperfect, subjunctive, etc.) of Greek verbs to derive precise nuances in the meaning of the New Testament text.
 
-### Theme: Exegetical Methodology
-The authors propose a rigorous framework for exegesis involving: 1) comparative analysis of seven translations, 2) identification of significant differences, 3) sentence diagramming to trace logical flow, and 4) deep examination of syntactical structure.
+### Theme: Exegesis Methodology
+The authors provide a structured guide for rigorous biblical exegesis, advocating for steps such as comparing multiple translations, identifying text-critical issues, and creating syntactic diagrams to understand argument flow.
 
-### Theme: Johannine Theology
-Through the examination of John 15 and 16, the text explores major theological motifs such as the 'vine' as a symbol of Jewish heritage, the abiding presence of the Holy Spirit, and the promise of the Helper to the disciples.
+### Theme: Theological Contextualization
+Beyond grammar, the text connects linguistic analysis to broader theological themes such as the 'true vine' imagery, the nature of the Paraclete (Holy Spirit), and the relationship between Christ and his followers.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "At times the grammar of a given sentence is so complex that it is useful to diagram its constituent parts."
+> "1 ἀμπελος (# 306) vine. For the Jewish symbol of the vine S. Barrett; Hoskyns; DJG, 867-68. ἀληθινός (# 240) true, genuine; cf. Isa. 5:1-2, 7; Hos. 10:1; Jer. 2:21; Ezek. 15; Ps. 80:9-12, 15f; Lev Rabba 36: 2; SB, 2:563."
+*Context Source: Page 3, John 15 entry*
+
+> "3.3.1. Secure at least seven different translations (preferably the KJV, NASB, NRSV, TNIV, GNB, REB, NJB (or NAB) although any number of other modern translations will serve as well in place of the final three; see the bibliography in IV.3 for these choices)."
+*Context Source: Page 6, Section 3.3.1*
+
+> "4.2. Make a sentence diagram. (See II.1.2) At times the grammar of a given sentence is so complex that it is useful to diagram its constituent parts."
 *Context Source: Page 6, Section 4.2*
-
-> "The best way to write out the text is in the form of a sentence flow, with marginal annotations tracing the flow of the argument."
-*Context Source: Page 6, Section 4.1*
-
-> "1 ἄμπελος (# 306) vine. For the Jewish symbol of the vine S. Barrett; Hoskyns; DJG, 867-68. ἀληθινός (# 240) true, genuine; cf. Isa. 5:1-2, 7; Hos. 10:1; Jer. 2:21; Ezek. 15; Ps. 80:9-12, 15f; Lev Rabba 36: 2; SB, 2:563."
-*Context Source: Page 3, John 15 Commentary*

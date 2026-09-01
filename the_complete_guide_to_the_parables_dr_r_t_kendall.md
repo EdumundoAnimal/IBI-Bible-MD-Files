@@ -1,7 +1,7 @@
 ---
 title: "The Complete Guide to the Parables"
 author: "Dr. R. T. Kendall"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,7 +14,7 @@ aliases:
 **Author:** [[Dr. R. T. Kendall]]
 
 ## 1. Cleaned Document Text
-The text provides an analytical look at the Parables of Jesus, focusing on the Parable of the Barren Fig Tree and the Parable of the Vineyard. It explores theological themes such as divine patience, repentance, sovereign grace, and the relationship between obedience and love. The document also excerpts material regarding the deity of Christ and the importance of loving God above all family and worldly commitments.
+The provided text contains analysis of the Parable of the Barren Fig Tree and the Parable of the Vineyard. The Parable of the Barren Fig Tree (Luke 13:6) illustrates God's patience, the necessity of repentance, and the potential for judgment against unfruitful lives or nations. The Parable of the Vineyard (Matthew 20:1-16) highlights God's sovereignty, the nature of grace, and warns against jealousy and the idea that service is transactional. Additionally, the text covers themes of total commitment to Jesus, overuling human expectations of fairness, and the necessity of aligning with God's sovereign will.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
@@ -24,23 +24,23 @@ Honors,Attributes,Names,Deeds,Seat
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Divine Patience and Judgment
-The text argues that God demonstrates immense patience with humanity, yet there is a limit where lack of fruit (spiritual growth/obedience) leads to judgment.
+God shows incredible patience, waiting for fruit, but ultimately holds individuals and nations accountable, as illustrated by the barren fig tree which faced the threat of destruction.
 
-### Theme: The Necessity of Repentance
-Repentance is presented as a gift of God necessary for all, noting that even those seemingly 'good' face the reality of perishing without it.
+### Theme: Grace versus Merit
+In the Parable of the Vineyard, God demonstrates that His rewards are based on His sovereignty and grace, not on a human-calculated system of merit or length of service.
 
-### Theme: Sovereign Grace and Equality
-In the Parable of the Vineyard, the author emphasizes that God's grace is sovereign and not based on human concepts of economic fairness or length of service.
+### Theme: Total Commitment
+True discipleship requires prioritizing Jesus above all earthly relationships, even to the point of what may be metaphorically described as 'hating' those relationships in comparison to one's love for God.
 
-### Theme: Love and Obedience
-True love for God is defined as active obedience to His commandments, which must supersede loyalty to family and personal desires.
+### Theme: The Danger of Envy
+Envy is identified as a corrosive force that causes individuals to lose their peace, blinding them to God's generosity toward others and leading to a self-righteous spirit.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "First, we can see in this parable the incredible patience of God. God is like the owner of this vineyard who was upset with the fig tree."
-*Context Source: Page 3*
+> "This is the judgment of God. This parable also shows that God may rescind His will if He so chooses."
+*Context Source: Page 3, discussing the Parable of the Barren Fig Tree*
 
-> "This parable is also about the Gospel of grace. It shows the sheer, outrageous grace of God. We are all saved by God's grace."
-*Context Source: Page 8*
+> "The parable is about God's sovereignty. He has the right to do what He wants with His resources."
+*Context Source: Page 8, discussing the Parable of the Vineyard*
 
-> "In the Gospel of John, Jesus repeatedly associates love for him with obedience to his commandments."
-*Context Source: Page 16*
+> "Jesus repeatedly associates love for him with obedience to his commandments."
+*Context Source: Page 16, discussing the relationship between love and obedience*

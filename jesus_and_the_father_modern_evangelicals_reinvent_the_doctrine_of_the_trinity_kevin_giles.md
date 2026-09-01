@@ -1,7 +1,7 @@
 ---
 title: "Jesus and the Father: Modern Evangelicals Reinvent the Doctrine of the Trinity"
 author: "Kevin Giles"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,35 +14,30 @@ aliases:
 **Author:** [[Kevin Giles]]
 
 ## 1. Cleaned Document Text
-The document explores the contemporary evangelical debate regarding the doctrine of the Trinity. It specifically addresses 'eternal subordination' theories, contrasting them with historical orthodox views, and critiques the use of human fatherhood models to explain divine relationships. The text emphasizes that modern arguments for subordinating the Son to the Father often mirror ancient heresies and that such theological frameworks negatively influence concepts of gender roles in the church and family.
+This document examines the contemporary evangelical debate surrounding the doctrine of the Trinity, specifically focusing on the debate over the 'eternal subordination' of the Son to the Father. The author, Kevin Giles, argues against the notion that the Son is eternally subordinate in function or authority, positing that such a view undermines the traditional doctrine of the Trinity. The text includes historical context, analyzing the views of church fathers like Athanasius, Tertullian, and Origen, and critiques the use of human father-son relationships as a theological model for understanding the divine Trinity.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Greek,Latin,English
-ousia,substantia,being/substance
-physis,essentia,nature
-prospoa,personae,persons
-hypostases,subsistentiae,substistence/modes of subsistence
-tropos hyparxeos,,modes or ways of being/existing
+Greek,Latin,English,physis,substantia,being/substance,ousia,essentia,essence,prosopa,personae,persons,hypostases,subsistentiae,subsistences/modes of subsistence,tropos hyparxeos,,modes or ways of being/existing
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Eternal Subordination
-The critique of the modern evangelical argument that the Son is eternally subordinate to the Father in terms of function or authority, which the author argues borders on Arianism and contradicts historical orthodoxy.
+### Theme: Eternal Functional Subordination
+The theological position arguing that the Son is eternally subordinate to the Father in function or role, even while remaining equal in nature or essence.
 
-### Theme: Theological Hermeneutics
-The methodology of using human experiences, specifically human fatherhood, as a template to define divine relationships, which the author argues is logically flawed and risks 'anthropomorphic' theology.
+### Theme: Divine Essence and Equality
+The traditional orthodox view emphasizing that the three persons of the Trinity are equal in being, nature, and authority, and that subordinationism in any form is a heretical error.
 
-### Theme: Historical Orthodoxy
-The importance of referencing the Nicene Creed and historical church fathers to maintain a biblically grounded understanding of the Trinity, rejecting 'reinventions' that introduce hierarchy within the Godhead.
+### Theme: Anthropomorphic Analogy
+The critique that using human father-son or husband-wife relationships as a model for the divine Trinity is flawed and leads to dangerous theological conclusions about equality.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "If the reader cannot separate the question of what is the orthodox doctrine of the Trinity from their belief that women are permanently subordinated to men in the home and the church, they should not bother to read on."
-*Context Source: Page 54*
+> "In the contemporary evangelical literature advocating the eternal subordination of the Son, we are told that there is a fully orthodox subordinationism and a heretical subordinationism, called Arianism."
+*Context Source: Page 3*
 
-> "In the contemporary evangelical literature advocating the eternal subordination of the Son, we are told that there is a fully orthodox subordinationism and a heretical subordinationism, called Arianism. This is asserted time and time again. Grudem spells out the point: 'The heresy of subordinationism, which holds that the Son is inferior in being to the Father, should be distinguished from the orthodox doctrine that the Son is eternally subordinate to the Father in role or function.'"
-*Context Source: Page 54*
+> "First of all I argue that eternal functional or role subordination involves by necessity subordination, and cannot be otherwise, then in his being/essence/nature/substance he is in some way less than the Father."
+*Context Source: Page 4*
 
-> "What we learn from all this is that the evangelical theologians is normative concern to avoid human experience as a basis for theological formulations is based on good grounds. In this case, when this rule is breached, profound error follows."
-*Context Source: Page 66*
+> "The most common arguments found in the evangelical literature in support of the eternal subordination of the Son is that the divine Father-Son relationship is to be understood in terms of the human father-son relationship."
+*Context Source: Page 7*

@@ -1,7 +1,7 @@
 ---
 title: "Stress Unity: Non Essentials"
 author: "Eamon"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -18,23 +18,20 @@ The non essentials deals mostly with unity. Paul felt that all days were just as
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Christian Unity
-The necessity of maintaining fellowship and avoiding division within the church despite differing personal convictions on non-essential matters like diet or ritual.
+The necessity of maintaining fellowship between believers of different convictions regarding non-essential matters like diet and days of observance.
 
-### Theme: Stronger vs. Weaker Brothers
-The ethical responsibility of those with stronger convictions to accommodate those with weaker, more restrictive consciences to prevent causing them to stumble.
+### Theme: Strong vs. Weak Believers
+The responsibility of those with 'liberty' (the strong) to avoid offending those with conscience-based restrictions (the weak) and the mutual requirement to avoid judgmental behavior.
 
-### Theme: Exclusivity of Divine Judgment
-The theological position that humans are not authorized to judge other believers' practices, as final judgment belongs solely to God.
+### Theme: Sovereignty of God in Judgment
+The argument that because God is the final judge, humans should refrain from passing moral judgments on other believers' personal practices.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "As a stronger brother, they are to accept the weaker without judgment."
+> "However, as the 'stronger' Christian, it is our duty to remain unified and accept our weaker brothers."
 *Context Source: Page 1*
 
 > "It is not what goes into a man that makes him unclean, but what comes out. It is a matter of the heart."
-*Context Source: Page 1*
-
-> "Judgment belongs to God."
-*Context Source: Page 2*
+*Context Source: Page 1, referencing Mark 7:15-19*
 
 > "Colossians 2:16 speaks of not judging because of what someone may eat. It is not what the things that we uphold or the food we abstain from; these are only a 'shadow'. Christ it the reality."
 *Context Source: Page 2*

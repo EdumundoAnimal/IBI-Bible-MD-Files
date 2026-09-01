@@ -1,7 +1,7 @@
 ---
 title: "The New Testament in its Social Environment"
 author: "John E. Stambaugh and David L. Balch"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,33 @@ aliases:
 **Author:** [[John E. Stambaugh and David L. Balch]]
 
 ## 1. Cleaned Document Text
-The text provides a detailed socio-historical examination of the New Testament era. It covers the structure of daily family life, the religious significance of the synagogue, the observance of holy days such as the Sabbath, Passover, and the Day of Atonement, and the complex roles of Sadducees, Pharisees, and scribes. It also explores the economic conditions of the time, the geographic and social tensions between Galilee and Jerusalem, and the unique ecological and social pressures that shaped the early Jesus movement.
+The text explores the social environment of the New Testament era, focusing on family life, the synagogue, religious festivals, and the influence of purity laws. It highlights the tension between Jewish communities and Hellenistic/Roman environments, the economic pressures on the peasantry, and the distinctive social structure of the early Jesus movement, including its communal aspects and its radical redefinition of familial and social ties.
+
+## 2. Quantitative Metric Tables
+### Table 1
+```csv
+Category,Key Characteristics;1. Community Life,Rabbi-led marriage, Bar Mitzvah (boys age 13), services with readings/sermons;2. Sabbath,Time of rest, strictly observed;3. Annual Festivals,Passover and other set festivals;4. Purity,Priestly washings, Pharisaic oral law regarding sick people and foreigners;5. Temple,Attraction to Jerusalem, temple tax, population pressure
+```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Sociological Context of the New Testament
-The authors argue that the New Testament must be interpreted through the lens of first-century Palestinian social structures, including rural vs. urban tensions, economic disparity, and strict adherence to religious law.
+### Theme: Social Identity and Purity
+Exploration of how purity laws and religious obligations served to preserve a distinct Jewish identity amidst Hellenistic influence.
 
-### Theme: Jewish Rituals and Law
-Analysis of how rituals like the Sabbath and the observance of annual festivals acted as markers of identity, while the purity codes maintained by groups like the Pharisees served to set Jews apart from others.
+### Theme: Economic Pressure and Peasantry
+Analysis of the fiscal burdens placed on rural workers, including taxation and debt, which created social instability.
 
-### Theme: The Jesus Movement as a Socio-Religious Response
-The Jesus movement is analyzed as a renewal group that navigated ecological pressures, economic deprivation, and cultural shifts under Roman occupation and influence.
+### Theme: Jesus Movement Characteristics
+Examination of the early Jesus movement's departure from traditional patriarchal and family structures in favor of a new communal identity.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "The villagers assembled for religious services in the synagogue, which also served as a town hall for community affairs."
-*Context Source: Page 85, The Synagogue*
+*Context Source: Page 85, Section: The Synagogue*
 
-> "The Pharisees, whose concerns were focused on strict legality, were the professional scholars of the Torah."
-*Context Source: Page 99, Scribers and Pharisees*
+> "The annual festivals were extended by rule that were attempted to ensure the rabbinic rules against mounting challenges."
+*Context Source: Page 86, Section: Holy Days: Sabbath and Annual Festivals*
+
+> "Taxes fell heavily on these peasants. They not only had to pay tribute to Rome but also had to support Herod's lavish building in Judea and in various Greek cities as far away as Antioch."
+*Context Source: Page 92, Section: Galilee*
 
 > "Jesus formed a renewal movement in this society that was influenced by ecological, political, and cultural factors."
-*Context Source: Page 102, Ecology of the Jesus Movement*
+*Context Source: Page 102, Section: Ecology of the Jesus Movement*

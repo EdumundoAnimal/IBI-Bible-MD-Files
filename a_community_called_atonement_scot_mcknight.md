@@ -1,7 +1,7 @@
 ---
 title: "A Community Called Atonement"
 author: "Scot McKnight"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,30 +14,27 @@ aliases:
 **Author:** [[Scot McKnight]]
 
 ## 1. Cleaned Document Text
-The document explores various theological metaphors for the atonement of Christ, arguing that no single metaphor captures the full scope of Christian doctrine. It emphasizes 'identification' as a central theme, where Christ identifies with humanity in all aspects of life and death. The author critiques exclusive reliance on penal substitution, suggesting that while it has biblical validity, it often leads to distortions of God's character when presented in isolation. The book proposes an integrative approach, using multiple metaphors—such as representation, incorporation, and ransom—to reflect the multifaceted nature of God's redemptive work. It encourages a shift from abstract theorizing to 'atonement as praxis,' where the doctrines influence lived faith and community life.
+The book explores various theological metaphors for the Atonement of Christ, arguing that the Christian community must embrace a multiplicity of biblical images rather than focusing on a single theory like penal substitution. The author proposes an 'identification for incorporation' model, emphasizing that Christ's life, death, and resurrection reconcile and transform humanity into a community that lives out the gospel. Key themes include the rejection of polarizing the Father against the Son, the importance of 'Eikons' (humanity in the image of God) being restored, and the view that atonement is not just an abstract legal transaction but a transformative praxis for the life of the church.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Metaphorical Pluralism
-The argument that biblical theology uses multiple, overlapping metaphors to describe the atonement rather than a single, exhaustive definition.
+### Theme: Theological Bricolage
+McKnight argues for using a multiplicity of biblical metaphors for the Atonement rather than reducing the complex reality of Christ's work to a single, narrow theory.
 
-### Theme: Identification
-The core concept that Christ's work is defined by His identification with humanity in life, death, and resurrection, rather than solely as a legal transaction.
+### Theme: Identification for Incorporation
+The concept that Christ identifies with humanity 'all the way down' in death and suffering to incorporate believers into his own redemptive, resurrected life.
 
 ### Theme: Critique of Penal Substitution
-An analysis suggesting that penal substitution is valid but prone to caricatures that present God as bipolarly divided between wrath and love.
+McKnight critiques the common interpretation of penal substitution that portrays the Father as vengeful and the Son as a victim, advocating instead for a Trinitarian view that preserves the unity of God's love and holiness.
 
 ### Theme: Atonement as Praxis
-The belief that atonement is not just an abstract doctrine but a reality that should be lived out in the community and daily life.
+The argument that understanding the Atonement is fundamentally about active, lived-out community life rather than purely cognitive or propositional agreement.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Metaphor is more than ornamental decoration on a more fundamental propositional reality, more than a homey story in a sermon or a clever picture to illustrate a point."
-*Context Source: Page 4*
+> "It is easy to be faithful to one biblical metaphor for the atonement—say ransom or justification—and work hard at making everything fit into that image. The difficult art of bricolage, of taking all the biblical images and combining them into an expression that manages to keep all of them in play at the same time, is much more demanding."
+*Context Source: Page 3*
 
-> "Penal substitution contends that God is holy and that humans are sinful. God, because he is holy, can't simply ignore sin and but has to punish it (hence, penal). Jesus Christ, the God-Man, stood in the sinner's place, absorbing God's just punishment on sin and sinners (hence, substitution)."
-*Context Source: Page 5*
+> "But if we take the recapitulation theory of those like Irenaeus up through Athanasius, we are hearing the central core of what I am calling identification for incorporation: Jesus became what we are so that we could become what he is."
+*Context Source: Page 12*
 
-> "Greater care should be used in articulating what is meant by penal substitution. In particular, I see two distortions and a problem present in some discussions of penal substitution."
-*Context Source: Page 6*
-
-> "I suggest that we see the achievement of the cross in three expressions: Jesus dies "with us"—entering into our evil and our suffering; Jesus dies "instead of us"—he enters into our sin, our wrath, and our death; and Jesus dies "for us"—his death forgives our sin, "declares our right," absorbs the wrath of God against us, and creates new life where there was once only death."
+> "The cross is a life bent on dying daily to self in order to love God, self, others, and the world. And a life shaped by the cross sees in the cross God becoming the victim, identifying with the victim, suffering injustice, and shaping a cruciform pattern of life for all who would follow Jesus."
 *Context Source: Page 11*

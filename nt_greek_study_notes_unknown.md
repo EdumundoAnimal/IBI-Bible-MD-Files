@@ -1,7 +1,7 @@
 ---
 title: "NT Greek Study Notes"
 author: "Unknown"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,58 +14,30 @@ aliases:
 **Author:** [[Unknown]]
 
 ## 1. Cleaned Document Text
-A comprehensive set of handwritten study notes documenting New Testament Greek grammar, vocabulary lists, verb conjugations, and translation exercises covering weeks 1 through 9.
+This document contains a series of handwritten notes for a New Testament Greek study course, spanning weeks 1 through 9. The content includes Greek alphabet basics, pronunciation rules (breathing, diphthongs), noun declensions, verb conjugations, and translations from Greek to English and vice versa, often focusing on biblical phrases and theology.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Number,Case,Nominative,Accusative,Genitive,Dative
-Singular,log-os,log-ou,log-ou,log-oi
-Plural,log-oi,log-ous,log-ou,log-ois
-```
-
-### Table 2
-```csv
-Word,Meaning
-ballo,I throw
-blepo,I see
-basileuo,I reign
-ginosko,I know
-grapho,I write
-egeiro,I raise
-esthio,I eat
-heurisko,I find
-echo,I have
-therapeuo,I heal
-katheudo,I sleep
-keleuo,I order
-krino,I judge
-lambano,I take
-lego,I say
-luo,I loose
-meno,I remain
-nesteuo,I fast
-pempo,I send
-propheteuo,I prophesy
-sodzo,I save
+Case,Singular,Plural,1. Nominative,Royos,Royol,2. Vocative,Roye,Royol,3. Accusative,Royous,Royov,4. Genitive,Royou,Royov,5. Dative,Royou,Royols
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: New Testament Greek Grammar
-The notes focus on mastering noun declensions, verb conjugations (present active indicative), and the function of the definite article in Greek sentences.
+### Theme: Biblical Greek Grammar
+Systematic breakdown of New Testament Greek, including parts of speech, noun cases (Nominative, Vocative, Accusative, Genitive, Dative), and verbal endings.
 
-### Theme: Biblical Hermeneutics
-Integration of language learning with biblical interpretation, specifically focusing on theological terms like 'agape', 'logos', and concepts from John's gospel.
+### Theme: Theological Exegesis
+Translation and analysis of specific biblical verses and concepts, such as the nature of the Kingdom of God, the role of Jesus as the Son of God, and the concept of God as love ('ho Theos agape estin').
 
-### Theme: Translation Methodology
-Exercises prioritize literal translation from Greek to English, highlighting that Greek meaning is determined by case endings rather than word order.
+### Theme: Linguistic Methodology
+Techniques for language acquisition including transliteration, identifying stems, contraction rules, and the use of dictionaries or vocabulary lists.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "The kingdom of God is not bread and money but righteousness and peace."
-*Context Source: Page 1*
+> "ho Theos agape estin"
+*Context Source: Page 28: A fundamental theological statement translated as 'God is love'.*
 
-> "God is love."
-*Context Source: Page 28*
+> "ho huios tou Theou"
+*Context Source: Page 25: A phrase translated as 'the Son of God'.*
 
-> "The voice and the letters of the apostle speak the mysteries of the gospel."
-*Context Source: Page 28*
+> "Every word that begins with a vowel must have a breathing"
+*Context Source: Page 4: A fundamental rule regarding Greek orthography.*

@@ -1,7 +1,7 @@
 ---
 title: "Preaching the Whole Bible as Christian Scripture"
 author: "Graeme Goldsworthy"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,33 +14,24 @@ aliases:
 **Author:** [[Graeme Goldsworthy]]
 
 ## 1. Cleaned Document Text
-The text serves as a guide for using Old Testament historical narrative texts in Christian expository preaching. It emphasizes that while historical narratives are often used for moral exemplarity, they must be situated within the broader biblical-theological framework of the drama of redemption. The author warns against treating these stories in isolation, advocating for a approach that links individual texts to the overarching narrative of salvation history and the fulfillment of God's redemptive plan in Jesus Christ. The document includes specific examples such as the story of Noah, Ruth, the bringing of the Ark to Jerusalem, and the rebuilding of the walls of Jerusalem by Nehemiah, demonstrating how to bridge these historical accounts with the gospel message.
-
-## 2. Quantitative Metric Tables
-### Table 1
-```csv
-Epoch,Description,Focus,Key Figures
-A,Creation to David/Solomon,Pattern of salvation and the kingdom,Abraham David and Solomon
-B,Exile,Decline and judgment,Exile
-C,New Creation,Restoration,Jesus
-```
+The document explores the challenge of preaching from Old Testament historical narrative texts. It emphasizes that while these narratives are distinct from doctrinal texts, they must be situated within the broader context of biblical-theological salvation history. The author argues against mere moralistic or exemplary preaching, advocating instead for interpreting these texts in light of God's covenantal promises and their ultimate fulfillment in Christ. The text outlines specific examples including the story of Noah, the book of Ruth, the transition of the Ark to Jerusalem, and the rebuilding of the walls in Nehemiah, demonstrating how each fits into the overarching drama of redemption rather than standing as isolated moral lessons.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Biblical Theology
-The necessity of interpreting individual biblical narratives within the context of the total unfolding drama of redemption, moving away from isolated moralistic interpretations.
-
 ### Theme: Salvation History
-The understanding that all scripture, particularly Old Testament narrative, points toward God's plan of salvation as centered in the life, death, and resurrection of Jesus Christ.
+The overarching framework of the Bible as a cohesive narrative of God's redemptive work, beginning with creation, moving through historical epochs, and culminating in the person and work of Jesus Christ.
 
-### Theme: Expository Preaching
-The methodology of ensuring that sermons do not divorce the text from the overarching framework of redemptive history, thereby avoiding moralistic or existential reductions.
+### Theme: Biblical-Theological Preaching
+An approach to homiletics that moves beyond extracting moral lessons from narrative texts, instead connecting the historical specifics of a passage to the broader redemptive-historical movement of the whole Bible.
+
+### Theme: Critique of Moralism
+The author warns against the tendency to treat historical figures primarily as moral role models, arguing that this approach often obscures the primary focus of the text on God's saving activity.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "Historical narrative texts in the Old Testament span the two epochs of salvation history."
-*Context Source: Chapter 10, page 141*
+*Context Source: Page 3, Section: 'Historical Narrative Texts in Biblical-Theological Context'*
+
+> "To sum up the salvation history perspective on narrative texts, we see that there are two main areas or epochs. In the first (epoch A) we will be looking for the text's function in the overall pattern of salvation and the kingdom of God that is revealed up to the first part of Solomon's reign."
+*Context Source: Page 4, Section: 'Historical Narrative Texts in Biblical-Theological Context'*
 
 > "The story is never complete in itself and belongs as part of the one big story of salvation culminating in Jesus Christ."
-*Context Source: Chapter 10, page 151*
-
-> "The narrative of Ruth clearly purports to be history in that the book's resolution leads to the genealogy of David."
-*Context Source: Chapter 10, page 145*
+*Context Source: Page 8, Section: 'Planning Sermons on Historical Narrative Texts'*

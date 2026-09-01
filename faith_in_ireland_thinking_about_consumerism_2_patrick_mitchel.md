@@ -1,7 +1,7 @@
 ---
 title: "Faith in Ireland: Thinking about Consumerism 2"
 author: "Patrick Mitchel"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,24 @@ aliases:
 **Author:** [[Patrick Mitchel]]
 
 ## 1. Cleaned Document Text
-Class 2. Faith in Ireland: Thinking about Consumerism 2. Objectives: To continue to think through issues from everyday life in contemporary Ireland from a Christian perspective. 1. Feedback on what consumerism is and does. 2. Feedback from 'The Gospel According to Safeway'. 3. Problems with consumerism: The big global effects; Personal effects (Life as confetti, No unease with super abundance, Desire is the norm, Focus on experiences, Pleasing of the self is the purpose of life, Over-consumption, Remedial consumption). The example of the porn industry: $13 billion dollars a year; revenue is larger than all combined revenues of all professional football, baseball and basketball franchises. 'Nineties Ireland also witnessed the acceptance of sexual pleasure as a purchasable commodity' (Michael O'Connell). 5. The lonely self: the loss of hope, the dominance of the present, anxiety society. Consumer Christianity? Are we like the 'Frog in a Pot'? 1. Consumer religion?! 'Me Church'. A grander calling beyond consumerism: Consumerism entices us to live for a me-centred story; Jesus calls us to a grander, more worthy and noble task.
+Faith in Ireland: Thinking about Consumerism 2. Objectives: Continue to think through issues from everyday life in contemporary Ireland from a Christian perspective. Key themes: 1. Feedback on consumerism. 2. Feedback from 'The Gospel According to Safeway'. 3. Problems with consumerism: global effects, personal effects (life as confetti, no unease with super abundance, desire as the norm, focus on experiences, pleasing of the self as the purpose of life), and over-consumption/remedial consumption. 4. The example of the porn industry as a massive revenue generator and the commodification of sexual pleasure in 1990s Ireland. 5. The lonely self and the loss of hope, described as the 'dominance of the present' and the 'anxiety society'. 6. Consumer Christianity: Criticizing 'Consumer religion' and the 'ME CHURCH'. Concluding with a call for a 'grander calling beyond consumerism' that moves from a me-centered story to a noble task aligned with Jesus.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Christian Critique of Consumerism
-The text evaluates consumer culture through a theological lens, arguing that it promotes self-centeredness and commodification of human experience.
+### Theme: Consumerism
+An analysis of how modern consumer culture shapes personal identity, fosters an 'anxiety society,' and turns life into fleeting experiences ('life as confetti').
 
-### Theme: The 'Me-Centred' Life
-A focus on the personal psychological effects of consumerism, such as the 'lonely self,' anxiety, and the elevation of personal pleasure as the primary purpose of life.
+### Theme: Christian Critique of Culture
+The document evaluates contemporary societal trends, such as the commodification of pleasure and the 'ME CHURCH' phenomenon, against a Christian framework.
 
-### Theme: Consumer Christianity
-The danger of the church succumbing to consumerist values, leading to a 'Me Church' mentality that aligns with market-driven religious consumption rather than true discipleship.
+### Theme: Spiritual Call to Action
+A move away from self-centered consumerist narratives toward a 'grander calling' and more noble tasks identified through faith.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Consumerism entices us to live for a me centred story. Jesus calls us to a grander, more worthy and noble task!"
-*Context Source: Page 2*
-
 > "Pleasing of the self is the purpose of life"
-*Context Source: Page 1*
+*Context Source: Page 1: Problems with consumerism section.*
 
-> "Are we like the 'Frog in a Pot'? [David Wells]"
-*Context Source: Page 2*
+> "Consumerism entices us to live for a me centred story"
+*Context Source: Page 2: A grander calling beyond consumerism section.*
+
+> "Jesus calls us to a grander, more worthy and noble task!"
+*Context Source: Page 2: A grander calling beyond consumerism section.*

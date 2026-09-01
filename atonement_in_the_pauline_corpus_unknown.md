@@ -1,7 +1,7 @@
 ---
 title: "Atonement in the Pauline Corpus"
 author: "Unknown"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,33 +14,30 @@ aliases:
 **Author:** [[Unknown]]
 
 ## 1. Cleaned Document Text
-This document explores the theological complexities of the atonement within the Pauline corpus. It examines various interpretations of sin, redemption, and reconciliation, specifically focusing on how Paul frames Christ's death as an expiatory sacrifice and the subsequent implications for divine justice, human culpability, and the restoration of relationship between God and humanity. The text evaluates the multifaceted nature of Paul's metaphors, emphasizing that while themes like penal substitution are central, they coexist within a broader framework of eschatology and divine purpose.
+The provided text explores the multifaceted nature of atonement in the Pauline corpus. It examines Paul's interpretation of Christ's death as an expiatory sacrifice, discussing how this relates to reconciliation, redemption, and the multifaceted nature of sin. The text delves into theological themes such as the 'scandal of the cross,' the role of the law, and the interconnectedness of Christ's death and resurrection. It also addresses the concept of God's wrath, noting that it is not merely an emotional or irrational response, but an eschatological reality linked to human rebellion and the ultimate restoration of divine justice. Various metaphors and perspectives on the atonement are considered, emphasizing that no single image captures the full depth of Christ's work, which remains central to Christian belief.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Expiatory Sacrifice
-The argument that Christ's death served as a sacrifice to remove sin and address divine wrath, establishing a channel through which God's love operates.
+Paul's view that Christ's death acts as an expiatory sacrifice, bridging the gap between humanity and God and functioning as the channel through which divine love achieves reconciliation.
 
-### Theme: Penal Substitution
-The theological view that Christ bore the punishment for human sin in his death, thereby satisfying the requirements of divine justice.
+### Theme: The Law and Sin
+The law acts as a criterion for identifying sin, yet it becomes a source of condemnation because of human disobedience, revealing the necessity of the atonement.
 
-### Theme: Relational Reconciliation
-The perspective that sin creates a breach in the relationship between God and humanity, and the atonement serves to rectify this alienation.
+### Theme: Eschatological Scope
+Atonement is understood within an eschatological framework, linking the past event of Christ's death to the future hope of restoration and deliverance from the current age of sin.
 
-### Theme: Eschatological Framework
-The context of Christ's death within a larger timeline of salvation history, bridging the current age and the coming age.
+### Theme: Diversity of Metaphors
+The argument that no single image or metaphor can fully explain the atonement, as the theological richness of Christ's work necessitates a plurality of perspectives.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "Given the truly propitiatory effect of the cross, it is plain in what sense Paul also speaks of it as an expiatory sacrifice."
 *Context Source: Page 158*
 
-> "The cross is the ground upon which the divine love operates and the channel through which it flows in achieving its end."
-*Context Source: Page 158*
+> "The law, as the deliverance in view is 'from the curse of the law.' As the law, when violated, establishes guilt and consequent liability to punishment, so redemption is effected by Christ on the cross 'becoming a curse for us,' that is, as our substitute."
+*Context Source: Page 159*
 
-> "God's wrath is his response to sin, relational and illicit, in all its expressions."
+> "God's wrath is his response to sin, relational and illicit, in all its expressions. This is stated in a sweeping and emphatic fashion in Romans 1:18: 'The wrath of God is being revealed from heaven against all the godlessness and wickedness of men.'"
 *Context Source: Page 150*
 
-> "Paul's treatment of sin and its consequences is extensive and multi-faceted, particularly in Romans."
-*Context Source: Page 146*
-
-> "The deliverance in view, certainly personal and individual, has corporate and even cosmic, aeonic dimensions."
+> "It needs to be emphasized that the fulfillment indicated in 1 Corinthians 15:3-4 is nothing less than eschatological in its proportions."
 *Context Source: Page 143*

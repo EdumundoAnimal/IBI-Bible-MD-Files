@@ -1,7 +1,7 @@
 ---
 title: "Romans Theological Study"
 author: "Thomas Todd"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,27 +14,27 @@ aliases:
 **Author:** [[Thomas Todd]]
 
 ## 1. Cleaned Document Text
-This document consists of a collection of lecture notes and exam instructions for a course on the Epistle to the Romans, taught at Carraig Eden Theological College. It covers various topics including the nature of sin, the roles of Adam and Christ, the Law, predestination, Israel's place in God's plan, civil government, and Christian liberty. The text provides exegetical commentary on specific passages such as Romans 5, 7, 9, 11, and 14, incorporating scholarly references.
+This document serves as the coursework material for a module on the book of Romans, covering key theological themes including justification, sin, the Law, election, and Christian liberty. It examines Paul's arguments regarding the universality of sin, the contrast between Adam and Christ, the sovereignty of God in election, and the practical application of grace in the life of the believer.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Justification by Faith
-Paul's central argument that righteousness is not attained through observance of the Law but through faith in Christ's sacrifice, bridging the gap between God and man.
+Paul argues that righteousness is credited through faith in Christ, independently of the Law or Jewish lineage, signifying that all mankind is equally in need of grace.
 
-### Theme: The Role of the Law
-Exploration of the Law's purpose in showing that all are sinners, and the necessity of grace over reliance on legalistic compliance.
+### Theme: The Contrast between Adam and Christ
+Adam's disobedience introduced sin and death, whereas Christ's act of obedience provides grace and life, illustrating the superiority and abundance of grace over sin.
 
-### Theme: Sovereignty and Predestination
-An analysis of Paul's treatment of divine election and sovereignty, specifically regarding Israel and the nature of God's mercy as unconditional and unearned.
+### Theme: Sovereignty of Election
+The study explores debates around predestination and God's sovereign choice, noting that election is based on God's purpose rather than human merit.
 
-### Theme: Christian Liberty
-Practical guidance on how believers should handle disputes over secondary issues, emphasizing love, unity, and avoiding judgment of one another.
+### Theme: Christian Liberty and The Law
+Believers are freed from the condemnation of the Law, but are called to live by the Spirit and handle differences among believers with love and unity, avoiding divisive judgments.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "The proof that Paul 'in the flesh' is a slave to 'sin' is that he does what he hates and does not do what he wants to do."
-*Context Source: Page 2, Exegesis of Romans 7:15*
+> "In contrast grace reigned through righteousness - its expression was the granting of the gift of righteousness - this brought eternal life since a righteous man will not die for sins."
+*Context Source: Page 6, commentary on Romans 5:21*
 
-> "If we have died to something that means it no longer has any influence over us. A dead man cannot be influenced by Sin."
-*Context Source: Page 10, Reponse to 'What does Paul mean by saying we have died to Sin?'*
+> "The electing grace of God is still central, not human descent or endeavour."
+*Context Source: Page 17, commentary on Romans 11:5-7*
 
-> "NOTE: WE CAN DEMAND JUSTICE FROM GOD, BUT MERCY CANNOT BE DEMANDED!"
-*Context Source: Page 16, Note on God's sovereignty in mercy.*
+> "The first result of being justified with God and by God is peace. Prior to coming to Christ we were enemies of God."
+*Context Source: Page 23, commentary on Romans 5:1-11*

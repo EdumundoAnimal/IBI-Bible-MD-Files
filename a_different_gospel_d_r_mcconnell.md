@@ -1,7 +1,7 @@
 ---
 title: "A Different Gospel"
 author: "D. R. McConnell"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,30 +14,30 @@ aliases:
 **Author:** [[D. R. McConnell]]
 
 ## 1. Cleaned Document Text
-This document is a critical analysis of the 'Faith Movement' and its foundational teachings, particularly those attributed to E.W. Kenyon. The text examines the theological concepts of the 'Doctrine of Identification,' the nature of the atonement, and the assertion that man possesses a divine nature similar to God. It critiques these ideas by labeling them as 'cultic' and 'metaphysical,' contrasting them with orthodox Christian theology. Key focus areas include the reinterpretation of the crucifixion, the spiritual death of Jesus in hell, and the implications of the belief that humans can be 'born-again' in a way that makes them gods.
+The provided text analyzes the theological foundations of the Word of Faith movement, critiquing its origins and key doctrines. It centers on the concept of 'Identification' and the 'Born-Again Jesus' doctrine, tracing their roots to E. W. Kenyon and various metaphysical cults. The author argues that these teachings represent a departure from orthodox Christianity by denying the efficacy of Christ's physical death, promoting a 'spiritual death' theory, and asserting that believers can become incarnate 'gods' through the process of 'deification'. The text further examines how these concepts influence views on Christ's time in hell and the nature of salvation.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Doctrine of Identification
-The theological belief that believers are identified with Christ's death, burial, resurrection, and ascension, which the author argues is used by the Faith Movement to bridge anthropology and Christology in a non-orthodox manner.
+A theological concept originating in the Keswick movement but adapted by the Word of Faith movement. In this context, it refers to the belief that believers are essentially identified with Christ's death, burial, and resurrection, which the author argues leads to erroneous metaphysical conclusions.
 
-### Theme: Cultic Metaphysics
-The author contends that the Faith Movement incorporates ideas from metaphysical cults, such as the denial of the physical nature of the atonement and the teaching that man has a divine nature.
+### Theme: Born-Again Jesus / Spiritual Death
+The controversial doctrine that Jesus died 'spiritually' on the cross, became demonic, suffered in hell for three days, and was 'born-again' there. The author critiques this as a deviation from orthodox atonement theology.
 
-### Theme: The Atonement and Hell
-A critique of the Faith Movement's teaching that Jesus died spiritually on the cross, suffered in hell to pay a penalty, and became a demon-possessed man before being resurrected.
+### Theme: Deification of Man
+The teaching that through the 'Identification' process, believers are transformed into 'gods' with a divine nature, a concept the author traces to metaphysical and New Thought influences rather than biblical orthodoxy.
+
+### Theme: Kenyon's Theological Influence
+The author argues that E. W. Kenyon's synthesis of Christian theology with metaphysical and New Thought ideas provided the foundation for the modern Word of Faith movement's doctrines.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Whereas the Keswick movement began with biblically orthodox doctrines about Christ and man to form its doctrine of Identification, the Faith theology uses cultic, metaphysical concepts."
-*Context Source: Page 3*
+> "The Keswick movement began with biblically orthodox doctrines about Christ and man to form its doctrine of Identification, the Faith theology uses cultic, metaphysical concepts."
+*Context Source: Page 3/4*
 
 > "The concept that Jesus died spiritually is so crucial to the Faith theology that some faith teachers pronounce divine judgment on all who question it."
-*Context Source: Page 3*
+*Context Source: Page 3/4*
 
-> "According to Kenyon, the atonement is a truth that was unknown to Jesus' disciples, who comprehended neither the meaning of 'spiritual death,' nor the 'mystery' of his three days of suffering in hell."
-*Context Source: Page 3*
-
-> "Kenyon teaches that man as a species is 'in God's class of nature: both are spirit beings. Kenneth Hagin goes so far as to say that 'man is a not a physical being. Man is a spirit.'"
+> "In the Faith theology, Christ's physical sufferings and blood shed in heaven do no more to atone and deliver than anyone else's."
 *Context Source: Page 5*
 
-> "For Kenyon, Identification refers to Christ's complete union with us in our fallen, demoniacal state, and 'our complete union with Him in His substitutionary sacrifice.'"
-*Context Source: Page 6*
+> "For Kenyon, Identification refers to Christ's complete union with us in our fallen, demoniacal state, and our complete union with Him in His Substitutionary Sacrifice."
+*Context Source: Page 6/7*

@@ -1,7 +1,7 @@
 ---
 title: "Hebrews 6 Lecture Notes"
 author: "Unknown"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,30 @@ aliases:
 **Author:** [[Unknown]]
 
 ## 1. Cleaned Document Text
-Lecture notes covering Hebrews chapter 6. Topics include: the concept of being sluggish (referencing G-3541/nothros), the Divine Oath as a guarantee to heirs of the promise, the anchor as an ancient Christian symbol (referenced by Clement of Alexandria), the need for hope (citing Dr. Armand Nicholi and Grathree), and the relationship between hope, faith, and patience. Includes a cross-reference to Luke 1:19.
+Lecture notes on Hebrews 6. Mentions 'Sluggish' in relation to Hebrews 5:11 and 6:12. Notes on Divine Oath: God spoke a guarantee as a clear promise to heirs. Includes notes on Hope, including the Anchor as an ancient symbol for Christ and mentions of Clement of Alexandria regarding symbols like the dove, fish, and anchor. References Dr. Armand Nicholi and the relationship between hope, faith, and patience. Mentions Luke 1:19 and priestly references.
+
+## 2. Quantitative Metric Tables
+### Table 1
+```csv
+Symbol,Origin/Reference,Context,Dove,Clement of Alexandria,Symbol for Christ,Fish,Clement of Alexandria,Symbol for Christ,Ships,Clement of Alexandria,Symbol for Christ,Anchor,Clement of Alexandria,Symbol for Christ
+```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Spiritual Diligence
-Contrasting 'sluggishness' (G-3541) with the necessity of faith and patience in maintaining hope.
+### Theme: Divine Promise
+The theological assurance of God's oath as a guarantee for the heirs of the promise.
 
-### Theme: Biblical Symbolism
-The historical usage of the anchor as an early Christian symbol for Christ, alongside doves and fish.
+### Theme: Christian Symbolism
+Historical Christian iconography, specifically the anchor, used to represent Christ as a stable hope.
 
-### Theme: Divine Assurance
-The interpretation of the Divine Oath as a clear guarantee provided by God to the heirs of His promise.
+### Theme: Spiritual Growth
+The triad of hope, faith, and patience as necessary components for spiritual maturity, moving beyond a 'sluggish' state.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Sluggish - Ch. 5.11 -> G-3541. (nothros)"
-*Context Source: Lecture page 1, top section*
+> "Sluggish - Ch. 5:11 - 6:12"
+*Context Source: Lecture notes, page 1*
 
-> "Devine Oath - God spoke guarantee - clear to Airs of Promise."
-*Context Source: Lecture page 1, middle section*
+> "Anchor - Ancient symbol for christ."
+*Context Source: Lecture notes, page 1*
 
-> "Anchor - Ancient symbol for christ. Clement of alexandra seals - (dove, fish, ships Anchor)"
-*Context Source: Lecture page 1, middle section*
+> "Hope- Faith Patience."
+*Context Source: Lecture notes, page 1*

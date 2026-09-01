@@ -1,7 +1,7 @@
 ---
 title: "Pentecostal Theology: A Theology of Encounter"
 author: "Keith Warrington"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,24 @@ aliases:
 **Author:** [[Keith Warrington]]
 
 ## 1. Cleaned Document Text
-This document explores the foundational theological concepts within Pentecostalism, specifically addressing the nature of God, the Trinity, and the Person of Jesus. It highlights the experiential, relational approach of Pentecostals who emphasize an encounter with a vibrant, active God. Key theological points include the rejection of traditional Trinitarianism in favor of Oneness Pentecostalism—a perspective that maintains the absolute unity of God in Jesus—and a focus on human salvation through faith, Christ's death and resurrection, and the necessity of personal response to the atonement.
+The provided text is an excerpt from a theological work discussing Pentecostal views on the nature of God, the Trinity, and the Son, specifically engaging with Oneness theology. The text analyzes Pentecostal beliefs regarding the personhood of God, the relation between the Father and the Son, and theological critiques of modalism, contrasting them with orthodox Trinitarian definitions and historical biblical scholarship.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Oneness Pentecostalism
-The theological stance that rejects traditional Trinitarianism, asserting that God is one and that Jesus is the full manifestation of God, rather than a separate person within a Trinity.
+### Theme: Pentecostal Theology of God
+Pentecostals emphasize a personal, relational, and active God, often rejecting abstract definitions in favor of encountering God's power and presence through the Holy Spirit.
 
-### Theme: Relational Theology
-Pentecostalism is characterized by an emphasis on personal encounter with the divine, focusing on God as an active, living participant in human experience rather than an abstract philosophical concept.
+### Theme: Critique of Oneness Theology
+The text systematically critiques the 'Oneness' movement (or modalism), arguing that the New Testament consistently reveals distinct personhood between the Father and the Son.
 
-### Theme: Christocentrism
-The tendency in Pentecostal thought to center all theology, experience, and worship upon the person of Jesus Christ, viewing Him as both fully human and fully divine.
+### Theme: Personhood and Relationship
+A core argument is that the 'I-You' relational language used in Scripture, especially in the Gospels regarding the Father and the Son, necessitates a distinction between divine persons that modalism cannot account for.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Oneness Pentecostals reject the concept that members of the trinity may be identified as separate and equal. Instead, they believe that Jesus is the revelation of God, Jehovah being identical to Jesus."
-*Context Source: Page 5*
+> "The Father and the Son stand in an "I"-"You" relationship of each other; the Son refers to the Father as "You" and Himself as "I.""
+*Context Source: Page 13, section '3. Subject-Object Distinctions'*
 
-> "The personal involvement of God in his creation is reflected in the description of how he creates. In picture language, the biblical writers describe him using his fingers (Ps. 8.3), shaping the mountains and creating the wind (Amos 4.13)."
-*Context Source: Page 3*
+> "The majority of biblical scholarship throughout church history (and subsequently) has rejected modalism"
+*Context Source: Page 13, section '5. The majority of biblical scholarship...'*
 
-> "Pentecostals believe that all people have sinned, sin being defined as breaking God's laws and as offending or displeasing God."
-*Context Source: Page 6*
+> "Pentecostals... take for granted the existence of God, an occasion theological, aesthetic and moral arguments to support their belief."
+*Context Source: Page 3, Introduction*

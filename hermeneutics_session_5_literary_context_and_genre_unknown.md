@@ -1,7 +1,7 @@
 ---
 title: "Hermeneutics, Session 5: Literary Context and Genre"
 author: "Unknown"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,27 +14,30 @@ aliases:
 **Author:** [[Unknown]]
 
 ## 1. Cleaned Document Text
-This document outlines session 5 of a hermeneutics course, focusing on literary context and genre in biblical interpretation. Key topics include the importance of literary context for accurate meaning, the 'circles of context' model (from paragraph to the entire canon), the nature of biblical unity despite diversity, and the necessity of identifying genre to interpret texts correctly. The lecture notes provide frameworks for exegesis and suggest practical exercises for students to apply these concepts to specific biblical passages.
+This document covers session 5 of a Hermeneutics course, focusing on literary context and genre in biblical exegesis. It reviews previous concepts like historical context, introduces the importance of literary context as a guide for meaning, and discusses the use of genre as a literary tool. It includes exercises on identifying context and genre in various biblical passages and provides guidance on writing an exegetical essay, specifically for a passage like Zephaniah 1:4-13.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Literary Context
-The necessity of reading passages within their wider structural surroundings (paragraph, chapter, book, author, and canon) to prevent distortion of meaning and preserve the author's flow of thought.
+The principle that individual passages must be understood within their broader flow of thought to avoid misinterpretation; it acts as a reliable guide for determining the accurate meaning of words.
 
-### Theme: Genre Identification
-The application of literary tools to identify the specific type of literature (narrative, prophecy, poetry, etc.) to establish appropriate expectations and interpretive methods for a given text.
+### Theme: Genre
+The general literary type (narrative, poetry, prophecy, epistles, etc.) that dictates how a reader should approach, understand, and interpret a text.
 
 ### Theme: Biblical Unity
-The premise that despite the diversity of human writers and historical perspectives, the Bible maintains a theological unity due to the inspiration of the Holy Spirit.
+The theological belief that despite the diversity of biblical writings, there is unity between the Old and New Testaments as they tell the same story and reflect the same God.
+
+### Theme: Exegetical Methodology
+A systematic approach to studying the Bible that includes consulting multiple translations, analyzing literary context through expanding circles, and identifying genre.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Taking a passage out of context violates a writer's 'flow of thought'."
+> "Literary context provides most reliable guide for determining meaning."
 *Context Source: Page 2*
 
-> "The entire Bible provides a literary context for all passages in it"
+> "The Bible has unity in its diversity"
 *Context Source: Page 4*
 
 > "Because the Bible is written as literature, we need to use literary tools to understand it properly."
 *Context Source: Page 5*
 
-> "We do not expect that all biblical writers on an issue will have the same perspective... they will have different slants and distinct emphases, depending upon their purposes for writing."
+> "We do not expect that all biblical writers on an issue will have the same perspective... they will have different slants and distinct emphases"
 *Context Source: Page 4*

@@ -1,7 +1,7 @@
 ---
 title: "What Christians Believe: The Historical Development"
 author: "Alan F. Johnson and Robert E. Webber"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,24 @@ aliases:
 **Author:** [[Alan F. Johnson and Robert E. Webber]]
 
 ## 1. Cleaned Document Text
-The text explores the historical development of the Christian doctrine of God, moving from the roots of the Trinity in the ancient church to the medieval period's attempts to provide logical proofs for the existence of God. It highlights the tension between affirming the oneness and diversity of God, referencing the ancient church's efforts to reconcile these concepts amidst Hellenistic and polytheistic cultural influences. The text also delves into the contributions of Thomas Aquinas, specifically his five proofs for the existence of God which rely on Aristotelian philosophy to argue for a 'first mover' and 'efficient cause' that accounts for the contingent nature of the world.
+The article examines the historical development of the doctrine of God within Christianity, specifically addressing the Trinity, the relationship between God's unity and diversity, and medieval scholastic attempts to prove the existence of God. It explores the early church's struggle to balance monotheism with the Trinitarian nature of Father, Son, and Holy Spirit, as well as the transition from an early church focus on the Trinity to a medieval scholastic focus on philosophical proofs for God's existence, such as those formulated by Thomas Aquinas.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Trinitarian Doctrine
-The theological attempt to balance the absolute oneness of God with the distinctness of the Father, Son, and Holy Spirit as rooted in early church practice and doxology.
+The theological challenge of maintaining the unity of God while acknowledging the divinity of Father, Son, and Holy Spirit as expressed in early church traditions and dogmas.
 
 ### Theme: Historical Theology
-The evolution of Christian belief, moving from patristic concerns with theological synthesis to the scholasticism of the medieval period.
+An overview of how church history has shaped doctrinal understanding, specifically moving from early church reflections on revelation to medieval philosophical proofs.
 
-### Theme: Philosophical Proofs of God
-The application of Aristotelian philosophy during the medieval period, specifically the works of Thomas Aquinas, to argue for the existence of God via the concepts of motion and contingency.
+### Theme: Medieval Scholasticism
+The influence of Aristotelian philosophy on medieval theology, particularly the development of rational proofs for God's existence by thinkers like Thomas Aquinas.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "From the very beginnings of Christianity the church has always confessed faith in Father, Son, and Holy Spirit."
-*Context Source: Page 3, Roots of the Trinitarian Thought section*
+> "The history of the Christian doctrine of God stands in continuity with biblical revelation, because the truth about God is found in the Scripture, the church seeks to reflect on that truth and make it relevant to each age."
+*Context Source: Page 3, Section 4*
 
-> "The first is the proof from motion. The argument is that an effect that all people clearly perceive from their senses is the reality of movement itself."
-*Context Source: Page 4, The Medieval Church: Proofs for the Existence of God section*
+> "The medieval doctrine of God stands on the shoulders of the ancient affirmation of God’s oneness and threeness."
+*Context Source: Page 4, Section: The Medieval Church: Proofs for the Existence of God*
 
-> "Second, Aquinas sets forth an argument for God's existence from efficient causality."
-*Context Source: Page 4, The Medieval Church: Proofs for the Existence of God section*
+> "Aquinas believed God could be known not only through the eyes of faith, but also through human reason. In his view the proposition ‘God exists’ could be derived from what the human mind experiences and understands about ‘effects’."
+*Context Source: Page 4*

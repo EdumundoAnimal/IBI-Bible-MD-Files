@@ -1,7 +1,7 @@
 ---
 title: "Nicene and Post-Nicene Fathers: St. Athanasius"
 author: "Philip Schaff and Henry Wace"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,30 +14,30 @@ aliases:
 **Author:** [[Philip Schaff and Henry Wace]]
 
 ## 1. Cleaned Document Text
-The document is a scholarly volume from the 'Nicene and Post-Nicene Fathers' series, specifically Volume IV, focusing on the works and letters of St. Athanasius. It includes a comprehensive table of contents detailing the history of the Councils of Ariminum and Seleucia, an examination of Arian creeds, and the 'Letter of Ninety Bishops of Egypt and Libya to the Bishops of Africa'. The text outlines the ecclesiastical defense of the Nicene Creed against Arianism, emphasizing the theological distinction between the 'essence' of the Son and created beings, while documenting the historical efforts to maintain doctrinal unity in the church.
+This volume contains the historical accounts and theological documents related to the Councils of Ariminum and Seleucia, along with the Letter of the Ninety Bishops of Egypt and Libya to the Bishops of Africa. It documents the ecclesiastical debates regarding the Nicene Creed, the Arian heresy, and the theological definition of the Son's nature relative to the Father. The text emphasizes the importance of apostolic tradition, the rejection of Arianism, and the affirmation of the divinity of Christ and the Holy Spirit as essential components of the Catholic faith.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Section,Topic,Description,1,The reason of any council having been called,The general historical necessity of calling church councils,2,Necessity of the Nicene Council,The theological requirement for the creed,3,The 'Dated' Creed propounded,The specific Arian attempt to propose a new creed
+Section,Topic,Context,Page,1,The reason of any council having been called,Part I,450,2,Monstrosity of a dated creed,Part I,450,3,Necessity of the Nicene Council,Part I,450,4,Its decisions make any fresh council unnecessary,Part I,450,5,The true motives of the promoters of the new councils,Part I,450,6,The 'Dated' Creed propounded,Part I,450,7,Rejection of the Dated Creed and deposition of Valens, etc.,Part I,450,8,The Council's Letter to the Emperor,Part I,450
 ```
 
 ## 3. Thematic Analysis Matrices
+### Theme: Nicene Orthodoxy
+The theological stance that Christ is of the same substance (homoousios) as the Father, and that this definition is immutable and sufficient for the faith.
+
+### Theme: Rejection of Arianism
+A consistent effort to denounce Arian doctrines, which suggested that the Son was a created being rather than co-eternal and consubstantial with the Father.
+
 ### Theme: Ecclesiastical Authority
-The document explores the legitimacy of church councils, arguing that the Nicene Creed represents a settled standard that should not be superseded by subsequent, coerced councils like Ariminum.
-
-### Theme: Christological Orthodoxy
-The defense of Christ's divinity against Arianism, specifically the 'Coessential' (homoousios) terminology used to maintain that the Son is not a creature but of the same substance as the Father.
-
-### Theme: Heresy and Schism
-The distinction between true church tradition and the innovations of Arian teachers who sought to undermine the established faith through ambiguous, unscriptural, or deceptive language.
+The argument that the Council of Nicaea stands as the definitive ecumenical authority, and that subsequent councils (like Ariminum) were unnecessary or irregular.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "For this Synod of Nicaea is in truth a proscription of every heresy. It also upsets those who blaspheme the Holy Spirit, and call Him a Creature."
-*Context Source: Page 10, Section II. Godhead of the Spirit also involved in the Nicene Creed.*
+*Context Source: Page 494*
 
-> "For we hold that we are proper to God, and not merely so, but inasmuch as they have even called us themselves the cause, even if they wish to con- brethren. Nor does it vex us, even if they seal the fact of which they are perfectly aware, that the Son Very God."
-*Context Source: Page 8, Section 6. The Nicene test not unscriptural in sense, nor a novelty.*
+> "For we too are called 'the light,' and the Father and the Father are 'light,' and lastly they wrote more plainly, and concisely, that the Son was coessential with the Father; for we see light, and the Father is light."
+*Context Source: Page 491*
 
-> "If any then cite the synod of Ariminum, firstly let them point out the deposition of the above persons, and what the bishops wrote, namely that none should seek anything beyond what had been agreed upon by the fathers at Nicaea."
-*Context Source: Page 9, Section 4. The Nicene formula in accordance with Scripture.*
+> "The Son is not a creature, nor made, and they considered that what is written in the Shepherd, 'before all things believe that God is, and consist' ; in Him were all things created, 'before all things believe that God is, and consist' ; since He is one, and created and set all things in order, and made them to exist out of nothing."
+*Context Source: Page 491*

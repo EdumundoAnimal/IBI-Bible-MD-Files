@@ -1,7 +1,7 @@
 ---
 title: "Week 6: Theological Context and Application"
 author: "Unknown"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,33 +14,33 @@ aliases:
 **Author:** [[Unknown]]
 
 ## 1. Cleaned Document Text
-This document outlines the process of biblical exegesis, focusing on 'Theological Context and Application'. It reviews historical/cultural and literary contexts, then explains how to move into theological and canonical analysis. The document includes guidance on how to define spiritual issues within a text and apply them to modern situations. It concludes with an exercise for students and an example analysis of Zechariah 7.
+This document outlines the methodology for performing a theological context analysis and application during biblical exegesis. It emphasizes moving from historical, literary, and canonical context to identifying theological issues and applying them to contemporary situations. The document provides examples like Zechariah 7 to demonstrate how to analyze historical/cultural, literary/genre, and theological/canonical contexts, culminating in practical application for the reader.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Passage,Context Type,Status,Isaiah 6,Theological context,pre-exile,Ezekiel 37,Theological context,during exile,Jeremiah 7,Theological context,pre-exile,Micah 3,Theological context,pre-exile
+Passage,Context Type,Period,Isaiah 6,Theological,Pre-exile,Ezekiel 37,Theological,During exile,Jeremiah 7,Theological,Pre-exile,Micah 3,Theological,Pre-exile
 ```
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Theological Context
-The subjective element of exegesis where the interpreter identifies the spiritual issues inherent in a biblical text.
+The process of identifying theological or spiritual issues within a text and determining their relevance and application to the modern reader.
+
+### Theme: Exegesis Methodology
+A step-by-step approach involving historical, literary, and canonical context research to provide the basis for legitimate application.
 
 ### Theme: Application
-The process of determining the significance and relevance of biblical themes for contemporary life situations.
-
-### Theme: Canonical Context
-Understanding a passage in relation to the broader scope of Scripture, utilizing tools like concordances, dictionaries, and commentaries.
-
-### Theme: Exegesis
-A structured method of biblical study that integrates historical, literary, and theological analysis to discern the message intended for the original and current audience.
+The subjective but essential step of interpreting the significance of a passage to different modern situations, often termed as the implication of the text.
 
 ## 4. Evidence Matrix & Verbatim Assertions
 > "Basically two questions: what is the text concerned with, and how does that apply to us?"
-*Context Source: Page 1, Theological Context and application section*
+*Context Source: Page 1*
 
 > "This is where hermeneutics & homiletics really come together: the work you have done interpreting your passage should give you ample material to then give application of the text's relevance today."
-*Context Source: Page 2, Application section*
+*Context Source: Page 2*
+
+> "This is essentially the final part of your essay - outlining the theological issues that the passage is concerned with, how it relates to the rest of Scripture, and what some possible points of application might be."
+*Context Source: Page 3*
 
 > "This passage is concerned with several issues, including justice, true worship, and discerning God's will."
-*Context Source: Page 4, Zechariah 7, Theological/canonical context*
+*Context Source: Page 4 (Zechariah 7 analysis)*

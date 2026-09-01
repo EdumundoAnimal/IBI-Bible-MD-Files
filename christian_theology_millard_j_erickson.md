@@ -1,7 +1,7 @@
 ---
 title: "Christian Theology"
 author: "Millard J. Erickson"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,27 +14,24 @@ aliases:
 **Author:** [[Millard J. Erickson]]
 
 ## 1. Cleaned Document Text
-The provided text explores the complex theological doctrine of the Trinity, navigating the challenges of defining God's nature through historical, philosophical, and psychological analogies. It addresses core tenets like the simplicity, unity, and distinctiveness of the Father, Son, and Holy Spirit. The author emphasizes that the Trinity remains ultimately incomprehensible to human logic, asserting that attempts to simplify the divine mystery often fall into errors like tritheism or modalism. The document also evaluates Augustine's psychological analogies and modern physical analogies, concluding that while human language and experience are insufficient to fully encapsulate the divine, the doctrine remains a fundamental, divinely revealed aspect of Christian faith.
+The text discusses the complex theological doctrine of the Trinity, addressing both the oneness and the threeness of God. It explores various analogies—both historical and contemporary—used to explain the relationship between the Father, Son, and Holy Spirit. Key arguments include the distinction between ontological oneness and the diversity of function, the limitation of human analogies in describing the divine, and the significance of Augustine’s psychological model and the concept of perichoresis in understanding divine intercommunion.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Incomprehensibility of the Trinity
-The doctrine is presented as a mystery that transcends human reason, making it impossible to fully grasp using logic or secular analogies.
+### Theme: Trinitarian Doctrine
+The orthodox view that God is one in essence but three in personhood, maintaining both the unity of the Godhead and the distinctness of the Father, Son, and Holy Spirit.
 
-### Theme: The Triune Nature
-God is one in essence but exists in three distinct persons (Father, Son, Holy Spirit), a condition that avoids both tritheism (three gods) and modalism (one person in three masks).
-
-### Theme: Theological Analogy
-The text analyzes attempts to explain the Trinity through analogies drawn from the human mind (memory, understanding, will) and physical phenomena, while acknowledging their inherent limitations.
+### Theme: The Limitation of Analogies
+A critique of using physical or human analogies to explain the Trinity, noting that while they offer partial insights, they often risk falling into modalism or tritheism.
 
 ### Theme: Perichoresis
-The concept of divine interpenetration or mutual indwelling, where each person of the Trinity sustains the others, reflecting perfect harmony and unity.
+The theological concept of the divine intercommunion, where the life of each member of the Trinity flows into and sustains the others.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "In the final analysis, the Trinity is incomprehensible. We cannot fully understand the mystery of the Trinity. When someday we see God, we shall see him as he is, and understand him better than we do now."
-*Context Source: Page 4, Section 6*
-
-> "The doctrine of the Trinity is a crucial ingredient of our faith. Each of the three, Father, Son, and Holy Spirit, is to be worshiped, as is the Trinity, and all, keeping in mind their distinctive work, it is appropriate to direct prayers of thanks and petition to each of the members of the Trinity, as well as to all of them collectively."
+> "The doctrine of the Trinity is a crucial ingredient of our faith. Each of the three, Father, Son, and Holy Spirit, is to be worshipped, as is the Triune God."
 *Context Source: Page 8*
 
-> "It appears that Tertullian was right in affirming that the doctrine of the Trinity must be divinely revealed, not humanly constructed. It is so absurd from a human standpoint that no one would have invented it."
+> "The Trinity is incomprehensible. We cannot fully understand the mystery of the Trinity. When someday we see God, we shall see him as he is, and understand him better than we do now."
+*Context Source: Page 4*
+
+> "It appears that Tertullian was right in affirming that the doctrine of the Trinity must be divinely revealed, not humanly constructed."
 *Context Source: Page 8*

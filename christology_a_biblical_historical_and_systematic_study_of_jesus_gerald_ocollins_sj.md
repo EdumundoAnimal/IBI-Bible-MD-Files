@@ -1,7 +1,7 @@
 ---
 title: "Christology: A Biblical, Historical, and Systematic Study of Jesus"
 author: "Gerald O'Collins, SJ"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,33 +14,27 @@ aliases:
 **Author:** [[Gerald O'Collins, SJ]]
 
 ## 1. Cleaned Document Text
-The document explores the concept of 'presence' within a Christological framework, tracing its biblical roots, historical development, and systematic implications. O'Collins discusses how Jesus's presence is mediated through the Holy Spirit, the Church, and sacramental life. The text emphasizes both masculine and feminine imagery associated with Christ's presence, the eschatological dimension of his return, and the importance of acknowledging Jesus as present in diverse human experiences and bodies. It argues for a Christology that integrates historical and theological rigor with the lived experience of faith.
+The document explores the concept of the presence of Jesus through biblical, historical, and systematic lenses. It discusses the theological implications of Christ's presence across human history, the role of the Holy Spirit, and the intersection of masculinity and femininity in the portrayal of Jesus. The text delves into how Jesus is present in the sacraments, the Church, and individual lives, while also addressing the challenges of interpreting Jesus's ministry and the broader scope of Christology in contemporary society.
 
 ## 3. Thematic Analysis Matrices
-### Theme: The Presence of Christ
-Christ's presence is not merely historical but ongoing through the Holy Spirit, the life of the Church, the sacraments, and the body of believers. It functions as a foundational reality for Christian life.
+### Theme: The Possibilities of Presence
+Christology is defined by how Jesus's presence is mediated and experienced through human history, the sacraments, and the Holy Spirit, ultimately leading to a 'material solidarity' with humanity.
 
-### Theme: Masculine and Feminine Imagery
-The author examines how Jesus incorporates both stereotypically masculine traits (assertiveness in mission) and feminine traits (nurturing, mother-hen imagery) to demonstrate the fullness of his presence and the nature of his ministry.
+### Theme: Gendered Metaphors of Jesus
+The text analyzes how gospel narratives employ both masculine (warrior, judge) and feminine (nurturing mother hen, wisdom) imagery to articulate the diverse facets of Jesus's mission and personality.
 
-### Theme: Eschatological Presence
-The resurrection initiates a mode of presence that looks toward the end of time, where human suffering and division will be reconciled, and Christ will be fully revealed.
-
-### Theme: Theological Methodology
-The author advocates for an approach to Christology that balances systematic analysis with an openness to dialogue, contextual diversity, and the 'lived' reality of faith.
+### Theme: The Role of the Holy Spirit
+The Holy Spirit is presented as the bridge that makes Christ's historical life present in the life of the Church and the internal spiritual life of believers.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "The Q-text just quoted ends by saying, 'no one knows the Father except the Son and anyone to whom the Son chooses to reveal him.'"
-*Context Source: Page 314*
-
-> "His resurrection from the dead ushered in a dramatically new, life-giving sharing of his presence, or—to put it another way—a situation in which his loving, reconciling activity remains definitively and universally present."
+> "The resurrection from the dead ushered in a dramatically new, life-giving sharing of his presence, or—to put it another way—a situation in which his loving, reconciling activity remains definitively and universally present."
 *Context Source: Page 315*
 
-> "The first Easter also produced the outpouring of the Holy Spirit and the emergence of the Church, two essential elements in the new, saving presence of the risen Christ."
+> "As 'soul' or living principle of the Church, the Holy Spirit mediates the presence of the risen Christ-in an endless variety of ways, not least through the Scriptures."
 *Context Source: Page 316*
 
-> "Lastly, the resurrection of Jesus means that he is present as the end of history. His rising from the dead has initiated the presence of the end, the eschatological body of human beings and their world which will be consummated at the 'parousia'."
-*Context Source: Page 317*
-
-> "What does the gospel record indicate about Jesus' masculinity and feminine qualities? Unquestionably we come across adversarial, masculine language and characteristics."
+> "What does the gospel record indicate about Jesus' masculine and feminine qualities? Unquestionably we come across adversarial, masculine language and characteristics."
 *Context Source: Page 320*
+
+> "This Christology of presence, as implied by point (5) above, yields at the horizontal level (between Christ and us) rather than 'vertically' between Christ and Abba' a bodily vision of things."
+*Context Source: Page 317*

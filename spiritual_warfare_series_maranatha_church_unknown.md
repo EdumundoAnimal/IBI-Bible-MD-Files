@@ -1,7 +1,7 @@
 ---
 title: "Spiritual Warfare Series, Maranatha Church"
 author: "Unknown"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,33 +14,30 @@ aliases:
 **Author:** [[Unknown]]
 
 ## 1. Cleaned Document Text
-The document provides a study guide on spiritual warfare, covering biblical definitions, the nature of Satan and fallen angels, and practical lessons from the book of Acts on how the early church navigated spiritual opposition. It outlines the authority of believers in Christ, the nature of cosmic conflict, and identifies various spiritual weapons available for defense and ministry.
+The document provides a study guide on spiritual warfare, beginning with an overview of the interaction between spiritual and material realms. It discusses the sovereignty of God, the triumph of Christ over Satan, and the delegating authority given to believers. It outlines the fall of Lucifer, the nature of Satan's influence during the Church age, and analyzes specific biblical narratives in Acts regarding demonic influence, including Ananias and Sapphira, Simon Magus, and the events in Ephesus involving Paul. The guide concludes with a list of weapons available for spiritual warfare.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Sovereignty of God
-The foundational premise that God is ultimate in power and Christ has already triumphed over Satan and his hosts.
+### Theme: Spiritual Warfare Theology
+Christians are encouraged to understand the battle between good and evil, emphasizing that believers are equipped with divine authority through Christ's victory.
 
-### Theme: Cosmology and Hierarchy
-An analysis of the spiritual structure including heavens and the hierarchy of demonic forces (principalities, powers, rulers of darkness).
+### Theme: The Fall of Lucifer
+Analysis of the biblical transition from Lucifer as a 'light bearer' to Satan as an adversary, driven by pride, which resulted in his expulsion from heaven.
 
-### Theme: Practical Discernment
-Using biblical accounts of Ananias/Sapphira and Simon Magus to illustrate how the church identifies and deals with deceptive spiritual influences.
+### Theme: Biblical Precedents for Defending the Church
+Case studies from the book of Acts are used to teach believers how to discern and confront demonic influence, unrighteousness, and occultism within the community of believers.
 
 ### Theme: Weapons of Warfare
-The identification of tools for believers, including the Holy Spirit, praise, prayer, gospel preaching, and moral integrity.
+Practical tools for spiritual conflict including the Holy Spirit, the Gospel, prayer, praise, and maintaining purity of heart and motive.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Colossians 2:15, "He [Christ] disarmed the principalities and powers and made a public example of them, triumphing over them in it [or, "in the cross"].""
-*Context Source: Page 1*
+> "God put this power to work in Christ when he raised him from the dead and seated him at his right hand in heavenly places, far above all rule and authority and power and dominion"
+*Context Source: Page 1, Ephesians 1:20-23*
 
-> "Ezekiel 28:12-17, "...so I cast you as a profane thing from the mountain of God, and the guardian cherub drove you out from the midst of the stones of fire.""
-*Context Source: Page 2*
+> "Your heart was proud because of your beauty; you corrupted your wisdom for the sake of your splendour."
+*Context Source: Page 2, Ezekiel 28:17*
 
-> "Ephesians 6:12, Satan and their army and their methods, "For we are not contending against flesh and blood, but against the principalities, against the powers, against the world rulers of this present darkness, against the spiritual hosts of wickedness in the heavenly places.""
-*Context Source: Page 2*
+> "We are not contending against flesh and blood, but against the principalities, against the powers, against the world rulers of this present darkness, against the spiritual hosts of wickedness in the heavenly places."
+*Context Source: Page 2, Ephesians 6:12*
 
-> "Acts 8:21-23(a), Peter discerns Simon's heart, "You have no part or share in this, for your heart is not right before God. Repent therefore of this wickedness of yours, and pray to the Lord that, if possible, the intent of your heart may be forgiven you. For I see that you are in the gall of bitterness and the chains of wickedness.""
-*Context Source: Page 3*
-
-> "Acts 19:15; disastrous results, "But the evil spirit said to them in reply, 'Jesus I know, and Paul I know; but who are you?'" The devil and his demons know our standing with God!"
-*Context Source: Page 4*
+> "The devil and his demons know our standing with God!"
+*Context Source: Page 4, commentary on Acts 19:15*

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to the History of Christianity"
 author: "Tim Dowley"
-processed_date: 2026-08-07
+processed_date: 2026-09-01
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,60 +14,30 @@ aliases:
 **Author:** [[Tim Dowley]]
 
 ## 1. Cleaned Document Text
-The provided document is an introductory text covering the history of Christianity. It details the growth, challenges, theological developments, and major figures of the faith over two millennia. Key sections include the early transmission of New Testament texts, the institutionalization of Christianity in the Roman Empire, and the theological debates regarding the nature of Christ, specifically highlighted in a profile on Athanasius. The text emphasizes historical accuracy, scholarly perspective, and the interplay between church authority and secular power.
+This document serves as an introduction to a historical handbook on the growth and development of the Christian faith. It encompasses the expansion of the church from its origins in the Roman Empire to its global spread. The text specifically highlights the importance of the New Testament transmission, including the use of translations like the Latin Vulgate and the challenges of early manuscript preservation. Furthermore, it delves into the theological and political conflicts of the era, such as the Arian controversy and the role of figures like Athanasius in defining orthodox Christian doctrine.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Section,Page Number,Topic
-Section 3,137,Acceptance and Conquest 325-600
--,138,Time-chart: Acceptance and conquest
--,139,CONSTANTINE AND THE CHRISTIAN EMPIRE
--,145,A hymn of Ambrose
--,148,Ambrose of Milan
--,149,Worship and the Christian year
--,152,The Apostles Creed
--,153,Egeria's pilgrimage to the holy places
--,154,Building for worship
--,158,Maps: Acceptance and conquest
--,162,COUNCILS AND CREEDS
--,164,Basil the Great
--,175,The Nicene Creed
--,177,Nestorius
--,180,Cyril of Alexandria
--,182,Leo the Great
--,184,THE FALL OF THE ROMAN EMPIRE
--,187,Ulfias' Gothic Bible
--,188,Scripture and the church
--,195,Clergy, bishops and pope
--,196,Jerome
--,199,John Chrysostom
--,202,The church in North Africa
--,204,Augustine of Hippo
--,206,Augustine describes his conversion
--,208,The Donatists in North Africa
--,210,CHRISTIAN ASCETICS AND MONKS
--,212,Patrick
--,219,Life in Benedict's monastery
--,220,Cassiodorus
+Section,Page Number,Topic,138,Time-chart: Acceptance and conquest,139,CONSTANTINE AND THE CHRISTIAN EMPIRE,145,A hymn of Ambrose,148,A hymn of Ambrose,149,Ambrose of Milan,152,Worship and the Christian year,153,The Apostles Creed,154,Egeria's pilgrimage to the holy places,158,Building for worship,162,Maps: Acceptance and conquest,164,COUNCILS AND CREEDS,175,Basil the Great,177,The Nicene Creed,180,Nestorius,182,Cyril of Alexandria,184,Leo the Great,187,THE FALL OF THE ROMAN EMPIRE,188,Ulfilas' Gothic Bible,195,Clergy, bishops and pope,196,Jerome,199,John Chrysostom,202,The church in North Africa,204,Augustine of Hippo,206,Augustine describes his conversion,208,The Donatists in North Africa,210,CHRISTIAN ASCETICS AND MONKS,212,Patrick,219,Life in Benedict's monastery,220,Cassiodorus,223
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Biblical Transmission
-Explores how the New Testament was copied and translated in the early church, noting the challenges of maintaining textual accuracy and the development of early regional versions like the Syriac and Coptic.
+### Theme: Textual Transmission
+Exploration of how early New Testament texts were copied, translated (e.g., into Latin), and the potential for human error or intentional alteration during the transcription process.
 
-### Theme: Theological Conflict
-Examines the struggle between Arianism and the Nicene definition of Christ, highlighting how political power often influenced ecclesiastical debates and outcomes.
+### Theme: Orthodoxy vs. Heresy
+The struggle to define essential Christian beliefs, exemplified by the Arian controversy and the role of the Nicene Council in establishing institutional doctrine.
 
-### Theme: Institutionalization
-Details the transition of Christianity from a persecuted faith to an institutionalized religion within the Roman Empire, necessitating structural hierarchies like the roles of bishops and councils.
+### Theme: Ecclesiastical Politics
+The intersection of imperial Roman power and church governance, particularly under Constantine and his successors, leading to civil strife and the manipulation of church leadership.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Copying the New Testament: The New Testament writings were considered important in the early church, since many copies were made--for private reading as well as church use."
-*Context Source: Page 3*
-
-> "Most of Athanasius' writings are aimed at opposing Arianism, dealing with it historically, doctrinally, or from Scripture."
-*Context Source: Page 4*
+> "Quotations from the New Testament in the works of the early Christian writers can also help in studying the New Testament text."
+*Context Source: Page 3, Section: Copying the New Testament*
 
 > "The division of the Empire between Constantine's three sons, after his death in 337, soon resulted in a civil war with theological overtones."
-*Context Source: Page 4*
+*Context Source: Page 4, Section: Church, state and paganism*
+
+> "Athanasius (about 304-73) is one of the most important figures of his age for his part in defining the doctrine of the Trinity in the Arian struggles."
+*Context Source: Page 4, Section: Athanasius*
