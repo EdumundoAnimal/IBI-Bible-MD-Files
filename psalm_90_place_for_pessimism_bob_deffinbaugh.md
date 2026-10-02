@@ -1,7 +1,7 @@
 ---
 title: "Psalm 90: Place for Pessimism"
 author: "Bob Deffinbaugh"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,31 +13,93 @@ aliases:
 # Psalm 90: Place for Pessimism
 **Author:** [[Bob Deffinbaugh]]
 
-## 1. Cleaned Document Text
-The article provides an exposition of Psalm 90, exploring themes of human mortality, the brevity of life, and the perspective of divine eternity versus human finiteness. It contrasts the biblical reality of life's struggles with modern 'hype' and optimistic self-deception, arguing that acknowledging the futility and suffering of life is essential for true wisdom and reliance on God. The author discusses the historical context, including the potential authorship by Moses, and theological connections between human suffering, sin, and the hope for divine renewal.
+## 1. Verbatim Source Text
+### Introduction
+
+In the village of Chikaladara there is a place which my Indian friends called "the fort." The fort is a great structure built years ago, which they promised I would see before I left. When we arrived at the outer gate of the fort, it was like a great medieval castle, with what looked almost like a moat at one side. We left our car at the entrance and had nearly three miles of hiking from the outer gate until we reached the remains of the palace. It was built on the highest mountain in the area, about 4,000 feet in elevation. Some magnificent building structures stood within the walls of the fort. There were two beautiful pools built as reservoirs of water. On one of the pools there was a structure where the royal family could sit in the shade and watch the children swim in the reservoirs. To build these structures, great stones must have been carried for miles, and then fitted together with hardly any gap between them. Although the buildings were centuries old, one could see the great affluence and ease of life for the royal family that had once lived there. It was apparent however, that these were by-gone days. Pieces of angle iron now reinforce parts of these buildings to keep them from collapsing. Looking up, I wondered if it was wise to stand beneath it. The fort is a monument to a great civilization, but I do not know who the king was or any of the royal family. All around the world, one can see many such structures. Often they are but tombs, containing the remains of someone who has gone on before. They are a testimony to the brevity of man's life and to the futility of man's efforts to gain immortality. Like the Tower of Babel (Genesis 11:1-9) man's efforts to etch his memory in history often end in frustration.
+
+### Psalm 90:1-2
+
+Verses 1 and 2 depict the greatness of God as Israel's dwelling place. The Berkeley Version translates this, "Lord, Thou hast been our home ..." It is interesting to refer to God in this way; He is also called man's dwelling place in Psalm 91:9. Moses, the author of this psalm, is a man without a country. Moses was a fugitive from Egypt and he died without entering Canaan. Israel also was a people without a country. The Israelites had not yet possessed the land of Canaan, the Promised Land, as Israel's dwelling place. Yet Moses knew that ultimately man's dwelling is not a place but a Person. It is God who is our Dwelling Place and in Him we find security, safety and peace. God is described this way throughout all generations (v. 1). Literally the text reads "in generation and generation," or as the Berkeley Version translates it, "in
+
+### Psalm 90:3-6
+
+3 Thou dost turn man back into dust, And dost say, "Return, O children of men." 4 For a thousand years in Thy sight Are like yesterday when it passes by, Or as a watch in the night. 5 Thou hast swept them away like a flood, they fall asleep; In the morning they are like grass which sprouts anew. 6 In the morning it flourishes, and sprouts anew; Toward evening it fades, and withers away.
+
+### Psalm 90:7-10
+
+7 For we have been consumed by Thine anger, And by Thy wrath we have been dismayed. 8 Thou hast placed our iniquities before Thee, Our secret sins in the light of Thy presence. 9 For all our days have declined in Thy fury: We have finished our years like a sigh. 10 As for the days of our life, they contain seventy years, Or if due to strength, eighty years, Yet their pride is but labor and sorrow; For soon it is gone and we fly away. (NASB)
+
+### Analysis of Verses 3-6
+
+This translation 142 is an attempt by the translators of the NIV to translate the Hebrew, "You flooded men away." The NASB renders it, "You sweep men away like a flood." The Berkeley Version translates the verse, "Thou carriest them away as with a flood." I find an allusion to Genesis 5 in verse Psalm 90:4, which says, "For a thousand years in your sight Are like a day that has just gone by, Or like a watch in the night." This verse is familiar because it is cited by Peter who uses it to prove his point in 2 Peter 3:8, that God's perspective of time is vastly different than man's. While some were saying, "Where is this 'coming'? He promised? Ever since our fathers died, everything goes on as it has since the beginning of creation" (2 Pet. 3:4). Peter said in effect, "You don't understand, God does not look at time the same way we do. We view time from a human perspective, God from a divine one." If Moses is thinking of the history of mankind as it was recorded (by him) in the Book of Genesis, it is interesting that he uses the term "a thousand years" in Psalm 90:4. Why a thousand years? In Genesis 5 we read about the "golden age of man" after the fall. Men lived longer then than at any other time in history. Methuselah lived 969 years (Gen. 5:27). I understand this thousand years, as Kirkpatrick does, 141 to be a reference to the days of Methuselah. Moses is saying that even if man and his life span are looked upon in his greatest span of years, it is only a thousand years. That thousand year period which Methuselah almost broke is a very short span to God. Man is finite, God is infinite. So we have a reference to creation in verse 2, one to the fall in verse 3, and an allusion to the long life of man in verse 4. I also observe a reference to the flood in verse 5: "You sweep men away in the sleep of death."
+
+### Analysis of Verses 7-10
+
+In this section man's shortness of life is shown to be a result of his sin. Verses 1-6 contrast God's infinity and man's finiteness. Moses proceeds to contrast man's sinfulness with God's righteousness in verses 7-10. Man's life is "short and sour" because we are sinners living under the righteous judgment of God: "We are consumed by your anger And terrified by your indignation. You have set our iniquities before you, Our secret sins in the light of your presence" (v. 7). God is fully aware of our sin and the shortness of life is a proof of this. Even those secret sins, the sins which we do not ourselves perceive or which we have successfully rationalized, are evident before an all-knowing and righteous God. Not only is life shortened by sin, it is also soured by pain and sadness: All our days pass away under your wrath; We finish our years with a moan. The length of our days is seventy years—Or eighty, if we have the strength; Yet their span is but trouble and sorrow, For they quickly pass, and we fly away (vv. 9-10). Here again we are reminded of the Book of Genesis. We know, for example, that the consequence of Adam and Eve's sin was not only to return to dust, but to live in toil and pain.
+
+### Analysis of Verses 11-17
+
+Verses 11-17 are the response of Moses to the dilemma of mankind. Here he makes two requests: first he petitions God to give men the grace to live life wisely, in view of its limitations and frustrations (vv. 11-12); secondly he petitions God to ultimately remove the limitations and frustrations of life (vv. 13-17). If life really is as Moses has described it verses 1-10, man needs God's help. God's help is the object of man's petition in verses 11 and 12. "Who knows the power of your anger? For your wrath is as great as the fear that is due you. Teach us to number our days alright, That we may gain a heart of wisdom." Man does not fully grasp the reality of what Moses has said in the first part of this psalm. We stubbornly refuse to acknowledge the dark side of life. We refuse to acknowledge the eternality and the righteousness of God. We do not focus fully on the sinfulness of man and the sufferings of life, because that is not what we want to hear. Proverbs teaches us that "the fear of the Lord is the beginning of wisdom" (9:10). The first aspect of the wisdom for which man petitions God in verse 11 is the wisdom to acknowledge the righteousness and the holiness of God. I believe that when Moses requests God to "teach us to number our days alright," he asks that God would enable men to see life as it is and man as he is. Numbering our days involves seeing life as God has described it. We must acknowledge that God is eternal and man is mortal; God is righteous and man is sinful.
+
+### The Petition in Verses 13-17
+
+The first word is relent. This term describes Moses' petition that God would change in His response toward men. While God has been righteous in judging men for their sin, now Moses implores God, not for justice, but for mercy and grace. In verse 13 Moses pleads, "Relent, O Lord! How long will it be? Have compassion on your servants." God is a God of salvation and here Moses petitions God to save, to turn to the help of His people. Next is the word reveal. He says in verse 16, "May your deeds be shown to your servants, Your splendor to their children." It is as though God's face, His personal intimate contact with His people, has been veiled. God's righteous power has not been employed for a considerable period of time. God has been standing distant and aloof from His people and so Moses asks that now God would intervene, breaking into history, that God would reveal His might, power and salvation to men. Third, Moses asks God to restore. This life is not the ultimate purpose for which man was created. What we have seen described is a result of man's sin and the fall. Moses cries out to God to restore all creation and mankind to what it could and should be. Life ought not to be futile, but it is. Life ought not to be short, but it is. God is besought to remove the stigma of sin, the futility of life, to restore and renew. We read in verses 14 and 15, "Satisfy us in the morning with your unfailing love, That we may sing for joy and be glad all our days."
+
+### Authorship and Historical Context
+
+The liberal scholar denies that Moses wrote this psalm. Those who believe in Moses' authorship of the psalm almost universally agree that Moses wrote this during the 40 years of Israel's wilderness wanderings. Moses is thought by most conservative scholars to have penned this psalm in response to the dismal experience of witnessing the deaths of an entire generation of Israelites after Kadesh-Barnea, when they failed to capitalize on the promises of God and go in and possess the promised land. I have serious problems with this interpretation, for two reasons. First, if the psalm was written during the wilderness experience, why is the exodus never mentioned by Moses? Moses alludes to the creation, the fall, Methuselah, and the flood. Moses never alludes to the exodus. This is especially significant because the exodus experience became the pattern for God's deliverance of His people. The prophets describe God's deliverance of Israel from captivity and their return to the land in terms of the exodus motif. They see God acting in the return from Babylon as He did in the exodus.143 While Moses was up on the mountain receiving the Ten Commandments, the people below were sinning. Consequently God said to him, "Moses, I'm going to destroy those people and make a new nation out of you" (cf. Exod. 32:9-10). Moses did not plead with God on the grounds of men's merits, but on the basis of God's actions at the exodus. He reminded God that He had promised Abram and his descendants that He would make them a great nation and would bring them into the land of Canaan (Exod. 32:11-13). God's reputation was at stake. At the exodus God established a reputation which must be preserved. Moses pleaded with God on the basis of
+
+### Conclusion
+
+Psalm 90 therefore tells us something about the heart of Moses. When we look at Moses standing before the burning bush, there seems to be no reason for God's selection of him to lead His people out of captivity and into Canaan. Suppose this psalm was written a week before Moses was arrested by the sight of the burning bush. God would then have spoken to Moses from the burning bush, "Moses I heard your prayer. Go deliver your people!" If this is what happened, then God answered Moses' prayer through him. Such a historical setting is at least a possibility. It helps me understand the agony of soul with which Moses wrote the psalm, as well as the appropriateness of God's selection of Moses to deliver His people. The message of Psalm 90, while it is a somber theme, is one that is both true to reality and foundational to a healthy perspective on life. Those who wish only to think positively will not want to ponder this psalm long, but are the very people who need most to grasp its message. We have all heard the saying "Where there's life, there's hope." Although there is a measure of truth to this statement, Moses informs us in Psalm 90, "In this life there is sadness and shortness, there is frustration and failure." From a biblical and theological point of view this is not the purpose for which life was first created (Gen. 1-2), nor is it the way life will always be (Rev. 21-22), but in the days between paradise lost (Gen. 3) and paradise regained (Rev. 4-20), this is the way it is.
+
+### The Modern Context
+
+The clearest word comes from the pen of Paul in Romans 8. After introducing the marvelous ministry of the Holy Spirit, in whom we can live victoriously (8:1-17), Paul goes on to describe a facet of the Spirit's present ministry, that of sustaining the saint in suffering (8:18-39). In verses 19-23 Paul talks about the whole creation (including man), which presently endures the consequences of the fall of man and expectantly looks for a future deliverance. In verse 20 Paul says that the whole creation "was subjected to futility." I believe this is the same futility which Moses has poetically described in Psalm 90. My point is this: life, both in the days of Moses and in the present, is marked by a certain frustration and futility, which are the results of man's sin. This futility is the theme of the Book of Ecclesiastes—the vanity of which Solomon spoke. The Book of Job presents the same dismal picture of life: "For a man is born for trouble, As sparks fly upward" (Job 5:7, NASB). I believe that men today spend most of their energy striving to deny this reality of life and to rationalize that with just a little more effort life can be fulfilling. They deceive themselves by thinking that frustration and futility can be eliminated. This world view is best designated by the term "hype." Life is portrayed in the media in terms of hype. Upbeat music, a denial of the unpleasant, a distorted view of happiness, and a preoccupation with pleasure all are a part of this self-deception. The Bible doesn't "peddle 'hype," but it does offer hope. The Scriptures do not offer man an immediate deliverance from toil and tribulation, but rather the promise of sins forgiven, of knowing God and of supernatural sustenance in the trials and adversities of life. In the end, we
+
+### Final Reflections
+
+Whenever we base our faith and our hope on our abilities and our goodness, we are destined for great disappointment. Those who live only for the present set themselves up for a great fall. Human hype is truly false and we must sooner or later see its futility. I personally believe that this greatly helps us to explain the phenomenon which is now called the mid-life syndrome. It is at this stage in mid-life that a man sees his physical strength declining, his aspirations becoming mere dreams and his death approaching. No wonder so many are devastated. Their whole world view has been shattered by the very reality which Moses was teaching. Another result of the false optimistic view of life is that it creates unrealistic expectations. If life can be beautiful (in the incorrect sense) and if my marriage isn't everything I had hoped for (and my church is not completely satisfying me and meeting my needs, I had better move on. If my job is not totally fulfilling, I should look for something better. Psalm 90 tells us that marriage won't always be ecstasy, that no church will live up to our (or the Bible's) ideals, and that work will be frustrating. Since this is to be expected, we should learn to be content with life that is less than ideal, rather than to always be looking for the ideal. (This should not be confused with sinful complacency.) If life is indeed frustrating at times, then we had better not attempt to deny it, nor to escape it, but rather to live in the face of life's sadness and shortness. Many respond to man's plight by some kind of denial; others react with utter despair. While they see through the empty effort of hype, they fail to find hope. Their philosophy is a form of "eat, drink and be merry, for tomorrow we die." The message of the Bible is the promise of hope. There is salvation for a lost world (man and the creation) which is made possible through the
+
+### Web resources
+
+the Person of His Son at the incarnation. Nearly 2,000 years ago Christ came to the earth and redeemed the saints and the creation through His death on the cross (Col. 1:13-23, cf. especially v. 20). The full and final transformation is yet to come, both for man (1 Cor. 15:50-58; 1 Thess. 4:13-18) and for creation (Rom. 8:18-23; Rev. 21-22). It is for this final renewal and restoration that we are encouraged to pray: "Pray, then, in this way: 'Our Father who art in heaven, hallowed be Thy name. Thy kingdom come. Thy will be done, on earth as it is in heaven'" (Matt. 6:9-10, NASB). It is only when our Lord returns that final time to rid the universe of all evil and to renew the heavens and the earth that the futility and frustrations of life will be removed. Toward that end we should work and pray (2 Pet. 3:12); work for the rewards of Christ's future kingdom and pray for it to come quickly. In the meantime, let us look to Him to renew our hearts and minds to live righteously in a way which pleases Him. Let us neither deny that life is frustrating, nor let us be in despair over this reality. Rather, let us depend upon God for the wisdom and grace required to live in the world as it is, as well as to renew it to what it should be. Deffinbaugh, Bob, "Psalm 90: Place for Pessimism." Bible.org. http://bible.org/seriespage/psalm-90-place-pessimism (accesses 24 March 2010).
 
 ## 3. Thematic Analysis Matrices
-### Theme: Human Finiteness
-The biblical perspective that human life is short, prone to suffering, and transient when contrasted with God's eternal nature.
+### Theme: The Futility of Man
+The author argues that human efforts to achieve immortality or lasting legacy are ultimately futile, comparing them to the Tower of Babel and the ruins of ancient forts. This futility is presented as a consequence of the Fall and man's sinful state.
 
-### Theme: Futility of Sin
-The argument that the struggles and brevity of human life are consequences of sin, separating man from God's ideal.
+### Theme: God as Dwelling Place
+Moses, despite being a man without a country, identifies God as the true 'dwelling place' for Israel. The author emphasizes that security and peace are found in a Person (God) rather than in a physical location or nation.
 
-### Theme: Critique of Hype
-A condemnation of the modern tendency to deny reality through optimistic 'hype' or self-deception, arguing for a sober recognition of life's hardships.
+### Theme: The Perspective of Time
+The author contrasts human time with divine time, citing Psalm 90:4 and 2 Peter 3:8. He asserts that God views time from a divine perspective, making the long lives of figures like Methuselah appear as a very short span in God's sight.
 
-### Theme: Theological Renewal
-The hope for future redemption and divine intervention to restore creation and overcome the current state of frustration and decay.
+### Theme: Sin as the Cause of Life's Shortness
+The author links the brevity and 'sourness' of human life directly to sin. He argues that God's awareness of secret sins and the resulting judgment are the reasons for the labor, sorrow, and eventual death of mankind.
 
-## 4. Evidence Matrix & Verbatim Assertions
+### Theme: The Danger of 'Hype'
+The author critiques the modern cultural tendency toward 'hype'—a denial of life's inherent frustrations and a distorted view of happiness. He argues that this leads to self-deception and unrealistic expectations in areas like marriage, church, and work.
+
+## 4. Key Verbatim Assertions & Quotes
+> "Like the Tower of Babel (Genesis 11:1-9) man's efforts to etch his memory in history often end in frustration."
+*Source: Introduction*
+
+> "Yet Moses knew that ultimately man's dwelling is not a place but a Person. It is God who is our Dwelling Place and in Him we find security, safety and peace."
+*Source: Psalm 90:1-2*
+
+> "Man is finite, God is infinite. So we have a reference to creation in verse 2, one to the fall in verse 3, and an allusion to the long life of man in verse 4."
+*Source: Analysis of Verses 3-6*
+
 > "In this section man's shortness of life is shown to be a result of his sin."
-*Context Source: Page 4*
+*Source: Analysis of Verses 7-10*
 
-> "The Bible doesn't peddle 'hype,' but it does offer hope. The Scriptures do not offer man an immediate deliverance from toil and tribulation, but rather the promise of sins forgiven, of knowing God and of supernatural sustenance in the trials and adversities of life."
-*Context Source: Page 9*
+> "Numbering our days involves seeing life as God has described it. We must acknowledge that God is eternal and man is mortal; God is righteous and man is sinful."
+*Source: Analysis of Verses 11-17*
 
-> "If life is indeed frustrating at times, then we had better not attempt to deny it, nor complacency. If life is indeed frustrating at times, then we had better not attempt to deny it, nor complacency. If life is indeed frustrating at times, then we had better not attempt to deny it, nor complacency."
-*Context Source: Page 10*
+> "The Bible doesn't 'peddle 'hype,' but it does offer hope. The Scriptures do not offer man an immediate deliverance from toil and tribulation, but rather the promise of sins forgiven, of knowing God and of supernatural sustenance in the trials and adversities of life."
+*Source: The Modern Context*
 
-> "God is eternal and man is mortal; God is righteous and man is sinful."
-*Context Source: Page 5*
+> "It is only when our Lord returns that final time to rid the universe of all evil and to renew the heavens and the earth that the futility and frustrations of life will be removed."
+*Source: Web resources*

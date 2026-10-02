@@ -1,7 +1,7 @@
 ---
 title: "What Christians Believe: The Historical Development"
 author: "Alan F. Johnson and Robert E. Webber"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,25 +13,42 @@ aliases:
 # What Christians Believe: The Historical Development
 **Author:** [[Alan F. Johnson and Robert E. Webber]]
 
-## 1. Cleaned Document Text
-The article examines the historical development of the doctrine of God within Christianity, specifically addressing the Trinity, the relationship between God's unity and diversity, and medieval scholastic attempts to prove the existence of God. It explores the early church's struggle to balance monotheism with the Trinitarian nature of Father, Son, and Holy Spirit, as well as the transition from an early church focus on the Trinity to a medieval scholastic focus on philosophical proofs for God's existence, such as those formulated by Thomas Aquinas.
+## 1. Verbatim Source Text
+### 4 What Christians Believe About God: The Historical Development
+
+The history of the Christian doctrine of God stands in continuity with biblical revelation. Because the truth God is found in the Scripture, the church seeks to reflect on that truth and make it relevant to each age. In doing so it clarifies truth, defends it, and develops it. Each period of church history has its own issues regarding the doctrine of God. In the ancient period the church hammered out the doctrine of the Trinity; in the medieval era, the church developed various proofs for the existence of God; in the Reformation era discussion about God shifted toward an emphasis on the sovereignty of God and the absolute priority of divine election; in the modern era the rise of naturalism brought into question the very existence of God, causing theologians to emphasize the knowledge of God through experience, and, finally, in our contemporary age new questions about God have emerged—questions that pose such issues as the kind of language about God that is appropriate and how God is involved in our history.
+
+### THE ANCIENT CHURCH: THE TRINITY
+
+The view of God in the ancient church passed through the Greco-Roman grid. Consequently the emphasis in this early period of the church is not so much on the relationship of God to the world as on God as he is in himself. For example, the attitude of the early church toward God is summed up in the eucharistic prayer of St. John Chrysostom: 'O God, who art ineffable, inconceivable, invisible, incomprehensible, existing always in the same way, you and your only-begotten Son and your Holy Spirit.' A special problem for the early church was that of reconciling the oneness of God with the diversity of his revelation to the world. The early fathers of the church approached this problem by affirming the oneness of God in keeping with the Hebrew tradition. For example, Augustine spoke for the church when he said, 'Perhaps it is right that God alone should be called essence. For He is truly alone, because He is unchangeable; and declared this to be His own name to His servants, Moses, when He says, "I am that I am."' Even though the Fathers affirm the oneness of God, they do acknowledge the diversity of God as well. It is this recognition of both the unity and the diversity of God that lies behind the development of the doctrine of the Trinity, a matter that was the most prominent issue in the ancient church.
+
+### Roots of the Trinitarian Thought
+
+From the very beginnings of Christianity the church has always confessed faith in Father, Son, and Holy Spirit. For example, the roots of later Trinitarian thought go back to the doxologies, the benedictions, and the hymnic materials of the primitive church (see 1 Cor. 16:23; Phil. 2:1-11). Reflections on these doxological affirmations begin in the second century and climax in the debates of the fourth century, where, in the Nicene Creed, an acceptable formula for Trinitarian faith is accomplished. A brief overview of this debate and the conclusions reached is in order. The issue the church faced in the pagan Hellenistic culture was to affirm both the unity and the diversity of God in the midst of a polytheistic culture. On the one hand, the church needed to remain faithful to the Old Testament emphasis on the oneness of God. On the other hand, it could not ignore the New Testament revelation of diversity. So the questions were: How do you maintain the unity of God without losing the diversity? How do you maintain the diversity of God without falling into polytheism? While the church was eventually to affirm both the unity and the diversity of God in the creeds, various groups in the second and third century overemphasized either the unity or the diversity.
+
+### THE MEDIEVAL CHURCH: PROOFS FOR THE EXISTENCE OF GOD
+
+The medieval doctrine of God stands on the shoulders of the ancient affirmation of God's oneness and threeness. No medieval scholar would deny what was affirmed in the early church and reiterated in the Fourth Lateran Council (1215): 'We firmly believe and profess without qualification that there is only one true God, eternal, immense, unchangeable, incomprehensible, omnipotent, and indescribable, the Father, the Son, and the Holy Spirit; three persons but one essence, substance or nature that is wholly simple.' The dogma of the Trinity was set. No debates about the Trinity appear in the medieval era. The church was interested in something else. Because of the rise and influence of Aristotelian philosophy in the medieval era, the discussion about God was both philosophical and theological. Philosophy asked questions about God's existence, while theology continued to be concerned about the nature of God. Thomas Aquinas (1225-74), who was to the medieval era what Augustine was to the ancient church, was both a philosopher and a theologian. As a philosopher he developed the proofs for the existence of God. These proofs constitute the major contribution of medieval thought to the discussion about God. Aquinas believed God could be known not only through the eyes of faith, but also through human reason. In his view the proposition 'God exists' could be derived from what the human mind experiences and understands about 'effects.' An effect, he argued, must have a cause. For example, the aroma of a flower is an effect. By logical inquiry the human mind can trace the aroma back to the cause, the flower. Aquinas used this same procedure in establishing the existence of God. His effects, the argument went, demonstrate his existence. Aquinas finds five effects that lead to five proofs for the existence of God. The first is the proof from motion. The argument is that an effect that all people clearly perceive from their senses is the reality of movement itself. Everything, including the world, the environment, and our own bodies, are in motion. According to an Aristotelian concept, everything being moved was being moved by another. So, for example, if a hand moves a stick, the hand must have been moved by something else. However, because an infinite regression of movement cannot exist, there must be a first mover who is unmoved. This first mover is God. Second, Aquinas sets forth an argument for God's existence from efficient causality. The purpose of this argument is to demonstrate God as the final cause of everything. The idea of an ultimate efficient cause beyond which no cause exists rests on two presuppositions. The first is that nothing can be its own efficient cause, and the second is that an infinite regression of causes is not possible. Consequently, there must be a first uncaused cause that causes all other intermediate causes to exist. This cause is God. Third, Aquinas sought to prove the existence of God from contingency. This is the most difficult of the proofs to understand because it is based on the being of God rather than his operation in the world. The argument from contingency, as the word implies, is that all life is contingent, having a beginning and ending and thus a limited duration. Therefore all that is, dependent. Since what is substances. Thus there is only one God who is in the eternal relationship of Father, Son, and Spirit. It can be seen that the Trinity, because it is a paradox, is a very difficult doctrine to talk about. Our language always tends to emphasize either the oneness or the diversity of the Godhead. Therefore, it is best for us to acknowledge that we are dealing with a mystery, a mystery that is above our ability to comprehend. Ultimately what God calls us to is not an exhaustive understanding of Himself, but to the worship of himself as God Almighty, Father, Son, and Spirit. In worship we enter into union with the God the mind cannot fathom. Nevertheless, it would be wrong for us to assume that it doesn't matter whether we believe in the Trinity or not. It does make a difference. The ultimate issue in Trinitarian thought is soteriological, having to do with salvation. The Trinity is no mere abstract metaphysical dogma. Rather, it affirms that it was God himself who was present in Jesus Christ, saving us and the world. The 'Logos' who became incarnate and saves us is no inferior Deity, no second God, no God by way of appointment. No! He is God himself. God the Creator becomes his creation in order to re-create and restore the fallen creation from the inside. The doctrine of the Trinity preserves this fundamental proclamation of Scripture that God alone saves and the church responds in the doxological affirmation 'Jesus is Lord' (Rom 10:9).
 
 ## 3. Thematic Analysis Matrices
-### Theme: Trinitarian Doctrine
-The theological challenge of maintaining the unity of God while acknowledging the divinity of Father, Son, and Holy Spirit as expressed in early church traditions and dogmas.
+### Theme: Trinitarian Development
+The text argues that the doctrine of the Trinity was the most prominent issue in the ancient church, arising from the need to reconcile the biblical oneness of God with the diversity revealed in the Father, Son, and Holy Spirit, particularly in the face of a polytheistic Hellenistic culture.
 
-### Theme: Historical Theology
-An overview of how church history has shaped doctrinal understanding, specifically moving from early church reflections on revelation to medieval philosophical proofs.
+### Theme: Medieval Philosophical Proofs
+The text highlights the shift in the medieval era toward using Aristotelian philosophy to provide rational proofs for God's existence, specifically citing Thomas Aquinas's arguments from motion, efficient causality, and contingency.
 
-### Theme: Medieval Scholasticism
-The influence of Aristotelian philosophy on medieval theology, particularly the development of rational proofs for God's existence by thinkers like Thomas Aquinas.
+### Theme: Soteriological Significance of the Trinity
+The authors argue that the Trinity is not merely an abstract metaphysical concept but is fundamentally soteriological, affirming that God himself was present in Jesus Christ to save and restore the fallen creation.
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "The history of the Christian doctrine of God stands in continuity with biblical revelation, because the truth about God is found in the Scripture, the church seeks to reflect on that truth and make it relevant to each age."
-*Context Source: Page 3, Section 4*
+## 4. Key Verbatim Assertions & Quotes
+> "O God, who art ineffable, inconceivable, invisible, incomprehensible, existing always in the same way, you and your only-begotten Son and your Holy Spirit."
+*Source: The Ancient Church: The Trinity*
 
-> "The medieval doctrine of God stands on the shoulders of the ancient affirmation of God’s oneness and threeness."
-*Context Source: Page 4, Section: The Medieval Church: Proofs for the Existence of God*
+> "Perhaps it is right that God alone should be called essence. For He is truly alone, because He is unchangeable; and declared this to be His own name to His servants, Moses, when He says, "I am that I am.""
+*Source: The Ancient Church: The Trinity*
 
-> "Aquinas believed God could be known not only through the eyes of faith, but also through human reason. In his view the proposition ‘God exists’ could be derived from what the human mind experiences and understands about ‘effects’."
-*Context Source: Page 4*
+> "We firmly believe and profess without qualification that there is only one true God, eternal, immense, unchangeable, incomprehensible, omnipotent, and indescribable, the Father, the Son, and the Holy Spirit; three persons but one essence, substance or nature that is wholly simple."
+*Source: The Medieval Church: Proofs for the Existence of God (citing Fourth Lateran Council, 1215)*
+
+> "The ultimate issue in Trinitarian thought is soteriological, having to do with salvation. The Trinity is no mere abstract metaphysical dogma. Rather, it affirms that it was God himself who was present in Jesus Christ, saving us and the world."
+*Source: The Medieval Church: Proofs for the Existence of God*

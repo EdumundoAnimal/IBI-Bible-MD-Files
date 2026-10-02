@@ -1,7 +1,7 @@
 ---
 title: "Nicene and Post-Nicene Fathers: St. Athanasius, Volume IV"
 author: "St. Athanasius"
-processed_date: 2026-08-07
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,28 +13,28 @@ aliases:
 # Nicene and Post-Nicene Fathers: St. Athanasius, Volume IV
 **Author:** [[St. Athanasius]]
 
-## 1. Cleaned Document Text
-The document is an excerpt from a volume in the Nicene and Post-Nicene Fathers series, focusing on Select Writings and Letters of Athanasius, Bishop of Alexandria. The provided pages contain theological discourse on the nature of the Son in relation to the Father, specifically addressing Arian interpretations of scripture. Page 4, marked as 'Discourse III', discusses the interpretation of passages such as 'all things have been given unto Me of My Father' (John 3:35), arguing against the idea that the Son is a created being receiving power, and instead asserting His eternal, consubstantial nature. Page 5 continues this analysis, refuting arguments based on passages where Christ appears to claim ignorance, such as the case of Lazarus (John 11), by explaining these as Christ condescending to the human condition rather than revealing a lack of divine knowledge.
+## 1. Verbatim Source Text
+### Councils of Ariminum and Seleucia
+
+Reason why two Councils were called. Inconsistency and folly of calling any; and of the style of the Arian formularies; occasion of the Nicene Council; proceedings at Ariminum; Letter of the Council to Constantius; the Council at Seleucia; reflections on the conduct of the Arians. 1. PERHAPS news has reached even your-selves concerning the Council, which is at this time the subject of general conversation; for letters both from the Emperor and the Prefects were circulated far and wide for its convocation. However, you take that interest in the events which have occurred, that I have determined upon giving you an account of what I have seen myself, and accurately ascertained, which may save you from the suspense attendant on the reports of others; and this the more, because there are parties who are in the habit of misrepresenting what has happened. At Nicaea then, which had been fixed upon, the Council has not met, but a second edict was issued, convening the Western Bishops at Ariminum in Italy, and the Eastern at Seleucia in Isauria. And to the catechumens, this was no small scandal; for the professed reason of such a meeting was to treat of the faith touching our Lord Jesus Christ; and those who alleged it, were Ursacius, Valens, and one Germinius from Pannonia; and from Syria, Acacius, Eudoxius, and Patrophilus 9 of Scythopolis. These men who had always been of the Arian party, and understood neither how they believe or what they affirm, and were silently desired by the others, and were secretly defended by the others, and were the bottom of all this, that of Ursacius, who were at the bottom of all this, did not understand what wrath they were storing up (Rom. ii. 5) against themselves, as our Lord says by His saints, 'Woe unto them, through whom My Name is blasphemed among the Gentiles' (Is. lii. 5; Rom. ii. 24); and by His own mouth in the Gospels, (Matt. xviii. 6), 'Whoso shall offend one of these little ones, it were better for him...
+
+### To the Bishops of Africa
+
+1. Pre-eminence of the Council of Nicaea. Efforts to exalt that of Ariminum at its expense. What then do such men deserve, but to be called Arians, and to share the punishment of the Arians? For they were not afraid of God, who says, 'Remove not the eternal boundaries which thy fathers placed,' and 'He that speaketh against father or mother, let him die the death'; they were not in awe of their fathers, who enjoined that we hold the sound Faith which Christ gave us, the Apostles preached, and the Fathers, who met at Nicaea from all this world of ours, have handed down. For so great a stir was made at that time about the Arian heresy, in order that they who had fallen into it might be reclaimed, while its inventors might be made manifest. To that council, accordingly, the whole world has long ago agreed, and many synods having been held, all men have been put in mind, both in Dalmatia and Dardania, Macedonia, Epirus and Greece, Crete, and the other islands, Sicily, Cyprus, Pamphylia, Lycia, and Isauria, all Egypt and the Libyas, and most of the Arabians have come to know it, and marvelled at those who signed it, inasmuch as even if there were left among them any bitterness springing up from the root of the Arians; we mean Auxentius, Ursacius, Valens, and even then, by these letters they have been cut off and isolated. The confession of the faith at Nicaea was, we said above, sufficient and enough by itself, for the security and furtherance of the doctrine of the Church. But since we have heard that certain wishing to oppose it are attempting to cite a synod supposed to have been held at Ariminum, and are eagerly striving that it should prevail rather than the other, we think it right to write and put you in mind, not to endure anything of the sort: for this is nothing else but a second growth of the Arian heresy. For what else do they wish for who reject the synod held at Nicaea, namely the Nicene, if not that the cause of Arius should prevail?
 
 ## 3. Thematic Analysis Matrices
-### Theme: Arianism
-The text systematically refutes Arian arguments that misinterpreted specific biblical passages to suggest the Son of God was a created being rather than eternally co-equal with the Father.
+### Theme: The Authority of the Nicene Council
+Athanasius argues that the Council of Nicaea established a sufficient and eternal boundary for the faith, and that any attempt to replace it with the Council of Ariminum is a resurgence of the Arian heresy.
 
-### Theme: Divine Condescension
-Athanasius explains that when Christ appears to manifest human limitations, such as ignorance or the need for power, it is a manifestation of His voluntary condescension to humanity, not an intrinsic limitation of His divinity.
+### Theme: The Divinity of the Son
+The text emphasizes that the Son is of the Essence of the Father, rejecting the Arian notion that the Son is a creature or had a beginning.
 
-### Theme: Consubstantiality
-The central theological assertion that the Son possesses the same essence as the Father, and therefore all actions and words attributed to the Son in Scripture must be understood in the context of His unified nature with the Father.
+## 4. Key Verbatim Assertions & Quotes
+> "The confession of the faith at Nicaea was, we said above, sufficient and enough by itself, for the security and furtherance of the doctrine of the Church."
+*Source: To the Bishops of Africa, Section 1*
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "These texts intended to preclude the Sabellian notion of the Son; they fell in with the Catholic doctrine concerning the Son; they are given at the end of the chapter."
-*Context Source: Page 4, Discourse III, Paragraph 35*
+> "For what else do they wish for who reject the synod held at Nicaea, namely the Nicene, if not that the cause of Arius should prevail?"
+*Source: To the Bishops of Africa, Section 1*
 
-> "If He were one of all, then He were not 'heir of all,' but every one had received according as the Father willed and gave."
-*Context Source: Page 4, Discourse III, Paragraph 35*
-
-> "But in this instance of the Father indeed not from any, but the Son from the Father, as the radiance itself says, 'All that the Father hath given me,' I and do not enlighten from myself, but as the light wills, yet, in saying this, it does not imply that it once had not, but it means that I am proper to the light and one with it."
-*Context Source: Page 5, Discourse III, Paragraph 37*
-
-> "But for the sake of the salvation of all, which He might vouchsafe to us the knowledge of His own and true Father, and of Himself, sent because of this for the salvation of all, that no grace could be greater."
-*Context Source: Page 5, Discourse III, Paragraph 37*
+> "Woe unto them, through whom My Name is blasphemed among the Gentiles"
+*Source: Councils of Ariminum and Seleucia, Section 1*

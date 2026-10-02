@@ -1,7 +1,7 @@
 ---
 title: "The Incarnation and Personal Faith Today"
 author: "Unknown"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,34 +13,21 @@ aliases:
 # The Incarnation and Personal Faith Today
 **Author:** [[Unknown]]
 
-## 1. Cleaned Document Text
-This text provides an analytical examination of the Christian doctrine of the incarnation in the context of contemporary debates and dialogue with other faiths, particularly Islam. It evaluates the theological legitimacy of Christ's divinity, the historical evidence of the resurrection, and the implications of personal faith. Key themes include the 'Kenotic Theory' (the self-emptying of God), the historical and psychological validity of the resurrection, the challenges of reconciling Jesus's human limitations with his divine identity, and the potential for dialogue between Christians and Muslims regarding the nature of God and the person of Jesus.
+## 1. Verbatim Source Text
+### The problem posed
+
+Chapter 5 in this book took the form of a general introduction to the mysteries of the incarnation and atonement and attempted to etch in the background to what I have termed 'the contemporary debate'. Starting from the basic Christian confession, 'Jesus is Lord', we looked first at some of the titles applied to Jesus in the Gospels - Son of Man, Messiah, Son of God, Lord - and at the exceedingly strong evidence there is for the vivid consciousness he had of a unique filial relationship with his heavenly Father, unclouded by any sense of personal sin. We also looked at the evidence for the innate authority which characterized his words and actions, and his constant response to the divine imperative which called him, ever more clearly, to 'give his life a ransom for many'. We saw, too, how his disciples, completely misunderstanding the nature of his mission, were thrown into despair, with all their hopes shattered, by his betrayal and crucifixion. But God raised him from the dead, and thereby brought them back - wondering, and at first doubting their very senses - to a living hope and a triumphant joy. Jesus' resurrection and exaltation led them all to call him 'Lord' in an entirely new light; and this was why they now felt compelled to call him 'Lord' and began to associate him with God himself in prayer and worship. How, then, did they now view Jesus' earthly life, during which they must, beyond doubt, have regarded him as a man among men; and how did they explain his new status? One suggestion, which (as we have seen) assumes quite a prominent place in the contemporary debate, can be summed up in the term Adoptionism - that is, the theory that God at some stage 'adopted' him as his Son, and exalted him to a place of lordship and power. We saw that this is regarded by some writers today as the earliest Christology. It is clear, however, that the church of the middle of the first century did not only believe in the exaltation of the man, Christ, Jesus, but also in his pre-existence, for we find references to this from a very early date - and without any explanation or comment - in several of Paul's epistles and elsewhere in the New Testament. It would have been natural enough, once the 'eternal' in the sense that it would have no end must equally be eternal in the sense of having no beginning; but I for one have no doubt that the concept can also be traced back to the way in which Jesus himself had sometimes spoken.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Kenotic Theology
-An examination of the 'self-emptying' of the Son of God, where the divine nature was accommodated to human limitations, growth, and suffering to fulfill the redemptive purpose.
+### Theme: Adoptionism
+The theory that Jesus was a man who was later 'adopted' by God as his Son and exalted to a place of lordship and power. The author notes this is often cited as the earliest Christology but argues against it by pointing to early New Testament references to Jesus' pre-existence.
 
-### Theme: The Resurrection as Historical and Personal Evidence
-The argument that the empty tomb and resurrection appearances are not merely mythical but are central, verifiable historical events that form the basis for faith and the transformation of the disciples.
+### Theme: The Resurrection and Exaltation
+The pivotal event that transformed the disciples' understanding of Jesus from a man among men to 'Lord', leading them to associate him with God in prayer and worship.
 
-### Theme: Interfaith Dialogue (Christianity and Islam)
-The document explores the commonalities and profound theological differences between Christian and Islamic understandings of Jesus, God's nature, and the concept of revelation.
+## 4. Key Verbatim Assertions & Quotes
+> "Chapter 5 in this book took the form of a general introduction to the mysteries of the incarnation and atonement and attempted to etch in the background to what I have termed 'the contemporary debate'."
+*Source: Chapter 8, The problem posed, page 181*
 
-### Theme: Christ's Dual Nature
-The theological tension of holding Jesus to be both fully God (verus Deus) and fully man (verus homo) without reducing him to a mere phantasm or neglecting his divine authority.
-
-## 4. Evidence Matrix & Verbatim Assertions
-> "The implications in 1 Cor. 15:35-56 are not especially concerned with the resurrection of Jesus Christ, but with the resurrection of that future."
-*Context Source: Page 1*
-
-> "This positive evidence is buttressed, moreover, by a considerable amount of what may be termed negative or circumstantial evidence."
-*Context Source: Page 2*
-
-> "Jesus's claim to authority, through which he put himself in God's place, was, as we saw in the discussion of the antitheses in the Sermon on the Mount, blasphemous for Jewish ears."
-*Context Source: Page 3*
-
-> "I am convinced that dialogue between Christians and Jews is not only possible and desirable—on the basis of reverence for reverence."
-*Context Source: Page 4*
-
-> "The Qur'an denies that Jesus was the messiah... The Qur'an denies that Jesus was killed but was a counterfeit for them."
-*Context Source: Page 5*
+> "Jesus' resurrection and exaltation led them all to call him 'Lord' in an entirely new light; and this was why they now felt compelled to call him 'Lord' and began to associate him with God himself in prayer and worship."
+*Source: Chapter 8, The problem posed, page 181*

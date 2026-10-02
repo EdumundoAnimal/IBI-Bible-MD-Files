@@ -1,7 +1,7 @@
 ---
 title: "Psalm 104 — System Verification Report"
 author: "Unknown"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,57 +13,58 @@ aliases:
 # Psalm 104 — System Verification Report
 **Author:** [[Unknown]]
 
-## 1. Cleaned Document Text
-This report provides a comprehensive exegetical and theological exposition of Psalm 104. It explores the linguistic and syntactical structure of the text, its historical and cultural context relative to ancient Near Eastern literature, and its broader canonical significance. The monograph includes a verse-by-verse theological analysis, patristic and reformational reception history, and modern philosophical reflections on the providence and sustenance of the natural order as described in the Psalm.
+## 1. Verbatim Source Text
+### Phase 1: The Exegetical Network (The First-Century Chair)
+
+1. Linguistic & Syntax Report Textual Variants ● Psalm 104:4 — רּוחֹות עֹשֶׂ ה מַ לְ אָ כָיו / רּוכֵב עַ ל־כַנְ פֵי־רּוחַ (BHS / 11QPs<a> / LXX / Hebrews 1:7): The Masoretic Text (MT) vocalizes רּוחֹות (rūḥōt) and ל ֵהֹ שׁ ֵא‘ (ēš lōhēṭ) as the predicate accusatives of the participle ה ֶׂשֹע’ (ōśeh), yielding: "He makes winds His messengers, flaming fire His ministers." The Septuagint (LXX 103:4) translates: ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα καὶ τοὺς λειτουργοὺς αὐτοῦ πυρὸς φλόγα (accusative object angelous, predicate pneumata), which is cited verbatim in Hebrews 1:7. 11QPs<a> aligns with the consonantal MT. The debate centers on whether the natural elements are transformed into divine messengers (cosmological syntax, MT) or whether celestial beings are given elemental forms (angelological syntax, LXX/NT). Syntactically, the word order in Hebrew poetry places the direct object first followed by the complement; thus, winds/fire are the materials Yahweh employs as His envoys. ● Psalm 104:8 — יַעֲלּו הָ רִ ים יֵרְ דּו בְ קָ עֹות: Ambiguity in grammatical subject: Are the mountains and valleys the subject ("The mountains rose, the valleys sank down") or are the waters of verse 6–7 the continuing subject ("They [the waters] went up the mountains, they went down the valleys")? LXX renders ἀναβαίνουσιν ὄρη καὶ καταβαίνουσι πεδία (intransitive verbs with mountains/valleys as nominative subjects). Targum and modern commentators (Kraus, Allen, WBC) favor the waters as the subject traversing the shifting tectonic topography until reaching their assigned boundary (v. 9), maintaining strict syntactic continuity with the verbs in v. 7. ● Psalm 104:35 — הָּו־יּל ְל ַה (Hallĕlū-Yāh): In the MT, Hallelujah concludes Psalm 104. In the LXX (Psalm 103:35), Ἀλληλούϊα is transferred to the incipit of Psalm 105 (LXX 104:1). 11QPs<a> places Hallelujah at the conclusion of 104, confirming the ancient Palestinian structural boundary marking the first occurrence of Hallelujah in the Psalter. [v. 1a-4] Cosmic Royal Canopy (Light, Heavens, Waters, Wind, Fire) [v. 5-9] Earth's Foundations & Primordial Chaos Subdued [v. 10-18] Hydrological & Agrarian Life-Sustaining Order [v. 19-23] Temporal Rhythms: Solar/Lunar Dyads & Labor [v. 24-26] The Maritime Theater & Leviathan as Plaything [v. 27-30] Absolute Pneumatological Dependence (Life & Death) [v. 31-35] Eschatological Doxology & Cleansing of the Cosmos
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Criterion,Evaluation Metric,Status
+GENESIS 1 HEXAEMERON,PSALM 104 CORRESPONDENCE
 ```
 
 ### Table 2
 ```csv
-Original Intent Verification,Exegetical and historical alignment on primary meaning; Near Eastern context; linguistic syntax,Passed — Fully cross-referenced with BHS; DSS (11QPsᵃ); LXX; and ANET parallels.
+Day 1: Light (Gen 1:3–5),vv. 1b–2a: Clothed with light as a robe
 ```
 
 ### Table 3
 ```csv
-Exegetical Resource Saturation,Consultation across primary academic series (NICOT; WBC; ICC; BECNT) for syntax; structure; and variants,Passed — Integrated across structural and lexical profiles.
+Day 2: Heavens/Firmament (1:6–8),vv. 2b–4: Tent of heavens, upper waters
 ```
 
 ### Table 4
 ```csv
-Tone Neutrality Verification,Application language is descriptive and reflective; free from emotional coercion or moralizing pressure,Passed — Structural focus on biblical exposition and open-ended ethical reflection.
+Day 3: Dry Land & Seas (1:9–10),vv. 5–9: Earth founded, boundaries set
 ```
 
 ### Table 5
 ```csv
-Source Integrity Check,Lexical ranges validated via HALOT; historical reception grounded in Patristic; Reformational; and Modern sources,Complete — Confirmed against historical theological vectors.
+Day 3b: Vegetation (1:11–13),vv. 10–18: Springs, grass, wine, bread
+```
+
+### Table 6
+```csv
+Day 4: Sun and Moon (1:14–19),vv. 19–23: Moon for seasons, sun's setting
 ```
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Creatio Continua
-The theological argument that God’s role in creation is not limited to a past historical act but consists of continuous, non-temporal cosmic sustaining actions.
+The psalm frames creation not as a past historical event (creatio originans), but as an uninterrupted divine preservation. This is evidenced by the continuous participial strings in verses 1b–4, describing Yahweh's ongoing sustaining actions.
 
-### Theme: Polemical Demythologization
-The Psalm re-appropriates ancient Near Eastern motifs—such as the sun, chaos sea (Leviathan), and storm-clouds—to strip them of pagan divinity, subordinating them to the transcendent Yahweh.
+### Theme: Theological Polemic
+Psalm 104 appropriates Near Eastern pagan idioms (such as the Amarna Hymn to the Aten or the Ugaritic Baal Cycle) to disarm them. It demythologizes the sun and the sea, asserting that Yahweh is the sole transcendent Creator and immanent Sovereign, rather than a deity competing with other cosmic forces.
 
-### Theme: Theocentric Ecology
-The decentralization of human anthropocentrism in favor of a view where all creatures and natural elements (like the rock badger or stork) possess intrinsic value because they are sustained by God.
+## 4. Key Verbatim Assertions & Quotes
+> "He makes winds His messengers, flaming fire His ministers."
+*Source: Psalm 104:4*
 
-### Theme: Eschatological Cleansing
-The view that sin and rebellion act as unnatural contaminants in God's harmonious cosmic temple, necessitating their ultimate eradication in the eschaton.
+> "The sun knows its time for setting."
+*Source: Psalm 104:19*
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "Creation is framed not merely as a past historical event (creatio originans), but as an uninterrupted divine preservation (creatio continua)."
-*Context Source: Page 2, Grammatical Mechanics*
+> "When you send forth your Spirit, they are created, and you renew the face of the ground."
+*Source: Psalm 104:30*
 
-> "In Psalm 104, Liwyātān is stripped of all autonomous mythological dualism. It is not an anti-god requiring cosmic combat (Chaoskampf), but a creature Yahweh formed 'to play with' or 'to play in it'."
-*Context Source: Page 2, Lexical Profiles*
-
-> "The Psalm decentralizes human anthropocentrism while elevating theocentric worship."
-*Context Source: Page 6, Existential Friction Points*
-
-> "The redemption accomplished by Jesus Christ does not result in a disembodied heaven, but in the renewal of all things (Matt 19:28; Acts 3:21; Rev 21:1–5)."
-*Context Source: Page 9, Theological Synthesis & Christology*
+> "To make God a momentary Creator, who once for all finished his work, were cold and barren... we must see Him as the perpetual Governor and Preserver of everything He has made."
+*Source: John Calvin, Institutes of the Christian Religion, I.xiv.20–22; I.xvi.1–4*

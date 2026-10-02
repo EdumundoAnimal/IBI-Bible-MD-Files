@@ -1,7 +1,7 @@
 ---
 title: "Reflective Essay: Psalm of Trust"
 author: "Éamon Parkes"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,45 +13,64 @@ aliases:
 # Reflective Essay: Psalm of Trust
 **Author:** [[Éamon Parkes]]
 
-## 1. Cleaned Document Text
-This document contains a reflective essay and a subsequent commentary on a self-authored 'Psalm of Trust.' The content explores themes of human need, repentance, and eventual praise within a spiritual framework. The author uses various literary devices such as metaphors, similes, personification, and acrostic structures to express feelings of spiritual exhaustion, the need for divine protection, and hope for a future redemption. The commentary section analyzes these poetic elements, identifying the poem as a 'psalm of lament' that transitions into a declaration of faith and hope in God's mercy and the future return of the Savior.
+## 1. Verbatim Source Text
+### Reflective Essay: Psalm of Trust
 
-## 2. Quantitative Metric Tables
-### Table 1
-```csv
-FIELD,VALUE
-STUDENT NAME,Éamon Parkes
-COURSE NAME,Old Testament Set Text: Poetry and Wisdom
-COURSE NUMBER,AT213/303
-ASSIGNMENT TITLE,Reflective Essay: Psalm of Trust
-NAME OF TEACHER,Jonathan Schuster
-NUMBER OF WORDS,223
-DATE DUE,04/03/10
-DATE SUBMITTED,04/03/10
-```
+All my soul stretches for you O Lord, My thirsty heart seeks rain from heaven Like arid land needs siphon water from the stream. Before your eyes my life laid bare, Calendar days to you laid one by one Side by side counted in your diary book Consider my ways as an orchid flower, Blown too and fro in storm and weather Driven back and forth by gale and shower Delight in your servant again O LORD, Father God your wayward son has come home. Elegant words of wisdom from your lips I remembered Like sustaining ointment from your royal throne, Your majestic truth has washed me clean and bandaged up my wounded soul. Father forgive me for ever grieving your Holy Spirit Great is your mercy towards me, endless as soft summer rain A white dove, your graceful forgiveness; it stills my wild winter wind Greatness is His name, the Holy one of Israel, The Holy one of Hibernia. Give ear to His word, His wisdom call at the gates, Give vista to His wonderful creation, by knowledge He spanned the landscape. Take hold of his grace, the scent of His riches are more than alluring Keep the eye naked for your redeemer draws near, He will return on white stallion and will not delay when he comes with his host.
+
+### Classification
+
+This pslam is a "psalm of trust". This is made clear by the format that the Psalmist has created this piece of writhing. They begin with an invocation to God expressing their need for him. As the psalm develops a declaration of repentance is expressed. The writer ends the psalm with a vow of thanksgiving and praise. By investigating the classification of the Psalm we will gain more understanding of the author and the meaning behind the Psalm.
+
+### Psalm: Development
+
+Firstly, before we explore this Psalm it must be noted the psalmist has used the technique of acrostics. Each letter at the beginning of each stanza is in alphabetical order.
+
+### Stanza One to Three: A Need for God
+
+The psalmist begins with a declaration to God, "All my soul stretches for you O Lord". The first stanza speaks of the writers soul being "thirsty", they continue on the imagery of water by using a similie to compare his soul to an "arid land". By comparing their soul to an arid land, the writer is expressing a feeling of lacking or exhaustion. An arid land is lacking in rainfall and water, it requires water in order to grow and live. The psalmist is using the arid land as a methaphour for their soul, and God is the water needed for their soul to grow and live.
+
+### Stanza Two (Continued)
+
+The next stanza continues with the declaration, "Before your eyes my life laid bare". This stanza speaks of time, and what would seem it's unimportance. The writer is giving their days to the Lord and believes He has a plan in his "diary book". Stanza three develops the direction of the Psalm, using a similie the writer compares themself to an "orchid flower" being "Blown too and fro in storm and weather. Driven back and forth by gale and shower." Here the writer is expressing their feelings for the world. They are a delicate orchid being tossed around in a tough, cruel world. This highlights for the writers need for God to protect and shelter them.
+
+### Stanza Four to Six: Rependence
+
+In this section of the psalm there is a feeling of rependence. The writer speaks about a son returning, a refrence to the parable of the prodical son in Luke 15:11 in verse four. Verse five continues with this theme, the psalmist speaks of remembering "elegant words of wisdom." This suggest for a time the writer had forgotten and was not near God. But upon remebering them, returned to him like a "wayward son" coming home. "Father forgive me for ever grieving your Holy Spirit", this is the opening line to the sixth stanza, the last verse in this section. Here the writer seeks rependence and speaks of God's mercy and forgiveness. They compare them to "soft summer rain" and "a white dove".
+
+### Stanza Seven: Vow of Thanksgiving and Praise
+
+This last section is the Psalmist's praise offering to the Lord for being everything they need and for forgiving them. The first line to the last verse has a repetitive rhythm, "The Holy one of Israel, the Holy one of Hibernia." This repetition emphasizes God's holiness in the eyes of the Psalmist. The last line ends on a hopeful, uplifting note. It is a promise, "He will return on a white stallion and will not delay when he comes with his host." This statement reveals the hope and faith within the writer. They are eagerl awaiting this day. Also, the imagery of the Lord on "a white stallion" creates a picture of strenght and beauty.
+
+### Conclussion
+
+This psalm is an honest and beautiful psalm. It has a mixture of emotions from feeling weak and dry like an arid land, to feeling as delicate as an orchid. It speaks of a plan the Lord has in his "diary book". It also talks about a saviour who forgives and is merciful who "bandaged up my wounded soul." The ending stanza is one of hope and faith, it inspires belief within the reader.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Psalm of Lament
-The classification of the poem as a lament, characterized by the author's expression of deep distress, personal weakness, and a desperate cry for God's help.
+### Theme: Psalm of Trust
+The author classifies the work as a 'psalm of trust' based on the progression from an invocation of need, to a declaration of repentance, and finally a vow of thanksgiving and praise.
 
-### Theme: Divine Restoration
-The transition from themes of personal spiritual exhaustion and suffering (comparing the soul to arid land and an orchid in a storm) to the experience of God's forgiveness, mercy, and restorative power.
+### Theme: Acrostic Structure
+The author notes the use of an acrostic technique where each stanza begins with a letter in alphabetical order.
 
-### Theme: Eschatological Hope
-The concluding focus on the hopeful anticipation of the Savior's return, symbolized by the imagery of a white stallion and the gathering of the heavenly host.
+### Theme: Metaphorical Imagery
+The text utilizes metaphors such as 'arid land' to represent a thirsty soul, an 'orchid flower' to represent vulnerability in a cruel world, and 'soft summer rain' to represent God's mercy.
 
-### Theme: Literary Poetics in Scripture
-The usage and analysis of techniques like acrostics, chiasmus, parallelism, and personification to convey profound theological emotions and experiences.
+### Theme: Repentance and Return
+The author draws a parallel between the psalm's narrative of returning to God and the biblical parable of the prodigal son found in Luke 15:11.
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "The psalmist begins with a declaration to God, "All my soul stretches for you O Lord". The first stanza speaks of the writers soul being "thirsty", they continue on the imagery of water by using a simile to compare his soul to an "arid land"."
-*Context Source: Page 5*
+## 4. Key Verbatim Assertions & Quotes
+> "All my soul stretches for you O Lord"
+*Source: Reflective Essay: Psalm of Trust, Stanza One*
 
-> "In this section of the psalm there is a feeling of repentence. The writer speaks about a son returning, a refrence to the parable of the prodical son in Luke 15:11 in verse four."
-*Context Source: Page 6*
+> "Father forgive me for ever grieving your Holy Spirit"
+*Source: Reflective Essay: Psalm of Trust, Stanza Six*
 
-> "The last line ends on a hopeful, uplifting note. It is a promise, "He will return on a white stallion and will not delay when he comes with his host.""
-*Context Source: Page 7*
+> "He will return on white stallion and will not delay when he comes with his host."
+*Source: Reflective Essay: Psalm of Trust, Stanza Seven*
 
-> "I wished to convey the weakness sometimes felt in the Christian walk and how "That is why, for Christ's sake, I delight in weaknesses, in insults, in hardships, in persecutions, in difficulties. For when I am weak, then I am strong,""
-*Context Source: Page 19*
+> "The psalmist is using the arid land as a methaphour for their soul, and God is the water needed for their soul to grow and live."
+*Source: Stanza One to Three: A Need for God*
+
+> "The writer speaks about a son returning, a refrence to the parable of the prodical son in Luke 15:11 in verse four."
+*Source: Stanza Four to Six: Rependence*

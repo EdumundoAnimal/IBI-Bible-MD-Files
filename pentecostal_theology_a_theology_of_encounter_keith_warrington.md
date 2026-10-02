@@ -1,7 +1,7 @@
 ---
 title: "Pentecostal Theology: A Theology of Encounter"
 author: "Keith Warrington"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,25 +13,28 @@ aliases:
 # Pentecostal Theology: A Theology of Encounter
 **Author:** [[Keith Warrington]]
 
-## 1. Cleaned Document Text
-The provided text is an excerpt from a theological work discussing Pentecostal views on the nature of God, the Trinity, and the Son, specifically engaging with Oneness theology. The text analyzes Pentecostal beliefs regarding the personhood of God, the relation between the Father and the Son, and theological critiques of modalism, contrasting them with orthodox Trinitarian definitions and historical biblical scholarship.
+## 1. Verbatim Source Text
+### GOD
+
+Pentecostals, along with other evangelical believers, take for granted the existence of God (Rom. 1.20), on occasion apologetically employing natural theology and cosmological, theological, aesthetic and moral arguments to support their belief. Recognizing that he is creative (Ps. 104.24), transcendent (1 Kgs 8.27), eternal (Isa. 57.15), faithful (Deut. 7.9), wise (Ps. 147.5), truthful (Num. 23.19), patient (Num. 14.18), gracious (Ps. 10.8), righteous (Ps. 145.17), sovereign (1 Tim. 6.15), just (Ps. 19.9), merciful (1 Pet. 1.3), tender (2 Sam. 22.36), love (1 Jn 4.16), and dependable (Jas. 1.17), they also affirm his omnipotence (Jer. 32.17), omnipresence (Jer. 23.23), omniscience (Ps. 139.1-6) and holiness (Isa. 57.15; 1 Pet. 1.15-16). That he is described as being holy is not simply a reference to his sinlessness but rather to his extraordinariness, the word 'holy' (hagios) fundamentally meaning 'set apart'. He is unequalled, incomparable, irreplaceable and unimprovable. Despite his 'otherness', Pentecostals also acknowledge his readiness to transmit some of his characteristics to humanity and believers in particular. At the same time, they believe that he has chosen to reveal himself through the Bible, creation, human nature, including the conscience, as well as through Jesus. Their relationship with God and expectations of his work within the world and their lives are based on a belief that he is vibrant, active and able to wisely set his agenda for his world. Such a God can create the unimaginable, initiate the unexpected, institute unique phenomena, surprise the watcher and resurrect the dead. He makes his own rules, acting in conformity to his nature. Pentecostals accept the inexplicable nature of God and they acknowledge his supremacy in determining possibilities and initiating assumed impossibilities. Thus, it is no hardship for Pentecostals to accept that the one who created the universe also created people for relationship with himself. It is a consequence of his unselfishness and willingness to bless that which he creates so that he causes to come into being is crafted out of his smile and those whom he forms are granted the privilege of feeling his pleasure. That which he causes to come into being is crafted out of his desire to care for his craftsmanship and his creativity is channelled into his love alone. The personal involvement of God in his creation is reflected in the descriptions of how he creates. In picture language, the biblical writers describe him using his fingers (Ps. 8. 3), shaping the mountains and creating the wind (Amos 4.13). His intimacy with his creation is demonstrated in that it reflects him (Pss. 8.1, 19.1-2) and praises him (Ps. 145.10). God does not create in order to receive praise as if he needed it. Rather, that which is created by him is described as spontaneously and naturally expressing its pride at being created in such a perfect way by such a perfect Creator.
+
+### Trinity
+
+As with many other evangelicals, Pentecostals have traditionally identified themselves as Trinitarian and thus (often unknowingly) affirmed the classical creeds, adopting the orthodox beliefs of the Western Church, as defined by the Council of Nicaea. Many Pentecostals, as most other believers, have limited understanding of the complexities of the relationship between the Spirit, the Son and the Father. They are unlikely to explain (or even be aware of) issues relating to the procession of the Spirit. In general, they accept that he proceeds from the Father (Jn 15.26) but also has been sent by Jesus (Jn 16.7). For many, this has inevitably resulted in an assumption that the Spirit is somewhat inferior to Jesus and the Father since he can be sent by them. It is best, however, to acknowledge that any subordinationist language is to be understood as valuable in identifying function, though does not indicate difference in essence. Most Pentecostals practically relate to the individual members of the Godhead as if they were three different persons. While some may attempt to be technically correct in their address to the Godhead in prayer, most will pray to the one they are most familiar with, either Jesus or the Father, or refer to God a term that circumvents the problem as it encompasses them all. Theologically, they are Trinitarian though practically, this is less clearly defined. They have often resorted to metaphors to explain how the individual members relate to one another, though without a great deal of success, such attempts resulting in inadequate descriptions of the relationships within the Godhead. They have wrestled with the concept of hierarchy within the Godhead and have generally identified the Father as being the first or the primary member. Basically, the Father, Son and Spirit are each identified as equally God though none of them are completely God without the others, each functioning separately, though in unity and harmony with each other, and also being worthy of worship. Although they are independent within the Godhead, they are also inter-dependent, sharing equal honour. Conn omitting the notion of a Tri-unity, three personalities who constitute one identity of God. Pentecostals do not arrive in three gods (tritheism) though they recognize the difficulty of adequately describing the relationships within the Godhead. The concept of the trinity is not an easy one to clear and the NT does not provide a clear and explicit Trinitarian formula for the Godhead. Although Paul used a clearly Trinitarian, it is not clear that he wished to present a final statement concerning the intricate interrelationship within the Godhead. He does little to help the monotheistic Jewish Christian to transition from a belief in one God to a position in which Jesus, the Spirit and the Father are each viewed as divine. Fee concluding that he is 'too busy being a missionary pastor to have the luxury of purely reflective theology'. To this may be added the fact that the provision of a clear and systematic formulation of the relationships within the Godhead does not appear to be a priority for Paul. Not only is it beyond human comprehension but it may also be deduced that such a task would be to remove the focus from that which is central to Pauline theology—experience with God, rather than a systematic and comprehensive exploration of God (though there are aspects of the latter in his letters). Fee, concludes that Paul is drawn to a wider understanding about God precisely because of his 'experience of the Spirit, as the one who enables believers to confess the risen Christ as exalted Lord'. Similarly, Kärkkäinen concludes, 'the most important thing for Pentecostals is not the doctrine per se, but the experience of the Trinity'.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Pentecostal Theology of God
-Pentecostals emphasize a personal, relational, and active God, often rejecting abstract definitions in favor of encountering God's power and presence through the Holy Spirit.
+### Theme: The Nature of God
+Pentecostals view God as vibrant, active, and personal. He is described as having both transcendent attributes (eternal, omnipotent) and an intimate, creative involvement with his creation, which is crafted out of his desire to care.
 
-### Theme: Critique of Oneness Theology
-The text systematically critiques the 'Oneness' movement (or modalism), arguing that the New Testament consistently reveals distinct personhood between the Father and the Son.
+### Theme: Trinitarianism and Experience
+While Pentecostals identify as Trinitarian, their theology is driven more by experience than systematic formulation. They often struggle with the complexities of the Trinity, such as the procession of the Spirit, and tend to relate to the members of the Godhead in a practical, functional way.
 
-### Theme: Personhood and Relationship
-A core argument is that the 'I-You' relational language used in Scripture, especially in the Gospels regarding the Father and the Son, necessitates a distinction between divine persons that modalism cannot account for.
+## 4. Key Verbatim Assertions & Quotes
+> "Recognizing that he is creative (Ps. 104.24), transcendent (1 Kgs 8.27), eternal (Isa. 57.15), faithful (Deut. 7.9), wise (Ps. 147.5), truthful (Num. 23.19), patient (Num. 14.18), gracious (Ps. 10.8), righteous (Ps. 145.17), sovereign (1 Tim. 6.15), just (Ps. 19.9), merciful (1 Pet. 1.3), tender (2 Sam. 22.36), love (1 Jn 4.16), and dependable (Jas. 1.17), they also affirm his omnipotence (Jer. 32.17), omnipresence (Jer. 23.23), omniscience (Ps. 139.1-6) and holiness (Isa. 57.15; 1 Pet. 1.15-16)."
+*Source: Page 3, Introduction*
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "The Father and the Son stand in an "I"-"You" relationship of each other; the Son refers to the Father as "You" and Himself as "I.""
-*Context Source: Page 13, section '3. Subject-Object Distinctions'*
+> "The personal involvement of God in his creation is reflected in the descriptions of how he creates. In picture language, the biblical writers describe him using his fingers (Ps. 8. 3), shaping the mountains and creating the wind (Amos 4.13)."
+*Source: Page 3, Introduction*
 
-> "The majority of biblical scholarship throughout church history (and subsequently) has rejected modalism"
-*Context Source: Page 13, section '5. The majority of biblical scholarship...'*
-
-> "Pentecostals... take for granted the existence of God, an occasion theological, aesthetic and moral arguments to support their belief."
-*Context Source: Page 3, Introduction*
+> "Kärkkäinen concludes, 'the most important thing for Pentecostals is not the doctrine per se, but the experience of the Trinity'."
+*Source: Page 4, Trinity*

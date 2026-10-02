@@ -1,37 +1,33 @@
 ---
-title: "The Whole Gospel: Oneness Pentecostal Perspectives on Christian Initiation"
+title: "THE WHOLE GOSPEL: Oneness Pentecostal Perspectives on Christian Initiation"
 author: "David K. Bernard"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
   - author/david_k_bernard
 aliases:
-  - "The Whole Gospel: Oneness Pentecostal Perspectives on Christian Initiation"
+  - "THE WHOLE GOSPEL: Oneness Pentecostal Perspectives on Christian Initiation"
 ---
 
-# The Whole Gospel: Oneness Pentecostal Perspectives on Christian Initiation
+# THE WHOLE GOSPEL: Oneness Pentecostal Perspectives on Christian Initiation
 **Author:** [[David K. Bernard]]
 
-## 1. Cleaned Document Text
-The document, presented at the 30th Annual Meeting of the Society for Pentecostal Studies, examines the Oneness Pentecostal doctrine regarding Christian initiation. It argues that the 'full gospel' is centered on Acts 2:38, which calls for repentance, baptism in the name of Jesus Christ, and receiving the Holy Spirit. The text explores the historical development of these views within the movement, the challenges faced by pioneers like Charles F. Parham and William Durham, and comparisons with other theological perspectives. The author stresses the necessity of these three elements for full salvation while contextualizing how various leaders and organizations within Pentecostalism have interpreted these requirements over time.
+## 1. Verbatim Source Text
+### Introduction
+
+The gospel of Jesus Christ is His death, burial, and resurrection for our salvation. On the Day of Pentecost, the birthday of the New Testament church, the apostle Peter preached the first gospel sermon to the crowds who had gathered to observe the Spirit-filled believers as they spoke in tongues and worshiped God. He proclaimed the death, burial, and resurrection of Jesus Christ. Convicted of their sins by his simple yet powerful message, the audience cried out, "Men and brethren, what shall we do?" (Acts 2:37). Peter, with the support of the other apostles, gave a precise, complete, and unequivocal answer: "Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost" (Acts 2:38). As this verse shows, a person responds to the gospel, obeys the gospel, or applies the gospel to his life, by repentance from sin (death to sin), water baptism by immersion in the name of Jesus Christ (burial with Christ), and receiving the Holy Spirit (new life in Christ). This response is the biblical expression of saving faith in Jesus Christ. In theological terms, this threefold experience brings regeneration, justification, and initial sanctification. Baptism of water and Spirit is the birth of water and Spirit, the born-again experience of which Jesus spoke in John 3:3-5. The three steps are not human works that earn salvation but divine works of salvation in human lives. God calls people by His grace and leads them to Himself. As they respond to His call by obedient faith, God changes their mind and direction at repentance, washes away their sins at water baptism, and fills them with His regenerating, sanctifying, and empowering Holy Spirit.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Acts 2:38 Paradigm
-The central theological pillar of Oneness Pentecostalism, positing that salvation consists of three distinct steps: repentance, water baptism in the name of Jesus, and the baptism of the Holy Spirit.
+### Theme: The Threefold Experience of Salvation
+The author argues that the biblical response to the gospel, as established in Acts 2:38, consists of three distinct steps: repentance (death to sin), water baptism in the name of Jesus Christ (burial with Christ), and receiving the Holy Spirit (new life in Christ). These are presented not as human works, but as divine works of salvation.
 
-### Theme: Historical Internal Debates
-Exploration of early Pentecostal disputes concerning the 'finished work' doctrine, trinitarian formulas versus 'Jesus Name' baptism, and the necessity of speaking in tongues as an initial sign.
+### Theme: Acts 2:38 as the Paradigm
+The document asserts that Acts 2:38 serves as the primary paradigm for New Testament salvation. The author highlights that this verse provides a precise and unequivocal answer to the question of how one responds to the gospel.
 
-### Theme: Initiation and Salvation
-Analysis of the transition from Old Testament grace to New Testament requirements, and how the 'whole gospel' ensures entrance into the body of the Church and protection during the Tribulation.
+## 4. Key Verbatim Assertions & Quotes
+> "Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost"
+*Source: Acts 2:38, cited in the Introduction*
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "Repent, and be baptized every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost."
-*Context Source: Page 2, quoting Acts 2:38*
-
-> "The baptism of the Holy Spirit is part of New Testament salvation."
-*Context Source: Page 3*
-
-> "The basic and fundamental doctrine of this organization shall be the Bible standard of full salvation, which is repentance, baptism in water by immersion in the name of the Lord Jesus Christ for the remission of sins, and the baptism of the Holy Ghost with the initial sign of speaking with other tongues as the Spirit gives utterance."
-*Context Source: Page 9*
+> "The gospel of Jesus Christ is His death, burial, and resurrection for our salvation."
+*Source: Introduction, page 2*

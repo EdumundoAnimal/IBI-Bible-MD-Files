@@ -1,7 +1,7 @@
 ---
 title: "Great Leaders of the Christian Church"
 author: "John D. Woodbridge"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,34 +13,25 @@ aliases:
 # Great Leaders of the Christian Church
 **Author:** [[John D. Woodbridge]]
 
-## 1. Cleaned Document Text
-The document provides a historical overview of key figures in the development of the Christian Church, specifically focusing on Augustine of Hippo and Leo the Great. It explores Augustine's theological contributions, his struggles with Manichaeism and Pelagianism, and his work, 'The City of God'. Additionally, it details Leo the Great's role in the papacy and his defense of church orthodoxy.
+## 1. Verbatim Source Text
+### Augustine of Hippo: Philosopher and Theologian
 
-## 2. Quantitative Metric Tables
-### Table 1
-```csv
-Date,Event,354-430,Augustine,373,Birth in North Africa,372,Takes a mistress,383,Augustine's son Adeodatus is born,384,Crosses the sea to Milan,386,Assumes the post of public orator at Milan,387,Baptized in Milan,388,Returns to North Africa,391,Ordained as a priest,395,Consecrated as bishop,400,Completes his Confessions,410,Rome is sacked,413,Begins writing The City of God,430,Dies during the Vandal siege of Hippo Regius
-```
+Augustine's life is an important key to understanding his thought. He was born in A.D. 354 in what is now Algeria. Centuries before, Augustine's homeland had been a part of the great Carthaginian Empire that almost conquered Rome. After Carthage was itself defeated by Rome, it became romanized in culture and language. Augustine's father, Patricius, was not a Christian and had relatively little influence on him. But his mother, Monica, was a devout Christian and played an important role in his life, even during the years when he rejected her Christianity. From the time of his first visit to the great city of Carthage, when he was about sixteen, Augustine seldom lost an opportunity to pursue one sin or another; or so he tells us in his Confessions. He took a mistress (the polite term is concubine) who was seventeen or eighteen and fathered an illegitimate son before he was twenty. About that same time, he began a relationship with a religious and philosophical system known as Manichaeism, which claimed that two principles, Light and Dark, God and Matter, are eternal and Manichaeism appealed to Augustine intellectually because it appeared to offer a superior answer to the problem of evil than he could find in his mother's Christianity. Augustine was also drawn to Manichaeism because it made fewer moral demands than Christianity. He could live as a good Manichaean and continue to live as he pleased. During his late twenties, Augustine began to have doubts about Manichaeism by the inability of Manichaean leaders to answer his questions. In 383 Augustine crossed the Mediterranean to Rome with his mistress and son where he planned to teach rhetoric. But because his students were often delinquent in paying his fees, he left Rome for Milan in 384 for the more secure position of public orator. There Augustine became friendly with Ambrose, the bishop of Milan, who helped him to see that many of his objections to Christianity were based on misconceptions of the faith.
+
+### Augustine the skeptic
+
+By that time Augustine had rejected Manichaeism for a brief fling as a skeptic. His experiment with skepticism was followed by another brief period in which he studied the writings of certain "Platonists," including perhaps some books by the great Neo-Platonist Plotinus. Augustine's study of that late version of Platonism helped remove many of the remaining intellectual obstacles to his becoming a Christian. For one thing the Platonists taught him how evil could exist in a world that depended for its existence on one good God. One by one, Augustine found that his assorted intellectual, moral, and spiritual objections to Christianity had been stripped away. In 386, in a villa outside of Rome, he underwent one of the more dramatic conversions in the history of the Christian church (recorded in Confessions, book 8). After hearing a voice say, "Take up and read," Augustine re-counts he picked the volume of the Apostle.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Theological Development
-Augustine's work regarding the nature of sin, grace, and free will, largely in opposition to Pelagianism.
+### Theme: The Problem of Evil
+Augustine initially turned to Manichaeism because it offered a dualistic explanation for evil (Light vs. Dark) that he found intellectually superior to his mother's Christianity. Later, his study of Neo-Platonism helped him reconcile the existence of evil with a single, good God.
 
-### Theme: Ecclesiastical Authority
-The evolution of the papacy and the role of the Bishop of Rome as established through figures like Leo the Great.
+### Theme: Conversion and Grace
+Augustine's conversion is presented as a process of stripping away intellectual and moral obstacles, culminating in a dramatic experience in a villa outside Rome, which he later documented in his Confessions to glorify God.
 
-### Theme: Historical Context of Christianity
-The intersection of early church leadership with the collapse of the Roman Empire and the influence of classical thought.
+## 4. Key Verbatim Assertions & Quotes
+> "Augustine's study of that late version of Platonism helped remove many of the remaining intellectual obstacles to his becoming a Christian. For one thing the Platonists taught him how evil could exist in a world that depended for its existence on one good God."
+*Source: Augustine the skeptic, page 4*
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "Augustine's life is an important key to understanding his thought."
-*Context Source: Page 4*
-
-> "The Manichaean 'solution' to the problem of evil prompted many, including the young Augustine, to regard their views as superior to Christianity."
-*Context Source: Page 5*
-
-> "Pelagianism was an aid to divine grace, a gift of God. It taught that human beings can, in effect, either save themselves or at least cooperate with God in affecting their salvation."
-*Context Source: Page 6*
-
-> "Leo sought a theological foundation for this precedence and found it in the words of our Lord to Peter, recorded in Matthew 16:18, 'You are Peter, and on this rock I will build my church.'"
-*Context Source: Page 13*
+> "After hearing a voice say, 'Take up and read,' Augustine re-counts he picked the volume of the Apostle."
+*Source: Augustine the skeptic, page 4*

@@ -1,7 +1,7 @@
 ---
 title: "Hebrews 6 Lecture Notes"
 author: "Unknown"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,31 +13,33 @@ aliases:
 # Hebrews 6 Lecture Notes
 **Author:** [[Unknown]]
 
-## 1. Cleaned Document Text
-Lecture notes on Hebrews 6. Mentions 'Sluggish' in relation to Hebrews 5:11 and 6:12. Notes on Divine Oath: God spoke a guarantee as a clear promise to heirs. Includes notes on Hope, including the Anchor as an ancient symbol for Christ and mentions of Clement of Alexandria regarding symbols like the dove, fish, and anchor. References Dr. Armand Nicholi and the relationship between hope, faith, and patience. Mentions Luke 1:19 and priestly references.
+## 1. Verbatim Source Text
+### Lecture Notes
 
-## 2. Quantitative Metric Tables
-### Table 1
-```csv
-Symbol,Origin/Reference,Context,Dove,Clement of Alexandria,Symbol for Christ,Fish,Clement of Alexandria,Symbol for Christ,Ships,Clement of Alexandria,Symbol for Christ,Anchor,Clement of Alexandria,Symbol for Christ
-```
+Meb 6 Hebr. 19/11/09. Sluggish - Ch. 5.11 -> G-3541. (nothros) Ch. 6.12. DeVine Oath - God spoke guarantee - clear to Airs of Promise. Hope note. Anchor - Ancient symbol for christ. "Clement of alexandra. seals - (dove, fish, ships Anchor). (Need of Hope!) Dr. Armand Nicholi. Gruthree- 250! Hope- Faith Patience. pick up at chapter 5. ref Priest:- Note Luke 1:19.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Divine Promise
-The theological assurance of God's oath as a guarantee for the heirs of the promise.
+### Theme: Spiritual Sluggishness
+The notes reference Hebrews 5:11 and 6:12, specifically citing the Greek word 'nothros' (G-3541) to define the concept of being sluggish or dull in spiritual matters.
+
+### Theme: Divine Assurance
+The document highlights the 'DeVine Oath' as a guarantee from God intended for the 'Airs of Promise'.
 
 ### Theme: Christian Symbolism
-Historical Christian iconography, specifically the anchor, used to represent Christ as a stable hope.
+The anchor is identified as an ancient symbol for Christ, with a reference to Clement of Alexandria noting other early Christian seals such as the dove, fish, and ships.
 
-### Theme: Spiritual Growth
-The triad of hope, faith, and patience as necessary components for spiritual maturity, moving beyond a 'sluggish' state.
+### Theme: The Nature of Hope
+Hope is linked to the triad of 'Faith' and 'Patience', with a reference to Dr. Armand Nicholi regarding the human need for hope.
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "Sluggish - Ch. 5:11 - 6:12"
-*Context Source: Lecture notes, page 1*
+## 4. Key Verbatim Assertions & Quotes
+> "Sluggish - Ch. 5.11 -> G-3541. (nothros) Ch. 6.12."
+*Source: Lecture notes, page 1*
 
-> "Anchor - Ancient symbol for christ."
-*Context Source: Lecture notes, page 1*
+> "DeVine Oath - God spoke guarantee - clear to Airs of Promise."
+*Source: Lecture notes, page 1*
+
+> "Anchor - Ancient symbol for christ. "Clement of alexandra. seals - (dove, fish, ships Anchor)"
+*Source: Lecture notes, page 1*
 
 > "Hope- Faith Patience."
-*Context Source: Lecture notes, page 1*
+*Source: Lecture notes, page 1*

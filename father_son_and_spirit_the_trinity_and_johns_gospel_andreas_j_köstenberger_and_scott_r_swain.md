@@ -1,7 +1,7 @@
 ---
 title: "Father, Son and Spirit: The Trinity and John's Gospel"
 author: "Andreas J. Köstenberger and Scott R. Swain"
-processed_date: 2026-08-07
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,52 +13,31 @@ aliases:
 # Father, Son and Spirit: The Trinity and John's Gospel
 **Author:** [[Andreas J. Köstenberger and Scott R. Swain]]
 
-## 1. Cleaned Document Text
-The document provides a theological conclusion regarding the concept of eternal life through the triune God in John's Gospel. It highlights the relational order of the Trinity and the missions of the Son and the Spirit. It emphasizes that eternal life is a participation in the relationship between the Father, Son, and Spirit. The text further explores the theological implications of Jesus' incarnation, resurrection, and ascension, underscoring that his revelation is the climax of God's self-disclosure. It concludes by noting that believers participate in this divine life through the Spirit, which leads them to the Father.
+## 1. Verbatim Source Text
+### Chapter Three: The Father in John's Gospel
 
-## 2. Quantitative Metric Tables
-### Table 1
-```csv
-Number,Title,Author
-1,Possessed by God,David Peterson
-2,God's Unfaithful Wife,Raymond C. Ortlund Jr.
-3,Jesus and the Logic of History,Paul W. Barnett
-4,Hear my Son,Daniel J. Estes
-5,Original Sin,Henri Blocher
-6,Now Choose Life,J. Gary Millar
-7,Neither Poverty nor Riches,Craig L. Blomberg
-8,Slave of Christ,Murray J. Harris
-9,Christ our Righteousness,Mark A. Seifrid
-10,Five Festal Garments,Barry G. Webb
-11,Salvation to the Ends of the Earth,Andreas J. Köstenberger and Peter T. O'Brien
-12,Now my Eyes Have Seen you,Robert S. Fyall
-13,Thanksgiving,David W. Pao
-14,From Every People and Nation,J. Daniel Hays
-15,Dominion and Dynasty,Stephen G. Dempster
-16,Hearing God's Words,Peter Adam
-17,The Temple and the Church's Mission,G. K. Beale
-18,The Cross from a Distance,Peter G. Bolt
-19,Contagious Holiness,Craig L. Blomberg
-20,Shepherds after my own Heart,Timothy S. Laniak
-21,A Clear and Present Word,Mark D. Thompson
-22,Adopted into God's Family,Trevor J. Burke
-23,Sealed with an Oath,Paul R. Williamson
-24,Father Son and Spirit,Andreas J. Köstenberger and Scott R. Swain
-```
+Introduction. In the previous chapter, we saw that the Johannine prologue starts with the Word-God relationship in the opening verse of the Gospel and inexorably moves to the explanation of this relationship via the incarnation (The Word-made-flesh, 1:14) as a relationship between Son and Father. What started out as less explicitly defined, and certainly less overtly intimate, has through the incarnation expressed itself in the closest way humanly imaginable, in the form of an only Son dearly loved by his Father, what is more, a son sent into the world by this Father to make him known (3:16) and to convey his love to a world he had made (1:3, 11), yet a world steeped in moral darkness (1:11; 3:19-21). While ubiquitous in John's Gospel, the notion of God as Father is not a common one in the Hebrew Scriptures. The notion of God as Father is not a common one in the Hebrew Scriptures. The situation is very different in John's Gospel. There are 136 instances of pater, of which 120 have God as a referent. Overall, God is the great Given, Known, Accepted and constant Assumed in the controversy concerning Jesus, whose support is sought and invoked by both sides in the escalating debate. Jesus affirms that he has a unique relationship with God as the Son of God as firmly as this is denied by his opponents. Various Christological titles are applied to Jesus by his followers, but most striking is the application of the term theos itself to Jesus in the opening and closing verse of the prologue and in the final pericope of the Gospel proper (20:28). This literary inclusio, whereby Jesus is affirmed to be God at the beginning and at the end of the Gospel (and nowhere else in those terms) is startling in that it takes a designation, theos, universally applied to the God of the Hebrew Scriptures in the entire body of the Gospel and changes the referent to Jesus. This is done without any sustained attempt at adjudicating the issue of how God the Hebrew Scriptures and Jesus can both be called theos. The major exception, of course, is found at the inception of the Gospel, where the Word himself theos and theos are said to have existed eternally in close proximity to one another. Yet at the same time, even the risen Jesus still refers to the God of the Hebrew Scriptures as 'my God' in 20:17, and earlier in the Gospel affirms that the Father is greater than him (14:28; cf. 10:30). This hints at a resolution of an apparent ditheism: while there is more than one referent of theos in this Gospel, these two persons sustain a nuanced and complementary relationship, which as will be explored more fully in the following chapters of this volume, is most frequently described in the Johannine narrative as that of 'Father' and 'Son'.
+
+### The Father in John's Gospel (Continued)
+
+In 5:36, Jesus cites his works, given to him by the Father, as evidence that the Father sent him (see 5:19-20 above). Yet it is not merely the works, but the Father himself who directly bears witness to Jesus (5:37; the clearest instance of this in John's Gospel is the heavenly voice in 12:28). In 5:41, Jesus says plainly that he has come in his Father's name. Nevertheless, people reject him (another instance of sallah terminology, see 5:23 above). Yet not Jesus, but Moses, will accuse them before the Father. For he wrote about Jesus ahead of time (5:45-46). Eleven references to God as Father are found in 6:27-65 in the aftermath of Jesus' feeding of the multitudes. The entire interchange is pervaded by Jesus repeated references to theos. In 6:27, pater occurs in apposition to theos. In 6:32, Jesus asserts that it was (ultimately) not Moses but the Father who provided wilderness Israel with the manna. Most pronounced in the present context are references to the Father as 'giving' people to Jesus or as 'drawing' people to him. All those whom the Father has given to Jesus will come to him (6:37). It is the Father's will that all those who believe in the Son have eternal life (6:40). No one can come to Jesus unless the Father draws him (6:44-45, reiterated in 6:65). In his ministry, the Son is totally dependent on the Father. In the remaining references to pater in the present discourse, Jesus claims that the alone has seen the Father (cf. 1:18) and that the 'living Father' sent him (6:57). The pericope 8:12-58 contains nineteen references to God as Father. In the aftermath of Jesus' appearance at the feast of Tabernacles in Jerusalem, Jesus once again affirms his close association with the Father who him (8:18; cf. 8:37). When Jesus is challenged by those who ask, in effect, 'Where is your father?' (cf. 6:42), he responds that his opponents do not know the Father or else they would acknowledge him (8:19). The important point is that the Father is known through Jesus and him alone; Jesus is the sole point of access to God (cf. 10:7-9; 14:6). The ensuing paternity dispute is anticipated in 8:27, another instance of Johannine misunderstanding (cf. 6:42). In 8:28 and 38, Jesus maintains that the Father is the origin of his teaching. In the latter passage, Jesus hints at his opponents' real (as opposed to alleged) father, that is, the devil (continued in 8:41). The Jews assert that, ethnically speaking, their father is Abraham (8:39) and, spiritually speaking, one and only father is God (8:41). Jesus acknowledges that Abraham is the Jews' father ethnically, but challenges them to do the works of Abraham in keeping with their claim. Their hatred of Jesus proves that their true spiritual father is none other than the devil (8:44). When in the heat of debate Jesus is charged with demon possession, he reasserts that he knows his Father and that his opponents dishonour him (Jesus; 8:49). Jesus reiterates that does not seek to glorify himself but that it is the Father (whom the Jews claim as their God) who is glorifying him (8:54). The pericope ends on a note of increased hostility and conflict. After a hiatus in chapter 9, there are 13 references to God as Father in the aftermath of Jesus' discourse in 10:15-38. In 10:15, Jesus says that he knows his own and they know him, just as the Father and he know each other. The trusting and caring relationship between a shepherd and his sheep is here used as an illustration of Jesus' relationship with his father. The Father loves Jesus because he is willing to sacrifice his life for those in need of salvation (10:17-18). In 10:25, Jesus once again points to the witness of his works done in the name of the Father (an inclusio with 5:36). In keeping with previous assertions (cf. esp. 6:37, 44), Jesus affirms that no one can snatch those the Father has given him out of his hand; that the Father is greater than all (10:29). Jesus proceeds to affirm his unity of purpose and mission with the Father by saying, 'I and the Father are one' (hen, neuter singular; 10:30; cf. 5:17-18). The Jews promptly pick up stones to stone Jesus. Jesus' present claim forms the climax of the chapter much as 8:58 does for chapter 8. The statement echoes the basic confession of Judaism, 'Hear, O Israel: The LORD, our GOD, the LORD is one' (Deut. 6:4; the term 'one' is neuter, not masculine). For Jesus to be one with the Father distinct from him amounts to a claim to deity (cf. 1:1-2). To be sure, the emphasis here is on the unity of their works, yet with an ontological (not just functional) unity between Jesus and the identity, the Father seems presupposed. While not affirming complete identity, clearly there is more in view than a mere oneness of will between Jesus and the Father. Consequently, Jesus' assertion of oneness with the Father challenges already narrow Jewish notions of monotheism, even though there are hints in the OT of a plurality within the Godhead, some of which Jesus was careful to expose (e.g. Matt. 22:41-46 par.). Jesus' unity with the Father later constitutes the basis on which Jesus prays that his followers be unified (17:11, 22; note again the neuter hen). In the following interchange, Jesus refers to his 'many good works from the Father' (NASB; better than NIV's 'many great miracles') and asks for which of these his opponents want to stone him (10:32). Their answer is that Jesus' offence is not good works but blasphemy. Jesus does not retract his claim but rather asserts that the Father set him, the Son of God, apart and sent him into the world (10:36). Again, Jesus offers 'the works of [his] Father' (NASB) as evidence that the Father is in him and he in the Father (10:37-38), and again, the Jews attempt to stone Jesus, but he eludes their grasp. To sum up, chapters 5-10 characterize God as the Father of Jesus, who initiated and authorized Jesus' mission and who bears witness to him. The festival cycle in John's Gospel ends as it began: with Jesus' unequivocal alignment of himself with God's purposes and the Jews' fierce opposition to him.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Trinitarian Relationality
-The argument that the unity of the Godhead exists in a relational order where the Spirit guides believers into the Father's love through the Son.
+### Theme: The Father-Son Relationship
+The text argues that the Johannine narrative centers on the intimate, complementary relationship between the Father and the Son, where the Father initiates and authorizes the Son's mission, and the Son is totally dependent on the Father.
 
-### Theme: Salvation History
-The view that Jesus' life, death, and resurrection represent the climactic fulfillment of God's OT promises and the foundational covenant.
+### Theme: Ontological Unity
+The authors suggest that Jesus' claim 'I and the Father are one' (10:30) implies an ontological unity rather than merely a functional one, challenging Jewish monotheism while maintaining a distinction between the persons.
 
-### Theme: Divine Self-Disclosure
-The belief that Jesus is the final and perfect revelation of God the Father, enabling human participation in eternal life.
+### Theme: The Witness of Works
+Jesus repeatedly cites his 'works' as evidence of his divine mission and his unity with the Father, serving as a primary witness to his identity as the Son of God.
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "John, we should add, sees no tension between the unity of one glorious Godhead, shared equally and identically by three persons, and a relational order, or taxis, among the persons."
-*Context Source: Page 186*
+## 4. Key Verbatim Assertions & Quotes
+> "I and the Father are one."
+*Source: John 10:30, discussed in Chapter Three*
 
-> "Eternal life consists in coming to know Jesus' Father as our Father. On the basis of the Father's eternal grant of a people to the Son (6:37; 17:6); through the Son's incarnation, crucifixion, resurrection and ascension, on their behalf; and through the Father's and the Son's joint sending of the Spirit to indwell believers subsequent to Jesus' exaltation (14:23), the foundational covenant promise 'I will be your God' (e.g. Lev. 26.12) has been fulfilled in a trinitarian way."
-*Context Source: Page 188*
+> "The Father loves Jesus because he is willing to sacrifice his life for those in need of salvation."
+*Source: John 10:17-18, discussed in Chapter Three*
+
+> "Jesus affirms that no one can snatch those the Father has given him out of his hand; that the Father is greater than all."
+*Source: John 10:29, discussed in Chapter Three*

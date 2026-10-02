@@ -1,7 +1,7 @@
 ---
 title: "Beginning from Jerusalem: Christianity in the Making, Vol. 2"
 author: "James D. G. Dunn"
-processed_date: 2026-08-07
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,99 +13,30 @@ aliases:
 # Beginning from Jerusalem: Christianity in the Making, Vol. 2
 **Author:** [[James D. G. Dunn]]
 
-## 1. Cleaned Document Text
-The document provides an analysis of the origins of early Christianity, framing the movement as a messianic sect within Second Temple Judaism. It discusses the theological and social challenges faced by the early church, including the external pressures of persecution and the internal struggle to define its identity. A detailed timeline traces key events from 30 AD to 324 AD. The text argues that the early followers of Jesus maintained a continuity with their Jewish roots while forming a unique community characterized by its messianic identity, 'enthusiastic' or 'spiritual' nature, and belief in the imminent fulfillment of God's promises. It further explores the emergence of the Hellenists and the expansion of the movement beyond Jerusalem.
+## 1. Verbatim Source Text
+### 23.6. In Sum—a Messianic Sect
 
-## 2. Quantitative Metric Tables
-### Table 1
-```csv
-Date,Major Developments
-ca. 30,Crucifixion and resurrection of Jesus
-mid-30s,Peter, James, John as main leaders in Jerusalem
-mid-40s,Martyrdom of Stephen
-ca. 49,Conversion of Paul
-early 50s (?),Merant ministry of the Twelve under way
-60-70s,Mission by relatives of Jesus under way in Galilee
-62,James emerges as the primary leader in Jerusalem
-64,Martyrdom of James brother of Jesus
-ca. 65-68,Fire of Rome and persecution of Christians by Nero
-late 60s(?),Martyrdom of Peter at Rome
-late 60s-early 80s,Martyrdom of Paul at Rome
-```
-
-### Table 2
-```csv
-Date,Major Developments
-ca. 90,Jewish war with Rome in Palestine
-ca. 90,Fall of Jerusalem and destruction of temple
-late 80s(?),Acts of the Apostles
-late 80s(?),Nazarenes cursed in Jewish synagogue prayers
-ca. 100-180,Gospel according to John
-ca. 110,Emperor Domitian demands worship as a god
-ca. 112,Persecution of Christians
-ca. 140,Book of Revelation
-ca. 140-150s,1 Clement
-ca. 150,2 Peter and Johannine Epistles
-ca. 151,Epistle of Barnabas
-late 150s,Didache
-ca. 160,Growth of Gnosticism
-161-180,Martyrdom of Ignatius of Antioch
-late 160s,Correspondence of Pliny and Trajan
-165,Bar Kochva revolt in Palestine
-177,Marcion active (excommunicated in 144)
-ca. 178,Shepherd of Hermas (?)
-180,Disputes begin about dating of Easter
-180s-190s,First Apology of Justin
-ca. 190,Justins Dialogue with Trypho the Jew
-190s-ca. 215,Tatians Diatessaron
-199-220,Persecutions under Marcus Aurelius
-202-203,Martyrdom of Justin, Second Apology of Justin, Massacre of Christians at Lyons, Celsius attack on Christianity in the True Discourse, Theophilus Apology to Autolycus, Death of Christians at Scillium near Carthage, Pantaenus active as Christian teacher in Alexandria, Ministry and writings of Irenaeus of Lyons, Muratorian fragment, Tertullians main period of writing in Carthage, Teaching and writing of Clement of Alexandria, Quartodeciman dispute and Monarchian controversies, Persecutions under Septimius Severus, Martyrdom of Perpetua and Felicitas in Carthage
-```
-
-### Table 3
-```csv
-Date,Major Developments
-ca. 208,Tertullian becomes a convert to Montanism
-211-217,Persecutions under Caracalla
-ca. 213-early 230s,Hippolytus active in Rome
-ca. 215-early 250s,Apostolic Tradition
-235-238,Teaching and writing of Origen in Alexandria and Caesarea
-240s-260s,Persecutions under Maximin
-248,Minucius Felix Octavius
-late 230s,Ministry of Gregory the Wonder-Worker in Cappadocia
-249-251,Influential work of Platonist scholar Plotinus, Cyprian becomes bishop of Carthage, First empire-wide persecutions under Decius, Thousands of Christians lapse, complying with orders to sacrifice to the pagan gods, Intensifying disputes between Rome and Carthage over the treatment of Christians, Writings of Cyprian
-251,Novatian and his followers separate from other Christians in Rome
-257-260,Persecutions under Valerian
-258,Death of Origen, Martyrdom of Cyprian
-ca. 254,Paul of Samosata deposed as bishop of Antioch for allegedly teaching Monarchian views of Jesus, Intellectual attacks on Christianity by Plotinus disciple Porphyry
-270s-280s,Diocletian becomes emperor
-284,The tetrarchy of Diocletian and Maximilian, Galerius and Constantius formed
-293,The Great Persecution
-303-304,Arnobius Against the Pagans, Lactantius work on the Divine Institutes
-305,Diocletian and Maximilian abdicate
-306-312,Easing of persecution in west under Constantine and Severus, Further oppression in east under Galerius, Galerius issues edict of tolerance
-311,After Galerius death, continued persecution under Maximin, especially in Egypt
-312,Constantine defeats Maxentius at Milvian Bridge
-313,Edict of Milan issued by Constantine and Licinius; universal tolerance
-324,Constantine becomes sole emperor
-```
+Most studies of Christianity's beginnings give only a few pages to the earliest Jerusalem community.332 There is so little material available, and Luke's account in Acts 1-5 can easily be discounted as an idealization. In some contrast, however, it is my belief that a fairly substantial outline can be extracted and constructed, not only (1) by setting the scene within the larger history of the period, but also (2) by drawing on the information, including the many inferences and allusions, provided by our earliest Christian witness, Paul, (3) by fairly obvious deductions about the way the Jesus tradition must have been used from earliest days; and (4) by taking seriously the impression given by Acts 1-5 either as reflective of the information Luke had gleaned about the period or as his own well-informed attempt at verisimilitude in the sketch he provided. Of course, much of the data are uncontrollable so far as any accuracy or precision of dating is concerned. But in some cases we have been able to highlight elements which were clearly established either from the beginning (Jesus as raised from the dead and taken up to heaven, Jesus as Messiah, baptism in his name, Jesus' parousia), or which do not seem to have been taken up subsequently (Son of Man christology, prophet christology), or which were developed in different ways in subsequent years (attitude to the Temple, the significance of Jesus' death). And in others it is an obvious deduction that the patterns and trends must have become established more or less from the beginning (interpretation of Scripture in the light of what had happened, formation and use of the Jesus tradition, patterns of worship and witness), even if we cannot be sure what particular elements were present from the beginning. The resulting picture is not insubstantial. To sum up, we could ask what is the most appropriate shorthand description of the new movement generated by Jesus' mission, death and resurrection? A 'messianic sect' is the most obvious candidate. It was a sect in the sense used by Luke and Josephus (hairesis),333 like the Pharisees and Sadducees it functioned within the parent body of Second Temple Judaism, within which Jesus had also functioned. It was a 'sect' in the sense that it began as a sect within first-century Judaism, in disagreement with other factions, but not in denial of their status as also part of Judaism—rather as opposing political parties in Britain today recognize other parties as legitimate, but as variant expressions of commitment to the same democratic ideal of British society. Unlike Qumran it did not deny opponents any status as part of the Israel of God; it was not a 'sect' in that sense, a subdivision of the church of Judaism which disowned the parent body. It occasions no historical strain when Luke depicts the charge against Peter and John in terms of disagreement regarding the resurrection (4.2), as later when Luke has Paul supporting the support of his erstwhile Pharisaic colleagues on the same dispute (23.6-9). It was not the existence of the new movement which was initially questioned by the Temple authorities, but their beliefs. It was a messianic sect in that their most distinguishing feature was their beliefs regarding Jesus—that as Messiah, God had raised him from the dead, and that they identified themselves by his name, by calling upon his name and acting in the authority of his name. Here again the issue was not the existence of the new movement, not even their affiliation to this Jesus, but their freedom and boldness to proclaim him as risen from the dead and as calling others to submit to his lordship. Other terms are almost as equally appropriate—particularly 'eschatological', 'enthusiastic' and/or 'spiritual'. We simply will fail to appreciate the character of earlier Christianity if we do not give real content to the term 'eschatological' (or an alternative, should one prove more suitable).334 The continuing emphasis on the kingdom of God and its restoration, the continuing significance of 'the twelve', the convictions that with Jesus God's Messiah had already come and that in what had happened to Jesus the resurrection of the dead had begun, the sense of the Spirit outpoured on them as the fulfilment of promises for 'the last days', the hope of Jesus' parousia—all of them integral to the self-understanding of infant Christianity, and all expressing and evoking an attitude of excited realization and expectation.335 That overwhelming intuition of a new age having dawned, of God's final purposes for his people and his creation in process of being fulfilled, is difficult for us two thousand years later to comprehend, but without some empathetic apprehension of it we will not begin to understand the beliefs and motivations of the first Christian communities. Similarly the 'enthusiasm'. Here too we have to recognize that characteristics of the earliest Christian communities was the experience (or conceptualized experience) of being empowered 'from on high', of inspiration giving words to say, of enabling them to work extraordinary deeds. However inadequately, the term 'enthusiasm' does encapsulate the fervency of the first disciples and the excitement they engendered from the first. The modern rationalist who discounts or dismisses all such claims as Schwärmerei will naturally attribute these phenomena to untraceable socio-psychological factors as sufficient explanation. But the reality of the experiences as conceptualized should not be denied. And the significance for our understanding of Christianity's beginnings should not be understated. The impact and expansion of twentieth-century Pentecostalism (in various forms) in Latin America, Africa and Southeast Asia has made heirs of older Christian theological traditions realize that there are aspects and dimensions of pneumatology which need to be reassessed. The equivalent impact and expansion in the first century is what is in view here, and it too calls for the same sort of reassessment of the traditional understanding of Christianity's beginnings. One other way of describing these beginnings should not be neglected—a renewal or revivalist movement within late Second Temple Judaism. These events and beliefs in themselves did not mark any rupture within the diverse fabric of Second Temple Judaism. Most of the features, indeed, can be paralleled with the Qumran sect: the 'Teacher of Righteousness' as having a quasi-messianic status; the eschatology, with its claim that old prophecies had the sect's future firmly in view; even the enthusiasm as expressed in their belief that they were experiencing the promised end-time Spirit336 and in the Songs of the Sabbath Sacrifice. The difference was not so much that Qumran was more focused on the law, for we have seen that as far as we can tell, the earliest community seem to have remained equally focused, in their own terms ('zealots for the law', Acts 21.20). Rather that Qumran was more sectarian, more exclusive, more dismissive of all other Jews.337 This is also to say that the embryonic Christian movement had the greater potential to bring renewal to the rest of Second Temple Judaism. How long that potential remained alive and relevant is another story.
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Messianic Sect
-The early Christian movement is identified as a sect within Second Temple Judaism, defined by its belief in Jesus as the Messiah, his resurrection, and his imminent return.
+Dunn argues that the earliest Christian movement is best described as a 'messianic sect' within Second Temple Judaism. It functioned similarly to the Pharisees or Sadducees, operating within the parent body rather than as a separate, disowned entity. Its defining characteristic was the belief in Jesus as the Messiah who was raised from the dead.
 
-### Theme: Identity and Continuity
-The struggle of the early church to maintain continuity with its Jewish heritage while defining itself as a separate, legitimate community in the face of internal and external challenges.
+### Theme: Eschatological and Enthusiastic Nature
+The movement was defined by an 'eschatological' outlook—the conviction that the kingdom of God had arrived, the resurrection had begun, and the Spirit was poured out for the 'last days'. This led to an 'enthusiastic' fervor, characterized by the experience of being empowered by the Spirit, which Dunn compares to the impact of modern Pentecostalism.
 
-### Theme: Persecution and Resilience
-The impact of systemic Roman persecution on the organizational structure and theological resilience of the early church throughout the first three centuries.
+### Theme: Renewal Movement
+Dunn posits that early Christianity was a renewal or revivalist movement within Judaism. While it shared features with the Qumran sect (such as eschatological focus and enthusiasm), it differed by being less sectarian and exclusive, thus maintaining a greater potential for broader renewal within Second Temple Judaism.
 
-## 4. Evidence Matrix & Verbatim Assertions
+## 4. Key Verbatim Assertions & Quotes
 > "To sum up, we could ask what is the most appropriate shorthand description of the new movement generated by Jesus' mission, death and resurrection? A 'messianic sect' is the most obvious candidate."
-*Context Source: Page 238*
+*Source: Page 238, Section 23.6*
 
-> "The dating of many events, personalities, and texts is highly controversial, especially in the first and early second centuries."
-*Context Source: Page 350*
+> "It was a messianic sect in that their most distinguishing feature was their beliefs regarding Jesus—that as Messiah, God had raised him from the dead, and that they identified themselves by his name, by calling upon his name and acting in the authority of his name."
+*Source: Page 239, Section 23.6*
 
-> "The Great Persecution had been the most sustained attack ever launched upon Christians by the Roman authorities, though its effects had been much nastier in the East than in the West."
-*Context Source: Page 350*
+> "That overwhelming intuition of a new age having dawned, of God's final purposes for his people and his creation in process of being fulfilled, is difficult for us two thousand years later to comprehend, but without some empathetic apprehension of it we will not begin to understand the beliefs and motivations of the first Christian communities."
+*Source: Page 239, Section 23.6*
+
+> "One other way of describing these beginnings should not be neglected—a renewal or revivalist movement within late Second Temple Judaism. These events and beliefs in themselves did not mark any rupture within the diverse fabric of Second Temple Judaism."
+*Source: Page 240, Section 23.6*

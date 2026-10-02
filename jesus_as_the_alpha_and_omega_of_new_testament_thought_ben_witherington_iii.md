@@ -1,7 +1,7 @@
 ---
 title: "Jesus as the Alpha and Omega of New Testament Thought"
 author: "Ben Witherington III"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,31 +13,28 @@ aliases:
 # Jesus as the Alpha and Omega of New Testament Thought
 **Author:** [[Ben Witherington III]]
 
-## 1. Cleaned Document Text
-The text discusses how the figure of Jesus serves as the central focal point and catalyst for New Testament thought, theology, and the radical reinterpretation of Jewish tradition among early Christians. Witherington emphasizes that Christology was not merely an abstract academic pursuit but a practical theology emerging from the lived experiences of early Christian communities, their worship, and their response to the Christ event. The document highlights the narrative shape of Pauline Christology, the redefinition of key Jewish concepts such as salvation, the Law, and the community of God, and the ways in which early Christians integrated divine attributes into their understanding of Jesus. It explores the significance of Jesus as both human (born of a woman) and divine, acting as the mediator between God and humanity. The analysis also touches upon the eschatological shift triggered by Jesus, where the 'already but not yet' tension shapes the identity and mission of the believer. Finally, it notes how this christological focus effectively redefined the boundaries of the people of God, moving from ethnic identity to a faith-based commonwealth.
+## 1. Verbatim Source Text
+### CHAPTER 2
+
+The study of the historical Jesus in his original social and religious context has led to a number of remarkable and distinctive findings. First, even taking into account recent revelations from a closer examination of early Jewish sources, including the texts discovered at Qumran, it is fair to say that messianism is hardly the dominant focus in much, if any, of the writings that stem from the Second Temple Judaism. This stands in dramatic contrast to what we find in the New Testament, where Christ and christology appear as subjects on almost every page. Obviously, some historical explanation is required for this fact given that all the New Testament documents, with the possible exception of Luke-Acts, were written by Jews. Second, there is the more particular point made by the late Raymond Brown that "in all of Jewish history before a.d. 30... we have no evidence that any living Jew was ever referred to as the Messiah except Jesus of Nazareth" (Introduction to New Testament Christology, 73). To this fact one may add the point of John Collins, a very careful scholar, that no living Jew of the period, other than Jesus, was ever identified with the Danielic Son of Man figure (The Scepter and the Star, 208-9). These facts require some explanation, and they drive us to the very nub of the matter. What do we make of the fact that Jesus is both the basis for and focus of New Testament thought? Should we conclude that this is yet another enthusiasm of a group of religious zealots who were overly-impressed with, and so over-exegeted, the importance of their founder? Or is there some sort of historical warrant and explanation for their convictions, portrayals, and activities? In what follows, we will survey a representative sampling of material from the Gospels and Paul's letters that highlights the fact that Jesus is both the basis for and focus of New Testament thought (sections 1 and 3). Then we will concentrate on Paul's letters in a fuller explanation of our thesis (sections 3 through 6), since they provide us with the earliest literary witness to how early Christian thinking functioned and was focused on the person and work of Christ. Finally, we will speak of the revolution that the "Christ event" brought about in the orientation, reflection, and worship of the earliest Christians—and that needs to be brought about in the thought and life of Christians today (section 7).
+
+### 1. Jesus as the Basis for New Testament Thought
+
+Insofar as we can talk about New Testament thought, and not merely the thoughts (plural) of the New Testament writers, there is very little reason to object to the proposition that Jesus is the basis for much of the worldview projected and reflected by the New Testament writers. Even more skeptical New Testament scholars like Rudolf Bultmann have been well aware of the enormous impact of Jesus on the theologizing of the New Testament writers. Whether one examines the way the New Testament writers talk about God the Father or about the Spirit or about soteriology or about eschatology or about ecclesiology, the impact of Jesus is clear. I have shown in another context that it is inadequate to argue that "Father" language is good in God in the New Testament is simply a development of such language in early Judaism (cf. my critique of Marianne Meye Thompson's The Promise of the Father in B. Witherington and L. Ice, The Shadow of the Almighty [Grand Rapids: Eerdmans, 2002]). To the contrary, God is called the Father of Jesus Christ and Abba in the New Testament in ways that are not seen in other early Jewish literature. To put it another way, patrology is viewed through christological spectacles in various parts of the New Testament. And the same can be said in regard to pneumatology. The Spirit is either the one promised by Christ or by God through Christ—or the one sent by Christ, who is even called the Spirit of Jesus Christ. There is no analogy to this in the writings of Second Temple Judaism or, for that matter, in the Hebrew Scriptures. The writers of the New Testament apparently felt it incumbent on them to speak in new and fresh ways. When we consider the issue of soteriology, the focus is not merely on the person of Jesus but on a specific event in his life, namely his death. So much is this the case that one can hardly speak of alternative theories of salvation in the New Testament, if by that one means theories that do not in some way involve Christ and that death. Even if we were tempted to be skeptical about finding pieces of the meteor called the "Christ event" at this great remove in history, we can certainly examine the enormous impact that the Christ event made on these early Jewish thinking about God, the Spirit, salvation, and a host of other important matters. Consider for a moment the issue of eschatology. It is very doubtful that Jews before Jesus were conjuring with the possibility of a crucified Messiah. () I have discussed the texts found at Qumran that might be thought to point in this direction in my The Many Faces of the Christ. The evidence from 4 Ezra is too late in the first century to be germane to a discussion about Jesus and his setting. Likewise, it is implausible that Jews expected a resurrected Messiah. Yet Paul, our earliest New Testament writer, speaks of Jesus resurrection as "the firstfruits" of the general resurrection. In other words, eschatology, which formerly spoke about the resurrection of the righteous, or perhaps of all, is now modified to speak in a particular vis-a-vis "latter fruits" way—with the resurrection of one "firstfruits" historical individual, Jesus of Nazareth, claimed to be the firstfruits. One could also point to the way that final judgment, whether as presented in Revelation, Mark 14:62 or 2 Cor 5:10, is now seen as focusing on or involving Christ as the judge or implementing of judgment. Ecclesiological language has also been altered under the impact of the Christ event. This is so not only in obvious ways, such as Paul's use of "body of Christ" language or the reference in Matt 16:18 to Jesus' community, but in (1) the elaborate conversations about Israel in (11) or exiles in the Diasporas references to the twelve tribes in the Diaspora (Jas 1:1) or exiles in the Diaspora (1 Pet 1:1) who have been affected by the Christ event, and (3) the new vision that appears throughout the New Testament of God's people being now Jews and Gentiles united in Christ. This is not just a matter of transferring language from one group of people to another, but a transfiguration of the language itself—with it, needs always to be recognized, Christ defining the terms. In all these instances and many more, Christ or the Christ event is the catalyst for new ways of expressing one's faith about matters pertaining to deity, soteriology, eschatology, and ecclesiology. We will return to these four areas in speaking particularly of Paul's letters.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Christ-Centered Theology
-The argument that Jesus is not merely a peripheral figure in New Testament writings but the essential catalyst and central focus that reconfigures theology, eschatology, and ecclesiology.
+### Theme: Christ as the Catalyst
+The author argues that the 'Christ event' is the fundamental catalyst for the transformation of Jewish theological language regarding God, the Spirit, salvation, eschatology, and ecclesiology in the New Testament.
 
-### Theme: Narrative Christology
-The idea that Paul’s understanding of Christ is deeply rooted in a fourfold narrative involving the story of Israel, the story of God, the story of Christ himself, and the story of the world gone wrong.
+### Theme: Uniqueness of the Christ Event
+Witherington emphasizes that the New Testament writers, who were Jewish, spoke of God and the Messiah in ways unprecedented in Second Temple Judaism, specifically regarding the crucifixion and resurrection of the Messiah.
 
-### Theme: Transformation of Jewish Categories
-The systematic way early Christian thought redefined fundamental Jewish concepts such as the Law, the Temple, and the nature of God's chosen people, following the Christ event.
+## 4. Key Verbatim Assertions & Quotes
+> "What do we make of the fact that Jesus is both the basis for and focus of New Testament thought?"
+*Source: Chapter 2, Page 25*
 
-### Theme: Lived Experience and Worship
-The assertion that Christology in the New Testament is inseparable from the communal experiences, hymns, creeds, and rituals of early believers.
+> "To the contrary, God is called the Father of Jesus Christ and Abba in the New Testament in ways that are not seen in other early Jewish literature."
+*Source: Section 1, Page 26*
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "The study of the historical Jesus in this original social and religious context has led a number of remarkable and distinctive findings. First, even taking into account recent revelations from a closer examination of early Jewish sources, including the texts discovered at Qumran, it is fair to say that messianism is hardly the dominant focus in much, if any, of the writings that stem from Second Temple Judaism."
-*Context Source: Page 25*
-
-> "In what follows, we will survey a representative sampling of material from the Gospels and Paul's letters that highlights the fact that Jesus is both the basis for and focus of New Testament thought."
-*Context Source: Page 26*
-
-> "Paul's thought revolved around 'the Son,' whom he called with great regularity 'Jesus Christ'—in fact, some 270 of 531 total uses of Christos in the New Testament occur in the Pauline corpus."
-*Context Source: Page 29*
-
-> "It is my thesis that though we have been speaking about Christ as the basis for and focus of New Testament thought, we need to keep primarily in view that early Christianity did not solely—perhaps even not primarily—involve an intellectual revolution."
-*Context Source: Page 44*
+> "It is very doubtful that Jews before Jesus were conjuring with the possibility of a crucified Messiah."
+*Source: Section 1, Page 27*

@@ -1,7 +1,7 @@
 ---
 title: "Immanuel: Jesus Christ: Cornerstone of Our Faith"
 author: "John A. Witmer"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,82 +13,33 @@ aliases:
 # Immanuel: Jesus Christ: Cornerstone of Our Faith
 **Author:** [[John A. Witmer]]
 
-## 1. Cleaned Document Text
-The text serves as an introductory segment and index to a theological work detailing the various names and titles attributed to Jesus Christ within Christian scripture, reflecting the author's devotion and academic focus at Dallas Theological Seminary.
+## 1. Verbatim Source Text
+### Front Matter
+
+Immanuel: Jesus Christ: Cornerstone of Our Faith. John A. Witmer. Charles R. Swindoll, General Editor. Word Publishing. In memory of my parents, Albert F. and Mary E. Witmer, who dedicated me to the service of God before birth and by personal example and precept guided me as a child of twelve to saving faith in the Lord Jesus Christ.
+
+### Titles and Names of Jesus Christ
+
+following table lists 108 titles discussed in this chapter. Just as the multitude of facets in a diamond increases its brilliance, so the many names and titles of Christ reveal Him as "the radiance of God's glory" (Heb. 1:3). Titles and Names of Jesus Christ: Lord Jesus Christ, Lord, My Lord, Lord Jesus, The LORD Our Righteousness, Jesus, Jesus of Nazareth, Christ, Messiah ("the Anointed One"), Jesus Christ, Son of David, Son of Abraham, A Shoot, Root of Jesse, Righteous Branch, Root of David, Root and Offspring of David, Joseph's son, The Carpenter's son, Carpenter, Mary's son, Son of God, Son of the Most High God, Son of the Living God, Son of the Blessed One, My Son, One and Only Son, Only Son, Son of Man, Bread of Life, Light of the World, True Light, Gate, Good Shepherd, Great Shepherd, Chief Shepherd, Resurrection, Way, Truth, Life, Wonderful Counselor, Vine, True Vine, Lord of the Sabbath, Master, Teacher, Immanuel, Son of the Most High, Holy One, Jesus the Nazarene, Rabbi, King of Israel, Rabboni, Servant, Lamb of God, Prophet. Prince of Peace, King, Ruler over Israel, King of the Jews, Deliverer, Ruler of the kings of the earth, Ruler of God's creation, King of the ages, King of kings and Lord of lords, High Priest, Great High Priest, Great Priest, Priest, Mediator, Savior of the world, Savior, Our Passover Lamb, Apostle, Image of God, Image of the invisible God, Firstborn, Firstborn of all creation, Heir, Beginning, End, Firstborn from the dead, Firstfruits, God, Everlasting Father, Holy and Righteous One, Righteous One, Word, Word of life, Advocate, Word of God, Faithful Witness, Alpha, Omega, First, Last, Faithful and True, Lion of the tribe of Judah, Lord, Author, Prince, Author and Perfector of our faith, Bridegroom, Head of the church, Stone, Cornerstone, Chief Cornerstone, Overseer. *These titles are listed in the order in which they were discussed in this chapter.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Title,Description
-Prince of Peace,God
-King,Everlasting Father
-Ruler over Israel,Holy and Righteous One
-King of the Jews,Righteous One
-Deliverer,Word
-Ruler of the kings of the earth,Word of life
-Ruler of God's creation,Advocate
-King of the ages,Word of God
-King of kings and Lord of lords,Faithful Witness
-High Priest,Alpha
-Great High Priest,Omega
-Great Priest,First
-Priest,Last
-Mediator,Faithful and True
-Savior of the world,Lion of the tribe of Judah
-Savior,Lord
-Our Passover Lamb,Author
-Apostle,Prince
-Image of God,Author and Perfector of our faith
-Image of the invisible God,Bridegroom
-Firstborn,Head of the church
-Firstborn of all creation,Stone
-Heir,Cornerstone
-Beginning,Chief Cornerstone
-End,Overseer
-Firstborn from the dead, 
-Firstfruits,
+Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title,Title
 ```
 
 ### Table 2
 ```csv
-Title,Description
-Lord Jesus Christ,Son of Man
-Lord,Bread of Life
-My Lord,Light of the World
-Lord Jesus,True Light
-The LORD Our Righteousness,Gate
-Jesus,Good Shepherd
-Jesus of Nazareth,Great Shepherd
-Christ,Chief Shepherd
-Messiah ("the Anointed One"),Resurrection
-Jesus Christ,Way
-Son of David,Truth
-Son of Abraham,Life
-A Shoot,Wonderful Counselor
-Root of Jesse,Vine
-Righteous Branch,True Vine
-Root of David,Lord of the Sabbath
-Root and Offspring of David,Master
-Joseph's son,Teacher
-The Carpenter's son,Immanuel
-Carpenter,Son of the Most High
-Mary's son,Holy One
-Son of God,Jesus the Nazarene
-Son of the Most High God,Rabbi
-Son of the Living God,King of Israel
-Son of the Blessed One,Rabboni
-My Son,Servant
-One and Only Son,Lamb of God
-Only Son,Prophet
+Lord Jesus Christ,Lord,My Lord,Lord Jesus,The LORD Our Righteousness,Jesus,Jesus of Nazareth,Christ,Messiah ("the Anointed One"),Jesus Christ,Son of David,Son of Abraham,A Shoot,Root of Jesse,Righteous Branch,Root of David,Root and Offspring of David,Joseph's son,The Carpenter's son,Carpenter,Mary's son,Son of God,Son of the Most High God,Son of the Living God,Son of the Blessed One,My Son,One and Only Son,Only Son,Son of Man,Bread of Life,Light of the World,True Light,Gate,Good Shepherd,Great Shepherd,Chief Shepherd,Resurrection,Way,Truth,Life,Wonderful Counselor,Vine,True Vine,Lord of the Sabbath,Master,Teacher,Immanuel,Son of the Most High,Holy One,Jesus the Nazarene,Rabbi,King of Israel,Rabboni,Servant,Lamb of God,Prophet,Prince of Peace,King,Ruler over Israel,King of the Jews,Deliverer,Ruler of the kings of the earth,Ruler of God's creation,King of the ages,King of kings and Lord of lords,High Priest,Great High Priest,Great Priest,Priest,Mediator,Savior of the world,Savior,Our Passover Lamb,Apostle,Image of God,Image of the invisible God,Firstborn,Firstborn of all creation,Heir,Beginning,End,Firstborn from the dead,Firstfruits,God,Everlasting Father,Holy and Righteous One,Righteous One,Word,Word of life,Advocate,Word of God,Faithful Witness,Alpha,Omega,First,Last,Faithful and True,Lion of the tribe of Judah,Lord,Author,Prince,Author and Perfector of our faith,Bridegroom,Head of the church,Stone,Cornerstone,Chief Cornerstone,Overseer
 ```
 
 ## 3. Thematic Analysis Matrices
+### Theme: The Multi-faceted Nature of Christ
+The author argues that the 108 titles of Jesus Christ function like the facets of a diamond, collectively increasing the brilliance and revelation of His glory.
+
 ### Theme: Christological Titles
-An exhaustive categorization of 108 distinct titles used to describe the nature, role, and divinity of Jesus Christ.
+The text provides a comprehensive list of titles for Jesus, ranging from His humanity (e.g., 'Son of David', 'Carpenter's son') to His divinity (e.g., 'God', 'Everlasting Father', 'Alpha', 'Omega').
 
-### Theme: Theological Devotion
-The work serves as both an academic survey of theological titles and a personal act of religious tribute.
-
-## 4. Evidence Matrix & Verbatim Assertions
-> "Just as the multitude of facets in a diamond increases its brilliance, so the many names and titles of Christ reveal Him as 'the radiance of God's glory' (Heb. 1:3)."
-*Context Source: Page 3*
+## 4. Key Verbatim Assertions & Quotes
+> "Just as the multitude of facets in a diamond increases its brilliance, so the many names and titles of Christ reveal Him as "the radiance of God's glory" (Heb. 1:3)."
+*Source: Page 3, Introduction to Titles and Names of Jesus Christ*

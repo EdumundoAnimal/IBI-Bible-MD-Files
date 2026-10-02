@@ -1,7 +1,7 @@
 ---
 title: "OT Survey Exam Tutorial"
 author: "Unknown"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,48 +13,153 @@ aliases:
 # OT Survey Exam Tutorial
 **Author:** [[Unknown]]
 
-## 1. Cleaned Document Text
-Week 10 Sec 1a OT Survey exam tutorial. Authorship: written by recognised prophet or spirit led individual. Relevancy: Relative to all generations. Consistency: Doesn't contradict previous Revelation. Sec 2a Historical books Joshua to Judges, Kingship to Ester. Week 10 4 OT Survey. Old Testament History: Put these people and events in historical order (some may overlap). Establishment of monarchy/kingship, Persian Empire, Noah, Abraham, Babylonian Empire, Esther, Egyptian Empire, Moses, Joseph, Wilderness wanderings, Return from exile, Joshua, Jacob, Nehemiah, Samuel, Adam, David, Judges, Assyrian Empire, Nile, Divided Kingdom (Israel & Judah), Ezra, Ruth.
+## 1. Verbatim Source Text
+### Sec. 1a) OT survey exam tutorial
+
+Weeks 10. 3/12/08. OT survey exam tutorial. Authorship: written by recognised prophet or spirit led individual. Relevancy: Relative to all generations. Consistency: Doesn't contradict previous Revelation.
+
+### Sec. 2a) Historical books
+
+Historical books - Joshua to Judges - Kingship - to Ester
+
+### Old Testament History
+
+Weeks 10. 3/12/08. OT Survey. Old Testament History: Put these people and events in historical order (some may overlap). Establishment of monarchy/kingship. Persian Empire. Noah. Abraham. Babylonian Empire. Esther. Egyptian Empire. Moses. Joseph. Wilderness wanderings. Return from exile. Joshua. Jacob. Nehemiah. Samuel. Adam. David. Judges. Assyrian Empire. Exile. Divided Kingdom (Israel & Judah). Ezra. Ruth.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Chronological Order Task,List of items provided
-1,Establishment of monarchy/kingship
-2,Persian Empire
-3,Noah
-4,Abraham
-5,Babylonian Empire
-6,Esther
-7,Egyptian Empire
-8,Moses
-9,Joseph
-10,Wilderness wanderings
-11,Return from exile
-12,Joshua
-13,Jacob
-14,Nehemiah
-15,Samuel
-16,Adam
-17,David
-18,Judges
-19,Assyrian Empire
-20,Nile
-21,Divided Kingdom (Israel & Judah)
-22,Ezra
-23,Ruth
+Event/Person,Order
+```
+
+### Table 2
+```csv
+Establishment of monarchy/kingship,?
+```
+
+### Table 3
+```csv
+Persian Empire,?
+```
+
+### Table 4
+```csv
+Noah,?
+```
+
+### Table 5
+```csv
+Abraham,?
+```
+
+### Table 6
+```csv
+Babylonian Empire,?
+```
+
+### Table 7
+```csv
+Esther,?
+```
+
+### Table 8
+```csv
+Egyptian Empire,?
+```
+
+### Table 9
+```csv
+Moses,?
+```
+
+### Table 10
+```csv
+Joseph,?
+```
+
+### Table 11
+```csv
+Wilderness wanderings,?
+```
+
+### Table 12
+```csv
+Return from exile,?
+```
+
+### Table 13
+```csv
+Joshua,?
+```
+
+### Table 14
+```csv
+Jacob,?
+```
+
+### Table 15
+```csv
+Nehemiah,?
+```
+
+### Table 16
+```csv
+Samuel,?
+```
+
+### Table 17
+```csv
+Adam,?
+```
+
+### Table 18
+```csv
+David,?
+```
+
+### Table 19
+```csv
+Judges,?
+```
+
+### Table 20
+```csv
+Assyrian Empire,?
+```
+
+### Table 21
+```csv
+Exile,?
+```
+
+### Table 22
+```csv
+Divided Kingdom (Israel & Judah),?
+```
+
+### Table 23
+```csv
+Ezra,?
+```
+
+### Table 24
+```csv
+Ruth,?
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Criteria for Canonicity
-Defined by authorship (prophetic/spirit-led), universality (relevance to all generations), and internal consistency.
+### Theme: Criteria for Biblical Canonicity
+The document outlines three specific criteria for evaluating biblical texts: Authorship (prophetic or spirit-led), Relevancy (universal application), and Consistency (non-contradiction of previous revelation).
 
-### Theme: Old Testament Historical Framework
-The study of biblical chronology from early origins to historical kingdoms and exilic periods.
+### Theme: Historical Chronology
+The document provides a list of key figures and historical events in Old Testament history, requiring the student to arrange them in chronological order.
 
-## 4. Evidence Matrix & Verbatim Assertions
+## 4. Key Verbatim Assertions & Quotes
 > "Authorship: written by recognised prophet or spirit led individual."
-*Context Source: Section 1a*
+*Source: Sec. 1a) OT survey exam tutorial*
+
+> "Relevancy: Relative to all generations."
+*Source: Sec. 1a) OT survey exam tutorial*
 
 > "Consistency: Doesn't contradict previous Revelation."
-*Context Source: Section 1a*
+*Source: Sec. 1a) OT survey exam tutorial*

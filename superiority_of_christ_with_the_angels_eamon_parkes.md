@@ -1,7 +1,7 @@
 ---
 title: "Superiority of Christ with the Angels"
 author: "Eamon Parkes"
-processed_date: 2026-08-07
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,46 +13,82 @@ aliases:
 # Superiority of Christ with the Angels
 **Author:** [[Eamon Parkes]]
 
-## 1. Cleaned Document Text
-This essay explores the argument presented in the book of Hebrews concerning the superiority of Christ over the angels. The author examines why the writer of Hebrews utilized this comparison to encourage believers who were drifting in their faith. The essay covers the identity of the author, the audience, and the cultural context, including references to early Judaism, the destruction of the Temple, and the usage of the 'lesser to greater' rhetorical argument. Finally, it analyzes the application of these warnings to contemporary faith.
+## 1. Verbatim Source Text
+### Introduction
+
+The aim of this essay is to show how the author of Hebrews compares the superiority of Christ with the angels to stimulate a response from his audience, and why he needed to do this. First, we will set down the reasons why he has chosen to compare Christ with the angels. Second, we will investigate how this was brought about by the author. And finally we will examine how this could have an effect on the original reader and on a twenty first century generation.
+
+### Setting and reasons why Christ is compared with angels in Hebrews
+
+This section examines what we know of (1) the author identity, (2) his reasons for writing Hebrews, and the condition of the recipients. Finally, (3) the approximate date in which it was written. Authors Identity The author speaks of stunted growth and worries of them drifting away to former Jewish traditions and sacrifices. Paul Achtemeier, confirms that the author was not the founder of the congregation, plus his relationship to them is unclear, yet he was concerned about their predicament and well being enough to be addresses by them as 'pastor.' Moreover John Calvin, can find no reason as to Pauline authorship, but William Tyndale sees the author as a faithful servant of Christ, using the same doctrine of Paul and Timothy and was likely an apostle, he was possibly with them. Reasons for writing Hebrews First, the author warns and encourages his readers not to be 'lazy' in their faith towards Christ. Additionally in Heb. 3:12 the writer senses that some members of the group were in serious danger of apostasy, which he defines as a 'turning away' from the living God. Furthermore Ellingworth sees that their, 'Inner weakness may have been a chronic condition presupposing some of the readers to abandon, at some critical point, their faith in Christ.' Second, I shall attempt to give reasons why the author compares Christ with the angels to support his exhortation to listen carefully and not be lazy. The author argues that God is more concerned about the descendants of Abraham than angels (Heb.2:16). This would only appeal to a Jewish/Christian readership that had interests in elevating angelic hierarchy, rather than Christ's superiority. Elsewhere in Colossians, Paul alludes cryptically to 'the worship of angels.' Such New Testament references, along with this data from Hebrews, have led some interpreters to suggest that the worship of angels was not unknown in early Judaism and Christianity.
+
+### Date Hebrews was written
+
+As a Roman citizen, Flavius Josephus, also a Jewish historian around the time of Christ wrote of the Essens during the Jewish wars, '...and will equally preserve the books belonging to their sect (the Essens), and the names of the angels (or messengers).' And Philo, (the first century theologian), tells us that the 'Essenes', Turned their backs upon all philosophy, logical and natural, save that which treats of God and Creation, and are much more concerned with the ethical branch of philosophy. Translated into another idiom, he is saying that they are interested only in biblical revelation and law. Josephus also takes note of the esoteric nature of their teachings, their interest in angels, their thorough knowledge of the sayings of the prophets and 'the writings of the ancients, and their practice of prediction.' Achtemeier proves this by referencing 'One speculative apocalyptic text, (3Enoch12:15), which speaks of the angel Metatron as 'the lesser YHWH'. The letter adds greetings from Italy (Heb 13:24), subsequently the gospel could only have reached there by early 60 CE. Also Nero's persecution, and the destruction of temple in70 CE, (would have sealed his argument); it is not mentioned, thus its absence would logically suggest that the temple still stood at the time Hebrews was written. Also the reference to 'sacrifices and high priest,' is in the present tense (Heb 10:11); therefore it is probable that it was written somewhere between 65-70 CE.
+
+### Superiority of Christ to the angels
+
+The following section endeavours to explain how the author develops his case for the supremacy of Christ with the angels. To quote Paul Achtemeier, As Son, Jesus stands in contrast to the Prophets (Heb. 1:1-4), to angels (Heb. 1:5-14), and to Moses (Heb. 3:2). All these figures were agents of God's revelation to human beings, and Hebrews accepts the validity and importance of God's speaking through them, while stressing the surpassing greatness of the revelation through the Son. In this part of the essay, Christ's superiority will be compared and contrasted with that of the angels alone, while continuing to stress the superior revelation brought about 'in the Son.' This, optimistically, can be achieved by looking at four key areas of superiority; (1) name, (2) eminence, (3) pre-existence, and finally (4) the full revelation Christ brings. A Superior Name When it comes to angels, there are only two noted in scripture with specified names; Gabriel, which means 'mighty one of God' or 'hero of God' and the arch angel Michael which means 'Who is like God.' Some may have even stood in the very 'presence of God' (Luke 1:19), but none are like Jesus, being God's only begotten Son. It is worth noting that the readers of Hebrews were perhaps Colossians, where they essentially worshipping angels (Col.2:18), conversely they were a people who were highly influenced by the Qumran sect, where angels were highly regarded. Here too in (Phil.2:9) the excellence of the name of Jesus Christ as Son would have been regarded as a sign of high honour. Hughes explains that, 'No angel was ever called 'Son,' except for example, 'the sons of God' who came before God in (Job. 1:6). But no angel ever had the title 'Son.' Furthermore Bateman reveals that, 'although this 'Name' in (Heb. 1.4) is not openly stated it seems apparent that it refers to the title of Jesus the 'Son.' To the people of the first century names were more that a means of distinguishing people; they were a means of saying something about their nature. Here though in (Heb. 1:5) it implies the 'closest and most intimate relationship.' Guthrie makes it clear that 'when, in the Greek text, the writer says 'a son' rather than 'his son,' he does this to show the superior means used. He is not saying that God has more than one Son. Again Guthrie points out in (Heb. 1:3) there is a reference to Christ's superiority taken from (Psalm 110:1), where 'the right hand was traditionally a place of honour, and a sitting position indicates a position of High honour.'
+
+### Eminence
+
+A further argument, in favour of Christ's superiority, is found in (Heb.1:8, 9), a quote taken from (Psa.45:6, 7), particularly the statement, 'God, your God,' in the middle of verse seven. Besides this the author intends Christ's superiority, not simply to be summarize in the 'name' itself, but when in (Heb. 1:5) Jesus is identified as the 'Son' of God, it describes his superior eminence. Achtemeier make clear that, 'therefore it is not simply the superiority of the name itself, but the 'superior dignity' and worth of the one for whom the name stands that the author has in view.' The author's extensively uses the Old Testament to support his claim of Christ's superior eminence to the angels both in title and activity. Bateman denote the Son as the divine king as follows, The Son's name is declared greater than that of the angels (v.4). The author supports his claim with an impressive catena of Old Testament scriptures references in which God describes the Son as a divine Davidic King-priest to whom angels offer worship and service (vv 5-14). With this the Old and New Testament are strewn with references to angels worshiping and praising the God they serve endlessly (Job 38:7; Psa. 103:20; Isa. 6:1-3; Rev. 4:8, 5:9-12). The 'him,' in (Deut.32.43) 'Let all God's angels worship him,' some Jews believe, refer to the Messiah. Focusing on Christ eternal kingship (Heb. 1:8, 9) utilises the sovereignty of the Son depicted in (Psalm 45:6, 7). The original context for this Psalm was an Israeli wedding feast, but it may have Messianic overtones. Guthrie says of this, 'the oil of gladness' refers to the anointing oil for the Son during the ceremonial coronation. This equally relates to 'God's anointed Jesus' in (Acts. 10:38). Hughes regards the use of 'oil' as referring to the 'oil of gladness,' used in (Isa.61:3) referring to Christ going to the Cross; 'His anointing with oil of Joy refers to the heavenly joy that was his as sovereign King of Kings. It was 'the joy set before him' (Heb. 12:2). This brings us to the, somewhat overlook, but vitally superior attribute of Christ to the angels, his humanity and suffering. People don't always associate suffering with superiority, but for the recipient's salvation, it is primary. Guthrie notes the importance Here it is clear that God's angels are his servants, hardly a position for a 'Son.' The author argues that the angels are ministering servants (Heb. 1:7, 14) rather than those who are to be served, whereas the Son is to be worshipped by angels (Heb. 1:6). The Masoretic text speaks only of wind and fire as instruments of God's sovereign will: 'who make the winds his messengers, flames of fire his servants.' In the Old Testament wind and fire are the divine instruments for theophany.
+
+### Pre-existence
+
+Correspondingly as personification and embodiment motifs, were used in the Old Testament and Second Temple Judaism, such as wisdom conjecture. It was through the agency of the Son, God's personification and embodied wisdom, that the world was created. Achtemeier compares this to the wisdom literature of the day, The reflection of God's glory and the exact imprint of God's very being' this reflects Hellenistic Jewish book of Wisdom, where wisdom is described as 'a breath of the power of God and a pure emanation of the glory of the Almighty . . a reflection of eternal light, a spotless mirror of the working of God, and an image of his goodness' (Wis. 7:25-26). Likewise this can be found in the scriptures; (John1:1, 1Cor.8:16, Col. 1:16). Guthrie distinguishes the begotten son with the created angels, 'The Words Who makes his angels wind, are intended to show a strong contrast between the angels and the Son, whereas the Son is said to be begotten, they are said to be made.' But when were the angels created. The Christian view of the World and God as depicted in (Heb. 1:10-12) varied greatly from the belief held in the Greco-Roman world when Hebrews was written. The world was thought to be indestructible but Hebrews describes a picture of God rolling up the Heaven and the Earth and them wearing out like an old piece of clothing. This is contrasted with the unchangeable, indestructible Son of God. This passage is taken from Psalm 102:25-27 where Guthrie presumes, that the author understands, it is God who is speaking; 'In his mind it was legitimate to transfer to the Son what applies to God.' Note, since he has already spoken in the previous sentences (Heb.1:8) about the Son, it seems logical then that the author is referring to Christ. Hughes contrast the Creator, 'Christ,' with the created 'angels,' heaven and earth, 'As a man during his lifetime outlives successive suits of clothes, so Christ will see and outlive many successive material universes, yet will himself remain eternal and unchanging.' Revelation '...at many times and in various ways,' (Heb. 1:1) stand for 'the different modes (visions, angelic revelations, prophetic words),' that God used to communicate with us in the Old Testament. God may have used angels to do this and what they brought was the Testament.
+
+### Warnings and Encouragement, Past and Present
+
+To start with in this chapter we will look at the concept of drifting away from the faith and the greater to lesser argument used by the author to prevent this. Further from this we will examine how Hebrews was used to encourage the readers of that day and how it can encourage us in the 21st century. Many Jewish documents of the first century, like that of Philo, (mentioned above), portray the how God spoke to Humans, 'God must speak through mediators to human beings.' Donaldson states there is a difference in who mediates the old revelation verses who mediates the New Testament, 'Word' of Salvation; 'In the former era, God spoke his word (the law) through a voice (angels, Moses, prophets) to Jewish ancestors ...In this new era, God has spoken his word (of Salvation) through the son... Pivotal to the entire argument of Hebrews is 'who now speaks God's Word,' and Lane observes how the author reveals this first and foremost, The force of the expression in Hebrews is to characterise the Son as the one through whom God spoke his final and decisive word.' This is established in the preliminary lines by concentrating the readers focus on the supremacy of 'the God who speaks.'
+
+### Christ's supremacy, the anchor for the drifting Christian
+
+The supremacy of Christ is the nautical anchor proposed by the author to secure the sluggish Christian reader to the faith during tempestuous seas of persecution. In (Heb.2:1) we see nautical sailing expression used here and it conjures up a picture of a ships which has lost its anchor hold and is about to drift out into dangerous waters. 'They had become careless about their mooring in Christ.' Announced, confirmed, and testified The recipients of Hebrews had three firm reasons to pay close attention to the message of Christ; First the originator of the New Testament message is the Son or Lord (the New Testament name for Jesus) of which the Good News was announced. Second the Apostles and witnesses confirmed the message, and third it was testified by signs and wonders. Rejecting verses neglecting Calvin articulates the real danger that the readers of Hebrews were in; 'It is not only the rejecting of the Gospel, but even the neglecting of it that deserves the severest penalty in view of the greatness of the grace which is offered in it... Lesser to greater argument A typical example of the argument used by the author in Hebrews is the rule of 'qal wahomer' or 'lesser to greater argument.' John Boker defines it as; 'What applies in a less important case will certainly apply in a more important case.' The language was used deliberately to provoke a response; ...both appear to provide a lesser-to-greater argument (qal wahomer) with emotive appeals in order to achieve a desired response from the readers: to listen to God's message mediated through or about the Son. The logic in the argument is, since God has now spoken through his Son (Heb. 1:1-3) and given the hearers (Jewish Christians) so much 'greater' a salvation (Heb.2:2-3), they have a 'greater' obligation not to refuse the author's warnings message. Osborne insists; The Israelites did not escape their judgement in the wilderness, namely, failure to enter the Promised Land and physical death; (using the qal wahomer rule then:) the reader who falls away will not escape a greater judgement, namely, failure to enter heaven and the 'second death' of (Rev.20:6). Hebrews; a warning to the twenty first century generation Scholars are divided as to whether this death meant eternal death for the soul; one thing is for sure, that some five to ten years later (around 70 AD) the Temple in Jerusalem was sacked by the Romans, exactly as Jesus predicted it would be (Mat.24:2). I believe as Hughes put it, 'Drifting then is the besetting sin of our day.' What, then, does make a person fall away from the faith, the very reason for writing Hebrews? C. S. Lewis summed it up well,
+
+### Conclusion
+
+The aim of this essay was to show how the author of Hebrews uses the superiority of Christ with the angels to stimulate a response from his audience and why he needed to do this. First, we set down the reasons why he chose to compared, 'Christ' with the 'angels'. Second, we demonstrated how this was brought about by the author. And finally we examined the how this could have encouraged the original reader and ourselves in the twenty first century. By comparing and contrasting the superiority of Christ to the angels and using the 'lesser to greater' (qal wahomer rule); as a logical argument, it has been shown, that the author has used tremendous effort in provoking a response from his audience. The desired response was to stay anchored in Christ and not drift back into the lesser Judaic Religion that they came out of. The encouragement and warnings of Hebrews are greatly needed in the post-modern churches of today, where the cultural mantra of our time is, 'truth is relative' and there is no superior absolutes. The author of Hebrews begs to differ; Christ is the anchor of our soul, we would do well to secure our anchor there. If you examined a hundred people who had lost their faith in Christianity, I wonder how many of them would turn out to have been reasoned out of it by honest argument. Do not most people simply 'drift' away?
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
-Criteria,Needs much work,Needs some work,Satisfactory,Very Good,Excellent,Grade
-Introduction to the Assignment, , , , , , 
-Interpretation of task and introduction, , , , ,X, 
-Orderly Development, , ,X, , , 
-Use of sources and evidence, , ,X, , , 
-Subject relevance, , ,X, , , 
-Understanding of topic, ,X, , , , 
-Constructive critical analysis, ,X, , , , 
-Insight and originality, ,X, , , , 
-Conclusion of the Assignment, ,X, , , , 
-Conclusion, , ,X, , , 
-Other Features, , , , , , 
-Presentation of references, , ,X, , , 
-Spelling, , ,X, , , 
-Grammar and Syntax, , ,X, , , 
-Final Grade, , , , , ,B-
+Criteria,Needs much more work,Needs some more work,Satisfactory,Very Good,Excellent
+Introduction to the Assignment, , , , , 
+Interpretation of task and introduction, , , ,X, 
+Orderly Development, , , ,X, 
+Use of sources and evidence, , , ,X, 
+Subject relevance, , ,X, , 
+Understanding of topic, , ,X, , 
+Constructive critical analysis, , ,X, , 
+Insight and originality, , ,X, , 
+Conclusion of the Assignment, , , ,X, 
+Conclusion, , , ,X, 
+Other Features, , , , , 
+Presentation of references, , , ,X, 
+Spelling, , , ,X, 
+Grammar and Syntax, , , ,X,
 ```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Christology in Hebrews
-The author argues that the writer of Hebrews establishes the supremacy of Christ by contrasting him with angelic figures, using Old Testament quotations to highlight his unique status as the Son.
+### Theme: Superiority of Christ
+The author of Hebrews argues for the supremacy of Christ over angels, prophets, and Moses. This is established through Christ's unique title as 'Son,' his role as the agent of creation, and his eternal, unchanging nature compared to the created order.
 
-### Theme: Rhetorical Argumentation
-The essay analyzes the 'lesser to greater' (qal wahomer) rhetorical strategy employed throughout Hebrews to warn against drifting from the faith by demonstrating the severity of ignoring the greater revelation of Christ.
+### Theme: Lesser to Greater Argument (Qal Wahomer)
+The document identifies the use of the 'qal wahomer' rhetorical device, where the author of Hebrews argues that if the Old Testament revelation (mediated by angels) carried weight, the New Testament revelation (mediated by the Son) carries a significantly greater obligation for the reader to heed.
 
-### Theme: Audience and Context
-The text situates the recipients of Hebrews in a historical period characterized by internal weakness and external pressure, potentially prior to the destruction of the Temple in 70 CE.
+### Theme: Apostasy and Drifting
+The text highlights the danger of 'drifting' away from the faith. The author of Hebrews uses nautical imagery to warn readers against spiritual sluggishness and the neglect of the Gospel, which is presented as a severe danger given the greatness of the salvation offered.
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "The aim of this essay is to show how the author of Hebrews compares the superiority of Christ with the angels to stimulate a response from his audience, and why he needed to do this."
-*Context Source: Introduction, page 5*
+## 4. Key Verbatim Assertions & Quotes
+> "As Son, Jesus stands in contrast to the Prophets (Heb. 1:1-4), to angels (Heb. 1:5-14), and to Moses (Heb. 3:2). All these figures were agents of God's revelation to human beings, and Hebrews accepts the validity and importance of God's speaking through them, while stressing the surpassing greatness of the revelation through the Son."
+*Source: Page 8, Superiority of Christ to the angels*
 
-> "The author argues that God is more concerned about the descendants of Abraham than angels (Heb.2:16). This would only appeal to a Jewish/Christian readership that had interests in elevating angelic celestial hierarchy, rather than Christ's superiority."
-*Context Source: Reasons for writing Hebrews, page 6*
+> "The force of the expression in Hebrews is to characterise the Son as the one through whom God spoke his final and decisive word."
+*Source: Page 14, Warnings and Encouragement, Past and Present*
 
-> "A typical example of the argument used by the author in Hebrews is the rule of 'qal wahomer' or 'lesser to greater argument.'"
-*Context Source: Lesser to greater argument, page 15*
+> "The Israelites did not escape their judgement in the wilderness, namely, failure to enter the Promised Land and physical death; (using the qal wahomer rule then:) the reader who falls away will not escape a greater judgement, namely, failure to enter heaven and the 'second death' of (Rev.20:6)."
+*Source: Page 16, Hebrews; a warning to the twenty first century generation*
+
+> "The supremacy of Christ is the nautical anchor proposed by the author to secure the sluggish Christian reader to the faith during tempestuous seas of persecution."
+*Source: Page 15, Christ's supremacy, the anchor for the drifting Christian*

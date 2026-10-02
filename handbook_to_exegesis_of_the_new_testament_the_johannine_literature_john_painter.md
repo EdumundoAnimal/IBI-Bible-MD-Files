@@ -1,7 +1,7 @@
 ---
 title: "Handbook to Exegesis of the New Testament: The Johannine Literature"
 author: "John Painter"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,49 +13,41 @@ aliases:
 # Handbook to Exegesis of the New Testament: The Johannine Literature
 **Author:** [[John Painter]]
 
-## 1. Cleaned Document Text
-This document is a scholarly analytical overview of the Johannine literature, specifically examining the Gospel of John, the Epistles, and Revelation. It addresses questions of authorship, date of composition, provenance, and the theological and literary structures that define this corpus. The text argues for a multi-layered understanding of these texts, highlighting the conflict with the synagogue, the concept of dualism, and the specific exegesis of themes such as the 'Lamb of God', 'Signs', and the 'Farewell Discourses'. It also investigates the historical community setting and the development of Johannine Christology.
+## 1. Verbatim Source Text
+### The Johannine Corpus
+
+The Johannine literature consists of the Gospel of John, the Epistles of John and Revelation or the Apocalypse. While contemporary scholars generally recognize that the Gospel and Epistles came from the Johannine school, if not from the same author, few would set Revelation in the same context. For most Johannine scholars the views of Schüssler Fiorenza concerning the relationship of Revelation to the rest of the Johannine literature are to the point. Schüssler Fiorenza is of the view that Revelation is closer to Pauline than Johannine Christianity (Schüssler Fiorenza 1976-77). Revelation does not share the common language exhibited by the other Johannine books, which differ greatly from Revelation's apocalyptic genre. While Revelation combines the form of letters and prophecy, the apocalyptic genre is dominant. The element that is thought most to distinguish Revelation from the rest of the Johannine literature is its dominant imminent future eschatology. This eschatology is set in the context of a dualistic worldview, which portrays the present world as under the power of evil. The expectation in the hoped-for coming of the Lord is that he will overthrow the power of evil. Differences in the Johannine literature should not be ignored, but connections often go unnoticed and differences are exaggerated because no allowance is made for the influence of genre in the construction of Gospel and Apocalypse. Revelation shares with the Gospel the concentration on the language of 'witness', the identification of Jesus as the 'Word of God', and the focus on the role of the Spirit and the theme of 'abiding'. Both authors quote Zech. 12:10 using ἐξεκέντησαν, which is not in the LXX. Both use the phrases 'to keep the word' or 'to keep the commandments', 'whoever thirsts let him come', and the term 'to overcome (conquer)'. The Christ of the Gospel and Apocalypse is a pre-existent being, a judge who knows the hearts and thoughts of people. Further, the dualistic worldview of Revelation is not foreign to the Gospel and epistles, which refer to the prince of this world (John 12:31) and assert that the whole world lies in the power of the evil one (1 John 5:19). While the main focus is on present fulfilment, the Gospel and epistles also maintain a future eschatological perspective (John 5:28-29, 6:39, 40, 44, 54; 11:24; 14:3; 1 John 2:18, 28; 3:2; 4:17). Revelation is oriented to the imminent future, but present fulfilment is assumed, though it is obscured by the symbolic mode of communication that is common to apocalypses. Certainly there is a shift of balance to the present, especially in the Gospel, but this difference may not be as great as it first seems to be the case. The major difference is between the Gospel genre and letter genre as distinct from that of an apocalypse. We are not dealing with pure, hermetically-sealed genres, but apocalyptic dominates Revelation, while the narrative of the ministry of Jesus dominates the Gospel. 1 John is something of a cross between a letter and a tract. It lacks the address and signature of a letter, but is addressed to a more specific group of readers than Revelation is the case with a tract.
 
 ## 2. Quantitative Metric Tables
 ### Table 1
 ```csv
 Mark,John
 1:4-8,1:19-36
-1:14-15,4:43
+1:14-15,4:3
 6:34-44,6:1-13
 6:45-52,6:16-21
 8:29,6:68-69
 9:30-31,7:10-14
-10:1,32,46,11:1-10
-11:1-10,12:12-15
-14:3-9,12:1-8
+10:1,32,46,12:12-15
+11:1-10,12:1-8
 14:17-26,13:1-17:26
-14:53-52,18:1-11
-14:53-68,18:12-20:29
+14:43-52,18:1-11
+14:53-62,18:12-20:29
 ```
 
 ## 3. Thematic Analysis Matrices
 ### Theme: Johannine Dualism
-The author argues that Johannine literature is governed by a dualistic worldview, specifically the antithesis between light and darkness, and the expectation of an imminent struggle where the Lord overthrows the power of evil.
+The text argues that a dualistic worldview is central to both the Gospel of John and Revelation, characterized by the conflict between light and darkness, and the assertion that the world is under the power of the evil one.
 
-### Theme: Conflict with the Synagogue
-The text posits that the Gospel of John was shaped by the specific crisis of the Johannine community's exclusion from the synagogue, leading to an emphasis on the confession of Jesus as the Christ.
+### Theme: Genre Influence
+Painter suggests that differences between the Johannine books are often exaggerated by scholars who fail to account for the influence of genre (Gospel vs. Apocalypse vs. Letter) on the construction of the text.
 
-### Theme: Multi-stage Composition
-The argument that the Johannine corpus was not the work of a single moment but developed over time, specifically identifying the 'beloved disciple' and the editorial work of the Johannine school in the final chapters of the Gospel.
-
-### Theme: Signs and Christology
-Analysis of the 'signs' (miracles) in the Gospel of John as purposeful revelations of divine identity, designed to lead readers to a specific Christological confession.
-
-## 4. Evidence Matrix & Verbatim Assertions
+## 4. Key Verbatim Assertions & Quotes
 > "The Johannine literature consists of the Gospel of John, the Epistles of John and Revelation or the Apocalypse."
-*Context Source: Page 3*
+*Source: Page 566, The Johannine Corpus*
 
-> "The dualistic worldview of Revelation is not foreign to the Gospel and epistles, which refer to the prince of this world (John 12:31) and assert that the whole world lies in the power of the evil one (1 John 5:19)."
-*Context Source: Page 3*
+> "The Christ of the Gospel and Apocalypse is a pre-existent being, a judge who knows the hearts and thoughts of people."
+*Source: Page 566, The Johannine Corpus*
 
-> "The Gospel of John was shaped by the trauma of exclusion from the synagogue, and to prepare believers for the crises it could cause."
-*Context Source: Page 8*
-
-> "The Gospel is especially marked by certain characteristic sets of symbols, most notably the antithesis of light and darkness."
-*Context Source: Page 9*
+> "The Gospel is especially marked by certain characteristic signs symbols, most notably the antithesis of light and darkness."
+*Source: Page 575, Language and Worldview*

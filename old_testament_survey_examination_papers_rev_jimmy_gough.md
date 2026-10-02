@@ -1,7 +1,7 @@
 ---
 title: "Old Testament Survey Examination Papers"
 author: "Rev Jimmy Gough"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -13,28 +13,38 @@ aliases:
 # Old Testament Survey Examination Papers
 **Author:** [[Rev Jimmy Gough]]
 
-## 1. Cleaned Document Text
-This document contains examination papers from the CFI Training Centre for the 'Old Testament Survey' module, dated December 2004 and December 2006. The exams are for the Bachelor of Theology programme (University of Wales, Level 1). The documents outline specific academic essay prompts related to Old Testament theology, including topics like the fall of humankind, leadership in Israel, the role of prophets, the suffering servant, and post-exilic reforms. Page 3 provides handwritten student notes summarizing the book of Ecclesiastes, identifying it as the work of the 'Philosopher or Speaker' and outlining themes of temporal life and the necessity of fearing God.
+## 1. Verbatim Source Text
+### CFI Training Centre Examination for First Semester 2004/05
+
+CFI Training Centre Examination for First Semester 2004/05 Programme: Bachelor of Theology, Validated by University of Wales Level: 1 Old Testament Survey Course Instructor: Rev Jimmy Gough Date and time of exam: 9.30am, 13 December 2004 Time allotted: 1½ hours Instructions Attempt two of the following five questions. Use a pen (not a pencil) and write on one side of the paper only. Use examination booklets provided. All questions carry equal marks. 1. Discuss the effect of the fall of humankind on the created order. 2. Compare and contrast the leadership of David to that of Solomon as presented in the Old Testament. 3. Explain how Elijah serves as a critique of the reign of Ahab and Jezebel. 4. Outline why the 'suffering servant' of Isaiah has often been identified with Jesus in Christian interpretation. 5. Discuss the similarities and differences in regard to intermarriage and divorce in the books of Ezra, Nehemiah, and Malachi.
+
+### CFI Training Centre Examination for First Semester 2006/07
+
+CFI Training Centre Examination for First Semester 2006/07 Programme: Bachelor of Theology, Validated by University of Wales Level: 1 Old Testament Survey Module Instructor: James Gough Date and time of exam: Tuesday 12th December 2006 (9.30) Time allotted: 1½ hours Instructions Attempt two of the following five questions. Use a pen (not a pencil) and write on one side of the paper only. Use examination booklets provided. An unmarked Bible provided by the college may be used. All questions carry equal marks. 1. Explain the role and function of the High Priest with regard to the Tabernacle. 2. Outline the circumstances surrounding the separation of Israel into the Northern and Southern kingdoms. 3. Giving examples, summarise how the book of Judges records the cycle of Israelite unfaithfulness and God's restoration of his people. 4. Discuss the idea of spiritual adultery as used in the prophetic book of Hosea. 5. Set out the reforms brought about in post-exilic Israel by leaders such as Nehemiah and Malachi.
+
+### Ecclesiastes Notes
+
+Ecclesiastes. - Qohelet - 'philosopher or speaker' 1 Title & theme (1:1-1:11) 2 Wisdom's reflection (1:12-4:16) 3 Admonitions and observations (5:1-12:8) 4 Conclusion (12:9-12:14) - See life 'Under the Sun' - Temporal. - Some day God will judge both Good & Evil. So it is better to live life with the fear of God.
 
 ## 3. Thematic Analysis Matrices
-### Theme: Theological Critique
-Examination of how prophetic figures, such as Elijah and Hosea, challenged the political and spiritual failures of Israelite leadership, specifically regarding 'spiritual adultery' and corrupt rule.
+### Theme: Theological Cycles
+The examination questions highlight the recurring cycle of Israelite unfaithfulness and divine restoration, particularly within the book of Judges.
 
-### Theme: Post-Exilic Reform
-Analysis of the restructuring of religious and social life in post-exilic Israel, particularly concerning intermarriage and divorce as addressed by Nehemiah and Malachi.
+### Theme: Wisdom Literature
+The notes on Ecclesiastes emphasize the 'Under the Sun' perspective, characterizing life as temporal and ultimately subject to divine judgment, necessitating the fear of God.
 
-### Theme: Existential Wisdom
-Analysis of the book of Ecclesiastes as a reflection on the temporal nature of life 'under the sun' and the ultimate judgment of both good and evil deeds.
+### Theme: Prophetic Critique
+The curriculum focuses on the role of prophets like Elijah and Hosea in critiquing political and spiritual corruption, such as the reign of Ahab and Jezebel or the concept of spiritual adultery.
 
-### Theme: Messianic Interpretation
-The hermeneutical connection between the 'suffering servant' motif in Isaiah and Christian interpretations identifying the figure with Jesus.
+## 4. Key Verbatim Assertions & Quotes
+> "So it is better to live life with the fear of God."
+*Source: Ecclesiastes Notes, Conclusion*
 
-## 4. Evidence Matrix & Verbatim Assertions
-> "See life 'Under the Sun' - Temporal. Some day God will Judge both Good & Evil. So it is better to live life with the fear of God."
-*Context Source: Handwritten notes on page 3 regarding the structure and conclusion of Ecclesiastes.*
-
-> "Discuss the similarities and differences in regard to intermarriage and divorce in the books of Ezra, Nehemiah, and Malachi."
-*Context Source: Examination question 5 on the December 2004 exam paper.*
+> "Explain how Elijah serves as a critique of the reign of Ahab and Jezebel."
+*Source: 2004/05 Examination, Question 3*
 
 > "Discuss the idea of spiritual adultery as used in the prophetic book of Hosea."
-*Context Source: Examination question 4 on the December 2006 exam paper.*
+*Source: 2006/07 Examination, Question 4*
+
+> "Outline why the 'suffering servant' of Isaiah has often been identified with Jesus in Christian interpretation."
+*Source: 2004/05 Examination, Question 4*
