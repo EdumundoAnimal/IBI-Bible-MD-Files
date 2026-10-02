@@ -1,7 +1,7 @@
 ---
 title: "Be Skillful: A Matter of Life or Death (Human Speech)"
 author: "Warren W. Wiersbe"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,30 @@ aliases:
 **Author:** [[Warren W. Wiersbe]]
 
 ## 1. Cleaned Document Text
-The document is a collection of excerpts from religious texts, specifically focused on a commentary of Psalm 37 by C.H. Spurgeon and a chapter titled 'A Matter of Life or Death (Human Speech)' by Warren W. Wiersbe, which discusses the biblical ethics and moral implications of human communication as found in the Book of Proverbs.
+The document, part of a book titled Be Skillful, examines the biblical perspective on human speech, specifically analyzing Proverbs and other scriptural references. It highlights the power of the tongue as a matter of life or death, emphasizing that speech should be used to do good, offer encouragement, and glorify God. The text explores the dangers of gossip, lying, flattery, and anger in speech, while advocating for speech seasoned with grace, wisdom, and truth. It also discusses the connection between a transformed heart and transformed speech, urging readers to seek God's guidance in their daily communication to avoid destructive habits and promote healing and righteousness.
+
+## 2. Quantitative Metric Tables
+### Table 1
+```csv
+Concept,Biblical Source,Application,Negative Influence,Positive Influence;Speech Gift,Prov 10:11 / 18:21,Used for good/wisdom,Gossip/Lies,Healing/Nourishment;Heart-Speech Connection,Matt 12:34 / Prov 16:23,Transformation starts in heart,Abundance of evil,Abundance of good;Relational Impact,Prov 15:1 / 18:18,Conciliatory attitude,Stirs up contention,Turns away wrath
+```
 
 ## 3. Thematic Analysis Matrices
-### Theme: Biblical ethics of speech
-The text argues that human speech is a moral issue, capable of destruction or life-giving sustenance, and that individuals should use speech in accordance with God's word and truth.
+### Theme: Power of the Tongue
+Speech is presented as a high-stakes tool capable of either bringing life or death; therefore, believers must be mindful and intentional with their words.
 
-### Theme: The contrast between the righteous and the wicked
-Using Psalm 37 as a foundational text, the documents emphasize that while the wicked may appear to prosper temporarily, the righteous are ultimately protected and preserved by God's faithfulness.
+### Theme: Heart-Speech Connection
+The argument that outward speech is a direct manifestation of the inward condition of the heart, necessitating spiritual transformation as the root solution to poor communication.
 
-### Theme: Wisdom and patience
-A core argument that believers should not be moved by the outward prosperity of the ungodly, but rather exercise patience and wait upon the Lord.
+### Theme: Redemptive Communication
+The biblical imperative to use speech for the benefit of others, such as building up the body of Christ, providing godly counsel, and speaking truth instead of flattery or lies.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "FRET not thyself because of evildoers, neither be thou envious against the workers of iniquity."
-*Context Source: Psalm 37, Page 3*
-
-> "The tongue of the just is as choice silver: the heart of the wicked is little worth."
-*Context Source: A Matter of Life or Death, Page 23*
-
 > "Death and life are in the power of the tongue."
-*Context Source: A Matter of Life or Death, Page 28*
+*Context Source: Page 113, Proverbs 18:21*
+
+> "A soft answer turneth away wrath, but a grievous word stirreth up anger."
+*Context Source: Page 114, Proverbs 15:1*
+
+> "The mouth of the righteous is a fountain of life."
+*Context Source: Page 123, Proverbs 10:11*

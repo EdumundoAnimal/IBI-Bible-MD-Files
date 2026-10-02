@@ -1,7 +1,7 @@
 ---
 title: "The Proverbs: An Introduction and Commentary"
 author: "Derek Kidner"
-processed_date: 2026-09-01
+processed_date: 2026-10-02
 type: literature-note
 tags:
   - document-pipeline/bible/study/analysis
@@ -14,24 +14,24 @@ aliases:
 **Author:** [[Derek Kidner]]
 
 ## 1. Cleaned Document Text
-The document provides an introduction and commentary on the Book of Proverbs, specifically focusing on the thematic subject studies of 'Words' and 'The Family'. It explores the power, weakness, and proper use of speech within the context of the Proverbs, as well as the roles of husband and wife within an Israelite household.
+The document provides an introductory commentary on the Book of Proverbs, specifically focusing on the power and impact of words and the nature of the family unit within the context of Proverbs. It examines the destructive and constructive capacities of human speech, highlighting the role of wisdom, honesty, and calmness in communication. Additionally, it addresses the ideal of marriage in the Israelite context, emphasizing the bond between husband and wife.
 
 ## 3. Thematic Analysis Matrices
-### Theme: The Power of Words
-Proverbs emphasizes that words have the ability to inflict emotional harm, akin to a sword, or to provide healing. Unchecked speech can lead to relational disruption, while mindful speech promotes wisdom and preserves friendships.
+### Theme: Power of Words
+Proverbs highlights how speech can lead to betrayal, destruction, or healing. Words can wound like a sword or provide a fountain of life depending on their usage and intent.
 
 ### Theme: The Weakness of Words
-Words alone are insufficient without concrete actions. The text argues that rhetoric cannot replace integrity or the evidence of deeds, noting that mere talk is often a mask for a lack of genuine substance.
+Mere words cannot substitute for deeds. Empty rhetoric cannot overcome facts or replace the need for genuine, disciplined action.
 
-### Theme: The Family (Husband and Wife)
-The commentary highlights the importance of monogamy, mutual loyalty, and effective communication between spouses, characterizing marriage as a partnership grounded in companionship rather than just domestic utility.
+### Theme: Husband and Wife
+Proverbs promotes the ideal of the monogamous relationship between a husband and wife, characterized by loyalty and mutual affection, standing in contrast to the discord often associated with polygamy.
 
 ## 4. Evidence Matrix & Verbatim Assertions
-> "Death and life are in the power of the tongue"
+> "Death and life are in the power of the tongue."
 *Context Source: Page 3, Section I: The Power of Words*
 
-> "The mind of the righteous is weighed against 'the worth of the wicked', and their values ('choice silver', 'little worth') are compared directly"
-*Context Source: Page 4, Section I: b. The making of them*
+> "They are no substitute for deeds. The contrast drawn between 'tail' and 'mere talk', as a saying to be framed and hung in council rooms, effectively balances section I."
+*Context Source: Page 3, Section II: The Weakness of Words*
 
-> "While kings allowed themselves the doubtful luxury of polygamy the ordinary israelite seldom resorted to it, and in Proverbs the union with one woman is clearly shown to be the norm"
-*Context Source: Page 4, Section I: The Family - Husband and Wife*
+> "The union with one woman is clearly shown to be the norm, both by the absence of any allusion to the discords of polygamy... and by the fully personal bond that exists between husband and wife."
+*Context Source: Page 4, Section I: Husband and Wife*
